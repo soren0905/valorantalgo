@@ -1,0 +1,3537 @@
+[
+    {
+        "id": "624",
+        "name": "Paper Rex",
+        "country": "Singapore"
+    },
+    {
+        "id": "4050",
+        "name": "FULL SENSE",
+        "country": "Thailand"
+    },
+    {
+        "id": "4210",
+        "name": "Made in Thailand",
+        "country": "Thailand"
+    },
+    {
+        "id": "466",
+        "name": "BOOM Esports",
+        "country": "Indonesia"
+    },
+    {
+        "id": "10597",
+        "name": "ONE Team Esports",
+        "country": "Taiwan"
+    },
+    {
+        "id": "6199",
+        "name": "Team Secret",
+        "country": "Philippines"
+    },
+    {
+        "id": "7031",
+        "name": "NAOS",
+        "country": "Philippines"
+    },
+    {
+        "id": "6387",
+        "name": "BLEED",
+        "country": "Singapore"
+    },
+    {
+        "id": "4330",
+        "name": "Fancy United Esports",
+        "country": "Vietnam"
+    },
+    {
+        "id": "14805",
+        "name": "ORGLESS",
+        "country": "Singapore"
+    },
+    {
+        "id": "3351",
+        "name": "LaZe",
+        "country": "Singapore"
+    },
+    {
+        "id": "6665",
+        "name": "Team NKT",
+        "country": "Thailand"
+    },
+    {
+        "id": "8030",
+        "name": "MLT Esports",
+        "country": "Bangladesh"
+    },
+    {
+        "id": "3136",
+        "name": "Oasis Gaming",
+        "country": "Philippines"
+    },
+    {
+        "id": "4733",
+        "name": "True Rippers",
+        "country": "India"
+    },
+    {
+        "id": "14277",
+        "name": "Team Flash",
+        "country": "Vietnam"
+    },
+    {
+        "id": "3108",
+        "name": "Oblivion Force",
+        "country": "Hong Kong"
+    },
+    {
+        "id": "10979",
+        "name": "Kizuna Esports",
+        "country": "Singapore"
+    },
+    {
+        "id": "8375",
+        "name": "ZOL Esports",
+        "country": "Philippines"
+    },
+    {
+        "id": "8369",
+        "name": "Revenant Esports",
+        "country": "India"
+    },
+    {
+        "id": "8304",
+        "name": "Talon Esports",
+        "country": "Thailand"
+    },
+    {
+        "id": "1110",
+        "name": "Alter Ego",
+        "country": "Indonesia"
+    },
+    {
+        "id": "13368",
+        "name": "Grayfox Esports",
+        "country": "India"
+    },
+    {
+        "id": "1033",
+        "name": "Reckoning Esports",
+        "country": "India"
+    },
+    {
+        "id": "15058",
+        "name": "OLD STINKY CAT",
+        "country": "Philippines"
+    },
+    {
+        "id": "14773",
+        "name": "Disguised",
+        "country": "Singapore"
+    },
+    {
+        "id": "8925",
+        "name": "ARF TEAM",
+        "country": "Indonesia"
+    },
+    {
+        "id": "623",
+        "name": "Sharper Esport",
+        "country": "Thailand"
+    },
+    {
+        "id": "14752",
+        "name": "MABUHAY",
+        "country": "Indonesia"
+    },
+    {
+        "id": "10147",
+        "name": "Gods Reign",
+        "country": "India"
+    },
+    {
+        "id": "11275",
+        "name": "LAZY",
+        "country": "Vietnam"
+    },
+    {
+        "id": "15306",
+        "name": "Chinggis Warriors",
+        "country": "Mongolia"
+    },
+    {
+        "id": "878",
+        "name": "Rex Regum Qeon",
+        "country": "Indonesia"
+    },
+    {
+        "id": "14634",
+        "name": "PEI WAN E-SPORTS",
+        "country": "Taiwan"
+    },
+    {
+        "id": "8303",
+        "name": "S2 Esports",
+        "country": "Taiwan"
+    },
+    {
+        "id": "15052",
+        "name": "JustUs",
+        "country": "Philippines"
+    },
+    {
+        "id": "14385",
+        "name": "Kimchi Fried Rice",
+        "country": "Singapore"
+    },
+    {
+        "id": "10294",
+        "name": "NEXGA",
+        "country": "Malaysia"
+    },
+    {
+        "id": "13743",
+        "name": "Team Kobolds",
+        "country": "Mongolia"
+    },
+    {
+        "id": "14795",
+        "name": "Anita Max Wynn",
+        "country": "Singapore"
+    },
+    {
+        "id": "14743",
+        "name": "Bin Truong",
+        "country": "Indonesia"
+    },
+    {
+        "id": "3437",
+        "name": "Dewa United Esports",
+        "country": "Indonesia"
+    },
+    {
+        "id": "14809",
+        "name": "Ninjas in Galaxy",
+        "country": "Singapore"
+    },
+    {
+        "id": "11276",
+        "name": "Rapid Lofi",
+        "country": "Vietnam"
+    },
+    {
+        "id": "14793",
+        "name": "322",
+        "country": "Singapore"
+    },
+    {
+        "id": "13382",
+        "name": "Team MysticX",
+        "country": "Pakistan"
+    },
+    {
+        "id": "15016",
+        "name": "T\u00e0n D\u01b0 Esports",
+        "country": "Vietnam"
+    },
+    {
+        "id": "15065",
+        "name": "Carti Esports",
+        "country": "Philippines"
+    },
+    {
+        "id": "14754",
+        "name": "THE HERO",
+        "country": "Indonesia"
+    },
+    {
+        "id": "15018",
+        "name": "NCTDK",
+        "country": "Vietnam"
+    },
+    {
+        "id": "14750",
+        "name": "Devilz GG",
+        "country": "Indonesia"
+    },
+    {
+        "id": "14196",
+        "name": "APAC Slayer",
+        "country": "Indonesia"
+    },
+    {
+        "id": "14767",
+        "name": "Consolidate Gaming",
+        "country": "India"
+    },
+    {
+        "id": "13768",
+        "name": "MiBH",
+        "country": "India"
+    },
+    {
+        "id": "14763",
+        "name": "The Covenant",
+        "country": "Bangladesh"
+    },
+    {
+        "id": "8587",
+        "name": "The Mad Men",
+        "country": "Vietnam"
+    },
+    {
+        "id": "14199",
+        "name": "BIGG Motley",
+        "country": "Indonesia"
+    },
+    {
+        "id": "5960",
+        "name": "BEAST",
+        "country": "Indonesia"
+    },
+    {
+        "id": "15061",
+        "name": "BNB",
+        "country": "Philippines"
+    },
+    {
+        "id": "14616",
+        "name": "Barn nong chok",
+        "country": "Thailand"
+    },
+    {
+        "id": "7039",
+        "name": "Stream Raiders Nacague",
+        "country": "Philippines"
+    },
+    {
+        "id": "8929",
+        "name": "Hungkuang Falcon",
+        "country": "Taiwan"
+    },
+    {
+        "id": "15051",
+        "name": "Jogojogokids125",
+        "country": "Philippines"
+    },
+    {
+        "id": "15237",
+        "name": "The MongolZ",
+        "country": "Mongolia"
+    },
+    {
+        "id": "918",
+        "name": "Global Esports",
+        "country": "India"
+    },
+    {
+        "id": "13978",
+        "name": "Ivy League Gaming",
+        "country": "Philippines"
+    },
+    {
+        "id": "13977",
+        "name": "Valhalla",
+        "country": "Philippines"
+    },
+    {
+        "id": "15070",
+        "name": "Tropa Tropa Gang",
+        "country": "Philippines"
+    },
+    {
+        "id": "15067",
+        "name": "Adamant Celestials",
+        "country": "Philippines"
+    },
+    {
+        "id": "14802",
+        "name": "Redsea Esport",
+        "country": "Malaysia"
+    },
+    {
+        "id": "8484",
+        "name": "Medal Esports",
+        "country": "India"
+    },
+    {
+        "id": "15019",
+        "name": "Original Gaming",
+        "country": "Vietnam"
+    },
+    {
+        "id": "14009",
+        "name": "Solus Esports",
+        "country": "Indonesia"
+    },
+    {
+        "id": "15015",
+        "name": "KOBIET",
+        "country": "Vietnam"
+    },
+    {
+        "id": "13374",
+        "name": "AIRAVATA ESPORTS",
+        "country": "India"
+    },
+    {
+        "id": "15309",
+        "name": "Rise Up",
+        "country": "Mongolia"
+    },
+    {
+        "id": "14007",
+        "name": "Crocodile Tears",
+        "country": "Vietnam"
+    },
+    {
+        "id": "15017",
+        "name": "Cyberking PSE",
+        "country": "Vietnam"
+    },
+    {
+        "id": "15064",
+        "name": "KNG EMPIRE",
+        "country": "Philippines"
+    },
+    {
+        "id": "15014",
+        "name": "SnowFox Esports",
+        "country": "Vietnam"
+    },
+    {
+        "id": "5426",
+        "name": "The Infinity Esport",
+        "country": "Thailand"
+    },
+    {
+        "id": "15062",
+        "name": "NO LUCK PURE SKILL",
+        "country": "Philippines"
+    },
+    {
+        "id": "15066",
+        "name": "EXTINGUISH",
+        "country": "Philippines"
+    },
+    {
+        "id": "15057",
+        "name": "Insurgo Alpha",
+        "country": "Philippines"
+    },
+    {
+        "id": "7397",
+        "name": "XERXIA Esports",
+        "country": "Thailand"
+    },
+    {
+        "id": "10592",
+        "name": "ROA Esport",
+        "country": "Taiwan"
+    },
+    {
+        "id": "879",
+        "name": "Todak",
+        "country": "Malaysia"
+    },
+    {
+        "id": "15050",
+        "name": "No Org",
+        "country": "Philippines"
+    },
+    {
+        "id": "15059",
+        "name": "NOXA Ares",
+        "country": "Philippines"
+    },
+    {
+        "id": "14799",
+        "name": "Please Don't Fire",
+        "country": "Singapore"
+    },
+    {
+        "id": "8485",
+        "name": "prime 5",
+        "country": "Pakistan"
+    },
+    {
+        "id": "15308",
+        "name": "Valiance",
+        "country": "Mongolia"
+    },
+    {
+        "id": "14814",
+        "name": "Future Greats",
+        "country": "Singapore"
+    },
+    {
+        "id": "14798",
+        "name": "ROX",
+        "country": "Malaysia"
+    },
+    {
+        "id": "15060",
+        "name": "Me and my Friends",
+        "country": "Philippines"
+    },
+    {
+        "id": "14205",
+        "name": "Dieversity Esports",
+        "country": "India"
+    },
+    {
+        "id": "6397",
+        "name": "Five Ace Esports",
+        "country": "Taiwan"
+    },
+    {
+        "id": "14148",
+        "name": "Valee Thai Esports",
+        "country": "Thailand"
+    },
+    {
+        "id": "13763",
+        "name": "Hyderabad Hydras",
+        "country": "India"
+    },
+    {
+        "id": "1485",
+        "name": "Aricat Esport Family",
+        "country": "Thailand"
+    },
+    {
+        "id": "14819",
+        "name": "Carnival Gaming",
+        "country": "India"
+    },
+    {
+        "id": "910",
+        "name": "Exceeli Esports",
+        "country": "Bangladesh"
+    },
+    {
+        "id": "14818",
+        "name": "Serenity Esports",
+        "country": "Singapore"
+    },
+    {
+        "id": "5455",
+        "name": "Lethal Esports",
+        "country": "India"
+    },
+    {
+        "id": "3490",
+        "name": "LP33",
+        "country": "Taiwan"
+    },
+    {
+        "id": "15307",
+        "name": "Baavgai United",
+        "country": "Mongolia"
+    },
+    {
+        "id": "14811",
+        "name": "ENDER",
+        "country": "Singapore"
+    },
+    {
+        "id": "5998",
+        "name": "SUS SquaD",
+        "country": "India"
+    },
+    {
+        "id": "8904",
+        "name": "Orangutan",
+        "country": "India"
+    },
+    {
+        "id": "8741",
+        "name": "Blitz Esports",
+        "country": "Malaysia"
+    },
+    {
+        "id": "14740",
+        "name": "5 Clown",
+        "country": "Indonesia"
+    },
+    {
+        "id": "14711",
+        "name": "Geek Fam",
+        "country": "Philippines"
+    },
+    {
+        "id": "11277",
+        "name": "Kuzu Esports",
+        "country": "Malaysia"
+    },
+    {
+        "id": "14636",
+        "name": "yuanyoyin",
+        "country": "Taiwan"
+    },
+    {
+        "id": "10356",
+        "name": "AIM PH",
+        "country": "Philippines"
+    },
+    {
+        "id": "11238",
+        "name": "TwoKay",
+        "country": "Vietnam"
+    },
+    {
+        "id": "11318",
+        "name": "SendTreePay",
+        "country": "Taiwan"
+    },
+    {
+        "id": "4860",
+        "name": "Dominus Esports",
+        "country": "Vietnam"
+    },
+    {
+        "id": "6961",
+        "name": "LOUD",
+        "country": "Brazil"
+    },
+    {
+        "id": "15117",
+        "name": "Hero Base",
+        "country": "Brazil"
+    },
+    {
+        "id": "7386",
+        "name": "MIBR",
+        "country": "Brazil"
+    },
+    {
+        "id": "15072",
+        "name": "2Game Esports",
+        "country": "Brazil"
+    },
+    {
+        "id": "1124",
+        "name": "RED Canids",
+        "country": "Brazil"
+    },
+    {
+        "id": "15021",
+        "name": "Legacy",
+        "country": "Brazil"
+    },
+    {
+        "id": "10755",
+        "name": "Galorys",
+        "country": "Brazil"
+    },
+    {
+        "id": "2406",
+        "name": "FURIA",
+        "country": "Brazil"
+    },
+    {
+        "id": "14470",
+        "name": "OLIMPO",
+        "country": "Brazil"
+    },
+    {
+        "id": "13683",
+        "name": "SAGAZ",
+        "country": "Brazil"
+    },
+    {
+        "id": "10727",
+        "name": "Stellae Gaming",
+        "country": "Brazil"
+    },
+    {
+        "id": "14547",
+        "name": "Spirit Academy",
+        "country": "Brazil"
+    },
+    {
+        "id": "15523",
+        "name": "011013053021",
+        "country": "Brazil"
+    },
+    {
+        "id": "7055",
+        "name": "Team Liquid Brazil",
+        "country": "Brazil"
+    },
+    {
+        "id": "15277",
+        "name": "Team Leveling",
+        "country": "Brazil"
+    },
+    {
+        "id": "6946",
+        "name": "TBK Esports",
+        "country": "Brazil"
+    },
+    {
+        "id": "15163",
+        "name": " trator croata",
+        "country": "Brazil"
+    },
+    {
+        "id": "14647",
+        "name": "SAIDEIRA ESPORTS",
+        "country": "Brazil"
+    },
+    {
+        "id": "15161",
+        "name": "2007",
+        "country": "Brazil"
+    },
+    {
+        "id": "15074",
+        "name": "XLD Gaming",
+        "country": "Brazil"
+    },
+    {
+        "id": "15520",
+        "name": "nnnnnnnnn",
+        "country": "Brazil"
+    },
+    {
+        "id": "14557",
+        "name": "os piticos",
+        "country": "Brazil"
+    },
+    {
+        "id": "15296",
+        "name": "OS CARA CEGO 2.0",
+        "country": "Brazil"
+    },
+    {
+        "id": "15521",
+        "name": "NoOrg9",
+        "country": "Brazil"
+    },
+    {
+        "id": "15169",
+        "name": "PELOTAO DOS RAUL",
+        "country": "Brazil"
+    },
+    {
+        "id": "15295",
+        "name": "xerecrazy",
+        "country": "Brazil"
+    },
+    {
+        "id": "14654",
+        "name": "JUMENTUS",
+        "country": "Brazil"
+    },
+    {
+        "id": "15284",
+        "name": "revoada",
+        "country": "Brazil"
+    },
+    {
+        "id": "13910",
+        "name": "Authority Fate",
+        "country": "Brazil"
+    },
+    {
+        "id": "15298",
+        "name": "lanchonete do gerso",
+        "country": "Brazil"
+    },
+    {
+        "id": "12192",
+        "name": "LOUD GC",
+        "country": "Brazil"
+    },
+    {
+        "id": "14204",
+        "name": "KAMI TENCHI",
+        "country": "Brazil"
+    },
+    {
+        "id": "13995",
+        "name": " amamosfranjudas",
+        "country": "Brazil"
+    },
+    {
+        "id": "10933",
+        "name": "ULTIMATE",
+        "country": "Brazil"
+    },
+    {
+        "id": "14558",
+        "name": "Fenda Dos Streamers",
+        "country": "Brazil"
+    },
+    {
+        "id": "12650",
+        "name": "NOITE PAULISTA",
+        "country": "Brazil"
+    },
+    {
+        "id": "14777",
+        "name": "Sagaz Academy",
+        "country": "Brazil"
+    },
+    {
+        "id": "12227",
+        "name": "RUGAL",
+        "country": "Brazil"
+    },
+    {
+        "id": "13998",
+        "name": "ACQUA GAMING",
+        "country": "Brazil"
+    },
+    {
+        "id": "15281",
+        "name": "donas da bala",
+        "country": "Brazil"
+    },
+    {
+        "id": "13889",
+        "name": "MIRAI",
+        "country": "Brazil"
+    },
+    {
+        "id": "15280",
+        "name": "DREAMMAX",
+        "country": "Brazil"
+    },
+    {
+        "id": "10762",
+        "name": "Intense Game",
+        "country": "Brazil"
+    },
+    {
+        "id": "15073",
+        "name": "CO-OP.gg",
+        "country": "Brazil"
+    },
+    {
+        "id": "8494",
+        "name": "JNS Gaming",
+        "country": "Brazil"
+    },
+    {
+        "id": "14048",
+        "name": "BOOMBA ROSA",
+        "country": "Brazil"
+    },
+    {
+        "id": "12653",
+        "name": "insanity",
+        "country": "Brazil"
+    },
+    {
+        "id": "1120",
+        "name": "EDward Gaming",
+        "country": "China"
+    },
+    {
+        "id": "12685",
+        "name": "Trace Esports",
+        "country": "China"
+    },
+    {
+        "id": "11328",
+        "name": "FunPlus Phoenix",
+        "country": "China"
+    },
+    {
+        "id": "11981",
+        "name": "Dragon Ranger Gaming",
+        "country": "China"
+    },
+    {
+        "id": "12010",
+        "name": "Bilibili Gaming",
+        "country": "China"
+    },
+    {
+        "id": "13576",
+        "name": "JD Gaming",
+        "country": "China"
+    },
+    {
+        "id": "14137",
+        "name": "Titan Esports Club",
+        "country": "China"
+    },
+    {
+        "id": "13164",
+        "name": "Chao Hui EDward Gaming",
+        "country": "China"
+    },
+    {
+        "id": "1119",
+        "name": "All Gamers",
+        "country": "China"
+    },
+    {
+        "id": "13790",
+        "name": "Wolves Esports",
+        "country": "China"
+    },
+    {
+        "id": "1224",
+        "name": "Weibo Gaming",
+        "country": "China"
+    },
+    {
+        "id": "731",
+        "name": "TYLOO",
+        "country": "China"
+    },
+    {
+        "id": "13564",
+        "name": "Regans Gaming",
+        "country": "China"
+    },
+    {
+        "id": "12011",
+        "name": "Douyu Gaming",
+        "country": "China"
+    },
+    {
+        "id": "11980",
+        "name": "Four Angry Men",
+        "country": "China"
+    },
+    {
+        "id": "5461",
+        "name": "Invictus Gaming",
+        "country": "China"
+    },
+    {
+        "id": "12064",
+        "name": "Nova Esports",
+        "country": "China"
+    },
+    {
+        "id": "11983",
+        "name": "Kingzone",
+        "country": "China"
+    },
+    {
+        "id": "5944",
+        "name": "Night Wings Gaming",
+        "country": "China"
+    },
+    {
+        "id": "12784",
+        "name": "KeepBest Gaming",
+        "country": "China"
+    },
+    {
+        "id": "4683",
+        "name": "Invincible Gaming",
+        "country": "China"
+    },
+    {
+        "id": "906",
+        "name": "NewHappy Esports",
+        "country": "China"
+    },
+    {
+        "id": "11982",
+        "name": "KunPeng Gaming",
+        "country": "China"
+    },
+    {
+        "id": "11986",
+        "name": "TJD Esports Club",
+        "country": "China"
+    },
+    {
+        "id": "2934",
+        "name": "FENNEL",
+        "country": "Japan"
+    },
+    {
+        "id": "516",
+        "name": "FAV gaming",
+        "country": "Japan"
+    },
+    {
+        "id": "104",
+        "name": "REJECT",
+        "country": "Japan"
+    },
+    {
+        "id": "278",
+        "name": "DetonatioN FocusMe",
+        "country": "Japan"
+    },
+    {
+        "id": "283",
+        "name": "Sengoku Gaming",
+        "country": "Japan"
+    },
+    {
+        "id": "2988",
+        "name": "NORTHEPTION",
+        "country": "Japan"
+    },
+    {
+        "id": "5448",
+        "name": "ZETA DIVISION",
+        "country": "Japan"
+    },
+    {
+        "id": "9315",
+        "name": "ZETA DIVISION GC",
+        "country": "Japan"
+    },
+    {
+        "id": "294",
+        "name": "CREST GAMING Zst",
+        "country": "Japan"
+    },
+    {
+        "id": "11229",
+        "name": "VARREL",
+        "country": "Japan"
+    },
+    {
+        "id": "10606",
+        "name": "AMORIS Vega",
+        "country": "Japan"
+    },
+    {
+        "id": "14677",
+        "name": "esports team \u03b1D",
+        "country": "Japan"
+    },
+    {
+        "id": "14665",
+        "name": "RABILIS BURST",
+        "country": "Japan"
+    },
+    {
+        "id": "2108",
+        "name": "BLUE BEES.ESP",
+        "country": "Japan"
+    },
+    {
+        "id": "14383",
+        "name": "NOEZ FOXX",
+        "country": "Japan"
+    },
+    {
+        "id": "11233",
+        "name": "BC SWELL",
+        "country": "Japan"
+    },
+    {
+        "id": "11498",
+        "name": "Citrus e-sports",
+        "country": "Japan"
+    },
+    {
+        "id": "282",
+        "name": "SCARZ",
+        "country": "Japan"
+    },
+    {
+        "id": "8043",
+        "name": "SOLAR ANTHEM",
+        "country": "South Korea"
+    },
+    {
+        "id": "13612",
+        "name": "Xenesis e-sports",
+        "country": "Japan"
+    },
+    {
+        "id": "11506",
+        "name": "Acris",
+        "country": "Japan"
+    },
+    {
+        "id": "8870",
+        "name": "HIT GAMING CLAN",
+        "country": "Japan"
+    },
+    {
+        "id": "13615",
+        "name": "Father's Back",
+        "country": "Japan"
+    },
+    {
+        "id": "6798",
+        "name": "REIGNITE",
+        "country": "Japan"
+    },
+    {
+        "id": "11491",
+        "name": "TeamDuration",
+        "country": "Japan"
+    },
+    {
+        "id": "11490",
+        "name": "Murash Gaming",
+        "country": "Japan"
+    },
+    {
+        "id": "5148",
+        "name": "Insomnia",
+        "country": "Japan"
+    },
+    {
+        "id": "13614",
+        "name": "Striderz",
+        "country": "Japan"
+    },
+    {
+        "id": "11513",
+        "name": "DopeNess Esports",
+        "country": "Japan"
+    },
+    {
+        "id": "6869",
+        "name": "IGZIST",
+        "country": "Japan"
+    },
+    {
+        "id": "2990",
+        "name": "Lost Eden",
+        "country": "Japan"
+    },
+    {
+        "id": "10607",
+        "name": "SETOUCHI SPARKS",
+        "country": "Japan"
+    },
+    {
+        "id": "8185",
+        "name": "DRX",
+        "country": "South Korea"
+    },
+    {
+        "id": "17",
+        "name": "Gen.G",
+        "country": "South Korea"
+    },
+    {
+        "id": "14",
+        "name": "T1",
+        "country": "South Korea"
+    },
+    {
+        "id": "14590",
+        "name": "LFG Portal",
+        "country": "South Korea"
+    },
+    {
+        "id": "12446",
+        "name": "SLT Seongnam",
+        "country": "South Korea"
+    },
+    {
+        "id": "11060",
+        "name": "Nongshim RedForce",
+        "country": "South Korea"
+    },
+    {
+        "id": "14599",
+        "name": "IAM",
+        "country": "South Korea"
+    },
+    {
+        "id": "11539",
+        "name": "Blater",
+        "country": "South Korea"
+    },
+    {
+        "id": "8099",
+        "name": "CNJ Esports",
+        "country": "South Korea"
+    },
+    {
+        "id": "14596",
+        "name": "OLY",
+        "country": "South Korea"
+    },
+    {
+        "id": "11348",
+        "name": "Dplus Esports",
+        "country": "South Korea"
+    },
+    {
+        "id": "14566",
+        "name": "fOu Clan",
+        "country": "South Korea"
+    },
+    {
+        "id": "14422",
+        "name": "Sin Prisa Gaming",
+        "country": "South Korea"
+    },
+    {
+        "id": "14584",
+        "name": "Frozen 3",
+        "country": "South Korea"
+    },
+    {
+        "id": "14574",
+        "name": "Nuclear",
+        "country": "South Korea"
+    },
+    {
+        "id": "8906",
+        "name": "Beyond Stratos Gaming",
+        "country": "South Korea"
+    },
+    {
+        "id": "14567",
+        "name": "YnC",
+        "country": "South Korea"
+    },
+    {
+        "id": "14602",
+        "name": "ReturN",
+        "country": "South Korea"
+    },
+    {
+        "id": "13551",
+        "name": "CVA",
+        "country": "South Korea"
+    },
+    {
+        "id": "14565",
+        "name": "SHERPA",
+        "country": "South Korea"
+    },
+    {
+        "id": "6622",
+        "name": "Team LuZi",
+        "country": "South Korea"
+    },
+    {
+        "id": "14582",
+        "name": "MS",
+        "country": "South Korea"
+    },
+    {
+        "id": "8086",
+        "name": "Maru Gaming",
+        "country": "South Korea"
+    },
+    {
+        "id": "8182",
+        "name": "Incheon On Sla2ers",
+        "country": "South Korea"
+    },
+    {
+        "id": "2593",
+        "name": "FNATIC",
+        "country": "Europe"
+    },
+    {
+        "id": "8044",
+        "name": "MOUZ",
+        "country": "Europe"
+    },
+    {
+        "id": "4915",
+        "name": "Natus Vincere",
+        "country": "Europe"
+    },
+    {
+        "id": "6538",
+        "name": "DSYRE",
+        "country": "Europe"
+    },
+    {
+        "id": "12474",
+        "name": "GoNext Esports",
+        "country": "Europe"
+    },
+    {
+        "id": "6313",
+        "name": "KPI Gaming",
+        "country": "Europe"
+    },
+    {
+        "id": "1184",
+        "name": "FUT Esports",
+        "country": "Turkey"
+    },
+    {
+        "id": "8877",
+        "name": "Karmine Corp",
+        "country": "Europe"
+    },
+    {
+        "id": "12694",
+        "name": "Gentle Mates",
+        "country": "France"
+    },
+    {
+        "id": "3531",
+        "name": "Acend",
+        "country": "Europe"
+    },
+    {
+        "id": "4686",
+        "name": "Fire Flux Esports",
+        "country": "Turkey"
+    },
+    {
+        "id": "2755",
+        "name": "SAW",
+        "country": "Portugal"
+    },
+    {
+        "id": "11479",
+        "name": "Apeks",
+        "country": "Europe"
+    },
+    {
+        "id": "8049",
+        "name": "Diamant Esports",
+        "country": "Europe"
+    },
+    {
+        "id": "5214",
+        "name": "CGN Esports",
+        "country": "Germany"
+    },
+    {
+        "id": "474",
+        "name": "Team Liquid",
+        "country": "Europe"
+    },
+    {
+        "id": "2059",
+        "name": "Team Vitality",
+        "country": "Europe"
+    },
+    {
+        "id": "14429",
+        "name": "Chipi Chapa's",
+        "country": "Europe"
+    },
+    {
+        "id": "14419",
+        "name": "GIANTX",
+        "country": "Europe"
+    },
+    {
+        "id": "13558",
+        "name": "HOWL Esports",
+        "country": "Turkey"
+    },
+    {
+        "id": "1001",
+        "name": "Team Heretics",
+        "country": "Europe"
+    },
+    {
+        "id": "11257",
+        "name": "Szach Mat",
+        "country": "Poland"
+    },
+    {
+        "id": "11232",
+        "name": "Joblife",
+        "country": "Europe"
+    },
+    {
+        "id": "397",
+        "name": "BBL Esports",
+        "country": "Turkey"
+    },
+    {
+        "id": "7967",
+        "name": "Mandatory",
+        "country": "France"
+    },
+    {
+        "id": "8946",
+        "name": "Zero Tenacity",
+        "country": "Poland"
+    },
+    {
+        "id": "6882",
+        "name": "FOKUS",
+        "country": "Germany"
+    },
+    {
+        "id": "9820",
+        "name": "Oxuji",
+        "country": "Russia"
+    },
+    {
+        "id": "8924",
+        "name": "Ramboot Club",
+        "country": "Europe"
+    },
+    {
+        "id": "7932",
+        "name": "OnlyFins",
+        "country": "Finland"
+    },
+    {
+        "id": "4616",
+        "name": "UCAM Esports Club",
+        "country": "Europe"
+    },
+    {
+        "id": "10188",
+        "name": "VALIANT",
+        "country": "France"
+    },
+    {
+        "id": "10417",
+        "name": "Formulation Gaming",
+        "country": "Europe"
+    },
+    {
+        "id": "4567",
+        "name": "Papara SuperMassive",
+        "country": "Turkey"
+    },
+    {
+        "id": "11975",
+        "name": "Permitta eSports",
+        "country": "Germany"
+    },
+    {
+        "id": "14467",
+        "name": "SweetNsour",
+        "country": "Europe"
+    },
+    {
+        "id": "13785",
+        "name": "FOKUS & Friends",
+        "country": "Germany"
+    },
+    {
+        "id": "14529",
+        "name": "Predator Xperion NXT",
+        "country": "Germany"
+    },
+    {
+        "id": "9621",
+        "name": "trashcan",
+        "country": "Europe"
+    },
+    {
+        "id": "15155",
+        "name": "Bakim Corp",
+        "country": "International"
+    },
+    {
+        "id": "14476",
+        "name": "ELEVATE",
+        "country": "Portugal"
+    },
+    {
+        "id": "8380",
+        "name": "DIVIZON",
+        "country": "Europe"
+    },
+    {
+        "id": "4762",
+        "name": "Galakticos",
+        "country": "Turkey"
+    },
+    {
+        "id": "2369",
+        "name": "Entropy",
+        "country": "Germany"
+    },
+    {
+        "id": "14523",
+        "name": "Requiem",
+        "country": "Europe"
+    },
+    {
+        "id": "13599",
+        "name": "Cicadas Gaming",
+        "country": "France"
+    },
+    {
+        "id": "10149",
+        "name": "K10",
+        "country": "Europe"
+    },
+    {
+        "id": "11780",
+        "name": "Reveal Multigaming",
+        "country": "Germany"
+    },
+    {
+        "id": "15009",
+        "name": "Falke Esports",
+        "country": "Spain"
+    },
+    {
+        "id": "4572",
+        "name": "Galatasaray Esports",
+        "country": "Turkey"
+    },
+    {
+        "id": "12679",
+        "name": "apinaorkesteri",
+        "country": "Europe"
+    },
+    {
+        "id": "11829",
+        "name": "eSports Cologne",
+        "country": "Germany"
+    },
+    {
+        "id": "13224",
+        "name": "NXT",
+        "country": "United Kingdom"
+    },
+    {
+        "id": "3478",
+        "name": "PCIFIC Espor",
+        "country": "Turkey"
+    },
+    {
+        "id": "14479",
+        "name": "SK Gaming",
+        "country": "Germany"
+    },
+    {
+        "id": "12851",
+        "name": "giefKalash",
+        "country": "International"
+    },
+    {
+        "id": "13783",
+        "name": "VCL Rejects",
+        "country": "Germany"
+    },
+    {
+        "id": "1342",
+        "name": "Axsor",
+        "country": "Europe"
+    },
+    {
+        "id": "14536",
+        "name": "Irregulars",
+        "country": "Germany"
+    },
+    {
+        "id": "13254",
+        "name": "Szypko",
+        "country": "Europe"
+    },
+    {
+        "id": "12855",
+        "name": "Wizard Esports",
+        "country": "Norway"
+    },
+    {
+        "id": "9438",
+        "name": "VX300 Gaming",
+        "country": "Italy"
+    },
+    {
+        "id": "9011",
+        "name": "Impulse GW",
+        "country": "Portugal"
+    },
+    {
+        "id": "15467",
+        "name": "KO3AKU",
+        "country": "Ukraine"
+    },
+    {
+        "id": "3895",
+        "name": "Macko Esports",
+        "country": "Italy"
+    },
+    {
+        "id": "12626",
+        "name": "AEX-1 Nova",
+        "country": "Europe"
+    },
+    {
+        "id": "12485",
+        "name": "Yari Esports",
+        "country": "Europe"
+    },
+    {
+        "id": "13795",
+        "name": "FTW Le\u00e7a FC Esports",
+        "country": "Portugal"
+    },
+    {
+        "id": "15300",
+        "name": "EXO Clan",
+        "country": "United Kingdom"
+    },
+    {
+        "id": "12256",
+        "name": "Akroma",
+        "country": "France"
+    },
+    {
+        "id": "12948",
+        "name": "ONLINERS",
+        "country": "Europe"
+    },
+    {
+        "id": "7448",
+        "name": "Insight Gaming",
+        "country": "United Kingdom"
+    },
+    {
+        "id": "9767",
+        "name": "Dragonslayerzzz",
+        "country": "Europe"
+    },
+    {
+        "id": "13161",
+        "name": "NOVO Esports",
+        "country": "Italy"
+    },
+    {
+        "id": "11978",
+        "name": "GEEKZ ENERGY eSPORTS",
+        "country": "Germany"
+    },
+    {
+        "id": "13157",
+        "name": "Albanian Eagle",
+        "country": "Europe"
+    },
+    {
+        "id": "4611",
+        "name": "Team hz",
+        "country": "Russia"
+    },
+    {
+        "id": "11273",
+        "name": "3DMAX",
+        "country": "France"
+    },
+    {
+        "id": "14430",
+        "name": "DEMURY1",
+        "country": "International"
+    },
+    {
+        "id": "14427",
+        "name": "yara mi lala",
+        "country": "International"
+    },
+    {
+        "id": "8996",
+        "name": "ESC Gaming",
+        "country": "Europe"
+    },
+    {
+        "id": "6149",
+        "name": "Case Esports",
+        "country": "Europe"
+    },
+    {
+        "id": "14425",
+        "name": "FFXD",
+        "country": "Poland"
+    },
+    {
+        "id": "13173",
+        "name": "Ginger Supremacy",
+        "country": "Netherlands"
+    },
+    {
+        "id": "15487",
+        "name": "Lootcifer",
+        "country": "International"
+    },
+    {
+        "id": "14440",
+        "name": "MRVZT",
+        "country": "International"
+    },
+    {
+        "id": "12965",
+        "name": "OblivionXC",
+        "country": "United Kingdom"
+    },
+    {
+        "id": "12489",
+        "name": "Metizport",
+        "country": "Norway"
+    },
+    {
+        "id": "15159",
+        "name": "NOVITA",
+        "country": "International"
+    },
+    {
+        "id": "6127",
+        "name": "Axolotl",
+        "country": "Italy"
+    },
+    {
+        "id": "9077",
+        "name": "S2G Esports",
+        "country": "Turkey"
+    },
+    {
+        "id": "13754",
+        "name": "Team NVus",
+        "country": "Turkey"
+    },
+    {
+        "id": "12700",
+        "name": "ZennIT",
+        "country": "Europe"
+    },
+    {
+        "id": "14538",
+        "name": "KOPFSHOOTAZ",
+        "country": "Germany"
+    },
+    {
+        "id": "14614",
+        "name": "Happy Game Esport",
+        "country": "Italy"
+    },
+    {
+        "id": "14438",
+        "name": "0LoseStreak",
+        "country": "International"
+    },
+    {
+        "id": "8727",
+        "name": "FLX",
+        "country": "Europe"
+    },
+    {
+        "id": "12515",
+        "name": "FLYMORE",
+        "country": "Poland"
+    },
+    {
+        "id": "12355",
+        "name": "Bitfix Gaming",
+        "country": "Norway"
+    },
+    {
+        "id": "14318",
+        "name": "DVM Esport",
+        "country": "France"
+    },
+    {
+        "id": "12701",
+        "name": "VOICESAREBACK",
+        "country": "International"
+    },
+    {
+        "id": "7105",
+        "name": "EX0TIK GAMING",
+        "country": "Europe"
+    },
+    {
+        "id": "13773",
+        "name": "MCRP Ultras",
+        "country": "United Kingdom"
+    },
+    {
+        "id": "5310",
+        "name": "Fenerbah\u00e7e Esports",
+        "country": "Turkey"
+    },
+    {
+        "id": "12868",
+        "name": "Imperium Gaming",
+        "country": "Spain"
+    },
+    {
+        "id": "14206",
+        "name": "Signum Reges",
+        "country": "Spain"
+    },
+    {
+        "id": "12787",
+        "name": "FearFerox",
+        "country": "International"
+    },
+    {
+        "id": "9966",
+        "name": "VAMONOS",
+        "country": "Europe"
+    },
+    {
+        "id": "2761",
+        "name": "SZK Esports",
+        "country": "Spain"
+    },
+    {
+        "id": "11496",
+        "name": "ALTERNATE aTTaX Ruby",
+        "country": "Germany"
+    },
+    {
+        "id": "12680",
+        "name": "TEAM HEADSHOT-HOMER",
+        "country": "International"
+    },
+    {
+        "id": "15510",
+        "name": "Prototype",
+        "country": "International"
+    },
+    {
+        "id": "13865",
+        "name": "Project X",
+        "country": "Germany"
+    },
+    {
+        "id": "3956",
+        "name": "2L8",
+        "country": "Turkey"
+    },
+    {
+        "id": "14113",
+        "name": "NAPOLYON",
+        "country": "International"
+    },
+    {
+        "id": "12460",
+        "name": "Lyost",
+        "country": "France"
+    },
+    {
+        "id": "11673",
+        "name": "calamity L",
+        "country": "Europe"
+    },
+    {
+        "id": "12053",
+        "name": "Clique Esports",
+        "country": "United Kingdom"
+    },
+    {
+        "id": "13249",
+        "name": "ANANI SIK",
+        "country": "Europe"
+    },
+    {
+        "id": "11250",
+        "name": "AEX-1",
+        "country": "Germany"
+    },
+    {
+        "id": "11972",
+        "name": "Colors Esport",
+        "country": "France"
+    },
+    {
+        "id": "4173",
+        "name": "Ovation eSports",
+        "country": "United Kingdom"
+    },
+    {
+        "id": "14111",
+        "name": "Achtung5",
+        "country": "International"
+    },
+    {
+        "id": "13263",
+        "name": "Just eZ",
+        "country": "International"
+    },
+    {
+        "id": "11240",
+        "name": "eQuizers",
+        "country": "Spain"
+    },
+    {
+        "id": "14274",
+        "name": "Ruddy",
+        "country": "United Kingdom"
+    },
+    {
+        "id": "14461",
+        "name": "Bar\u00e7a eSports",
+        "country": "Spain"
+    },
+    {
+        "id": "9431",
+        "name": "RedPack eSports",
+        "country": "Romania"
+    },
+    {
+        "id": "6132",
+        "name": "\u0130stanbul Wildcats",
+        "country": "Turkey"
+    },
+    {
+        "id": "12346",
+        "name": "Sandkasse",
+        "country": "International"
+    },
+    {
+        "id": "13561",
+        "name": "RANKED DEMONS",
+        "country": "Turkey"
+    },
+    {
+        "id": "14369",
+        "name": "Flame Hard",
+        "country": "Europe"
+    },
+    {
+        "id": "9508",
+        "name": "FIVE Media Clan",
+        "country": "Spain"
+    },
+    {
+        "id": "7072",
+        "name": "NOMAD",
+        "country": "France"
+    },
+    {
+        "id": "9904",
+        "name": "Scythe Of Seraph",
+        "country": "Germany"
+    },
+    {
+        "id": "12853",
+        "name": "Rotaryon",
+        "country": "Norway"
+    },
+    {
+        "id": "12892",
+        "name": "All Aim",
+        "country": "Europe"
+    },
+    {
+        "id": "13871",
+        "name": "caLLLamas",
+        "country": "Europe"
+    },
+    {
+        "id": "4239",
+        "name": "BursaEspor",
+        "country": "Turkey"
+    },
+    {
+        "id": "13678",
+        "name": "There is no tomorrow",
+        "country": "Turkey"
+    },
+    {
+        "id": "6195",
+        "name": "Team Galaga",
+        "country": "Spain"
+    },
+    {
+        "id": "14112",
+        "name": "BLOK6",
+        "country": "International"
+    },
+    {
+        "id": "15508",
+        "name": "DRAKAINAS",
+        "country": "France"
+    },
+    {
+        "id": "12052",
+        "name": "GamingXD",
+        "country": "International"
+    },
+    {
+        "id": "9559",
+        "name": "Zerance",
+        "country": "France"
+    },
+    {
+        "id": "12514",
+        "name": "Solary",
+        "country": "France"
+    },
+    {
+        "id": "15010",
+        "name": "Monaco Esports",
+        "country": "Europe"
+    },
+    {
+        "id": "4699",
+        "name": "Skelp Esports",
+        "country": "Scotland"
+    },
+    {
+        "id": "9071",
+        "name": "EVOPLAY",
+        "country": "Ukraine"
+    },
+    {
+        "id": "15027",
+        "name": "FULL BOX 200",
+        "country": "International"
+    },
+    {
+        "id": "12958",
+        "name": "Sila4i",
+        "country": "Ukraine"
+    },
+    {
+        "id": "12553",
+        "name": "Lashatemicantar",
+        "country": "International"
+    },
+    {
+        "id": "6870",
+        "name": "ISOSIMO",
+        "country": "Finland"
+    },
+    {
+        "id": "14125",
+        "name": "SOGBOX",
+        "country": "International"
+    },
+    {
+        "id": "7035",
+        "name": "KOI",
+        "country": "Europe"
+    },
+    {
+        "id": "13325",
+        "name": "HIVE Valkyries",
+        "country": "Germany"
+    },
+    {
+        "id": "14366",
+        "name": "ZeroZen",
+        "country": "International"
+    },
+    {
+        "id": "6191",
+        "name": "NOM Esports",
+        "country": "Israel"
+    },
+    {
+        "id": "11267",
+        "name": "CTRL Esports",
+        "country": "United Kingdom"
+    },
+    {
+        "id": "9443",
+        "name": "Nativz",
+        "country": "Ireland"
+    },
+    {
+        "id": "4141",
+        "name": "WLGaming Esports",
+        "country": "Italy"
+    },
+    {
+        "id": "11976",
+        "name": "Kaizen",
+        "country": "International"
+    },
+    {
+        "id": "7940",
+        "name": "Melilla Titans",
+        "country": "Spain"
+    },
+    {
+        "id": "12354",
+        "name": "Team Legion",
+        "country": "International"
+    },
+    {
+        "id": "14114",
+        "name": "XXL",
+        "country": "International"
+    },
+    {
+        "id": "13779",
+        "name": "Siko",
+        "country": "Netherlands"
+    },
+    {
+        "id": "12852",
+        "name": "Kindergarten children",
+        "country": "International"
+    },
+    {
+        "id": "4519",
+        "name": "PURPURE",
+        "country": "Europe"
+    },
+    {
+        "id": "9351",
+        "name": "Wintermint",
+        "country": "Finland"
+    },
+    {
+        "id": "11237",
+        "name": "duplaw",
+        "country": "Hungary"
+    },
+    {
+        "id": "10416",
+        "name": "Team Aku Aku",
+        "country": "Spain"
+    },
+    {
+        "id": "13176",
+        "name": "RevSol Esports",
+        "country": "International"
+    },
+    {
+        "id": "2670",
+        "name": "Ignite",
+        "country": "Europe"
+    },
+    {
+        "id": "12794",
+        "name": "Tamaria Altunga Esports",
+        "country": "Turkey"
+    },
+    {
+        "id": "11152",
+        "name": "Outplayed",
+        "country": "Italy"
+    },
+    {
+        "id": "11830",
+        "name": "Khore Gaming",
+        "country": "Spain"
+    },
+    {
+        "id": "7243",
+        "name": "B8 Esports",
+        "country": "Europe"
+    },
+    {
+        "id": "14478",
+        "name": "Eintracht Frankfurt",
+        "country": "Germany"
+    },
+    {
+        "id": "9070",
+        "name": "GHR E-Sports",
+        "country": "Germany"
+    },
+    {
+        "id": "15174",
+        "name": "BLINDOHOLIK",
+        "country": "International"
+    },
+    {
+        "id": "4396",
+        "name": "Regnum Carya Esports",
+        "country": "Turkey"
+    },
+    {
+        "id": "14153",
+        "name": "SPACEGLIDERS",
+        "country": "Portugal"
+    },
+    {
+        "id": "10270",
+        "name": "Optimum Esports",
+        "country": "Algeria"
+    },
+    {
+        "id": "12362",
+        "name": "Simple Minecraft Players",
+        "country": "Norway"
+    },
+    {
+        "id": "12702",
+        "name": "The Whole Zoo",
+        "country": "International"
+    },
+    {
+        "id": "9814",
+        "name": "FUZOS",
+        "country": "Portugal"
+    },
+    {
+        "id": "8941",
+        "name": "Dortmund Esports",
+        "country": "Germany"
+    },
+    {
+        "id": "7403",
+        "name": "who cars?",
+        "country": "Denmark"
+    },
+    {
+        "id": "13770",
+        "name": "5STARS Esport",
+        "country": "Norway"
+    },
+    {
+        "id": "4669",
+        "name": "Digital Athletics",
+        "country": "Turkey"
+    },
+    {
+        "id": "9296",
+        "name": "Last Gate",
+        "country": "Ukraine"
+    },
+    {
+        "id": "15486",
+        "name": "SOS Affenalarm",
+        "country": "International"
+    },
+    {
+        "id": "8237",
+        "name": "RQS Esports",
+        "country": "Europe"
+    },
+    {
+        "id": "5719",
+        "name": "Exalty",
+        "country": "France"
+    },
+    {
+        "id": "12834",
+        "name": "Origami Team",
+        "country": "Europe"
+    },
+    {
+        "id": "8826",
+        "name": "ALTERNATE aTTaX",
+        "country": "Germany"
+    },
+    {
+        "id": "9048",
+        "name": "NT4H Sunrise",
+        "country": "Germany"
+    },
+    {
+        "id": "5091",
+        "name": "RIZON",
+        "country": "Germany"
+    },
+    {
+        "id": "7171",
+        "name": "Big Blue Charizard",
+        "country": "Germany"
+    },
+    {
+        "id": "12114",
+        "name": "Pingou Esport",
+        "country": "France"
+    },
+    {
+        "id": "12359",
+        "name": "Dog Nation",
+        "country": "Norway"
+    },
+    {
+        "id": "12463",
+        "name": "Veni eSports",
+        "country": "Germany"
+    },
+    {
+        "id": "9806",
+        "name": "The Last Monarch",
+        "country": "Spain"
+    },
+    {
+        "id": "12854",
+        "name": "SIMIA Esports",
+        "country": "International"
+    },
+    {
+        "id": "6750",
+        "name": "Rebels Gaming",
+        "country": "Spain"
+    },
+    {
+        "id": "9762",
+        "name": "GTZ Esports",
+        "country": "Portugal"
+    },
+    {
+        "id": "9042",
+        "name": "TeamOrangeGaming",
+        "country": "Germany"
+    },
+    {
+        "id": "13797",
+        "name": "Hurricane Of Feathers",
+        "country": "Portugal"
+    },
+    {
+        "id": "6235",
+        "name": "Incognito",
+        "country": "Poland"
+    },
+    {
+        "id": "1316",
+        "name": "QLASH",
+        "country": "Italy"
+    },
+    {
+        "id": "8258",
+        "name": "ZETA Gaming",
+        "country": "Europe"
+    },
+    {
+        "id": "15158",
+        "name": "buchclub",
+        "country": "Germany"
+    },
+    {
+        "id": "11603",
+        "name": "BLX UTD",
+        "country": "Europe"
+    },
+    {
+        "id": "7038",
+        "name": "Unicorns of Love",
+        "country": "Germany"
+    },
+    {
+        "id": "548",
+        "name": "Wygers",
+        "country": "Spain"
+    },
+    {
+        "id": "12735",
+        "name": "PingPongPeek",
+        "country": "International"
+    },
+    {
+        "id": "13830",
+        "name": "RTZN",
+        "country": "Italy"
+    },
+    {
+        "id": "11176",
+        "name": "AYM Esports",
+        "country": "Spain"
+    },
+    {
+        "id": "11002",
+        "name": "RETA Esports",
+        "country": "Chile"
+    },
+    {
+        "id": "724",
+        "name": "E-Xolos LAZER",
+        "country": "Colombia"
+    },
+    {
+        "id": "2131",
+        "name": "Chivas Esports",
+        "country": "Mexico"
+    },
+    {
+        "id": "15077",
+        "name": "Mookah Rabbits",
+        "country": "International"
+    },
+    {
+        "id": "4094",
+        "name": "Six Karma",
+        "country": "Mexico"
+    },
+    {
+        "id": "11896",
+        "name": "19esports",
+        "country": "Mexico"
+    },
+    {
+        "id": "2359",
+        "name": "Leviat\u00e1n",
+        "country": "Chile"
+    },
+    {
+        "id": "367",
+        "name": "9z Team",
+        "country": "Argentina"
+    },
+    {
+        "id": "2355",
+        "name": "KR\u00dc Esports",
+        "country": "Argentina"
+    },
+    {
+        "id": "364",
+        "name": "All Knights",
+        "country": "Argentina"
+    },
+    {
+        "id": "9427",
+        "name": "OXEN",
+        "country": "Argentina"
+    },
+    {
+        "id": "361",
+        "name": "Furious Gaming",
+        "country": "Argentina"
+    },
+    {
+        "id": "14941",
+        "name": "XSOUL",
+        "country": "Chile"
+    },
+    {
+        "id": "14296",
+        "name": "Rebirth Esports",
+        "country": "International"
+    },
+    {
+        "id": "13815",
+        "name": "frequency",
+        "country": "Argentina"
+    },
+    {
+        "id": "13821",
+        "name": "Nottingham Miedo",
+        "country": "Argentina"
+    },
+    {
+        "id": "14938",
+        "name": "Warning!",
+        "country": "International"
+    },
+    {
+        "id": "12875",
+        "name": "LRV Esports",
+        "country": "Argentina"
+    },
+    {
+        "id": "13818",
+        "name": "Stone Esports",
+        "country": "Argentina"
+    },
+    {
+        "id": "7695",
+        "name": "EBRO Gaming",
+        "country": "Argentina"
+    },
+    {
+        "id": "11001",
+        "name": "M80",
+        "country": "Canada"
+    },
+    {
+        "id": "2",
+        "name": "Sentinels",
+        "country": "United States"
+    },
+    {
+        "id": "1034",
+        "name": "NRG Esports",
+        "country": "United States"
+    },
+    {
+        "id": "10725",
+        "name": "Oxygen Esports",
+        "country": "United States"
+    },
+    {
+        "id": "11836",
+        "name": "Turtle Troop",
+        "country": "United States"
+    },
+    {
+        "id": "13188",
+        "name": "Moist x Shopify",
+        "country": "United States"
+    },
+    {
+        "id": "11058",
+        "name": "G2 Esports",
+        "country": "United States"
+    },
+    {
+        "id": "120",
+        "name": "100 Thieves",
+        "country": "United States"
+    },
+    {
+        "id": "188",
+        "name": "Cloud9",
+        "country": "United States"
+    },
+    {
+        "id": "13920",
+        "name": "SaD Esports",
+        "country": "United States"
+    },
+    {
+        "id": "6985",
+        "name": "QoR",
+        "country": "United States"
+    },
+    {
+        "id": "106",
+        "name": "TSM",
+        "country": "United States"
+    },
+    {
+        "id": "11455",
+        "name": "Van Lyn ",
+        "country": "Canada"
+    },
+    {
+        "id": "9613",
+        "name": "Blinn Esports",
+        "country": "United States"
+    },
+    {
+        "id": "14822",
+        "name": "Thinking Men",
+        "country": "United States"
+    },
+    {
+        "id": "5832",
+        "name": "Zero MarksMen Black",
+        "country": "United States"
+    },
+    {
+        "id": "14826",
+        "name": "Ions Day Care",
+        "country": "United States"
+    },
+    {
+        "id": "6422",
+        "name": "Resonate",
+        "country": "United States"
+    },
+    {
+        "id": "10448",
+        "name": "Winthrop University",
+        "country": "United States"
+    },
+    {
+        "id": "13847",
+        "name": "SaD Purple",
+        "country": "United States"
+    },
+    {
+        "id": "12756",
+        "name": "Let Us Cook",
+        "country": "United States"
+    },
+    {
+        "id": "9975",
+        "name": "St. Clair Saints",
+        "country": "Canada"
+    },
+    {
+        "id": "5038",
+        "name": "YFP Gaming",
+        "country": "United States"
+    },
+    {
+        "id": "14662",
+        "name": "1337",
+        "country": "United States"
+    },
+    {
+        "id": "13232",
+        "name": "The Glazers",
+        "country": "United States"
+    },
+    {
+        "id": "14278",
+        "name": "Shopify Rebellion",
+        "country": "Canada"
+    },
+    {
+        "id": "13979",
+        "name": "special grade",
+        "country": "International"
+    },
+    {
+        "id": "15539",
+        "name": "Tootsie Pop's",
+        "country": "International"
+    },
+    {
+        "id": "5248",
+        "name": "Evil Geniuses",
+        "country": "United States"
+    },
+    {
+        "id": "13277",
+        "name": "Lemonade Stand",
+        "country": "United States"
+    },
+    {
+        "id": "14660",
+        "name": "Burgerville",
+        "country": "United States"
+    },
+    {
+        "id": "15250",
+        "name": "Burger Boyz",
+        "country": "United States"
+    },
+    {
+        "id": "14829",
+        "name": "RyZe Esports ",
+        "country": "United States"
+    },
+    {
+        "id": "15011",
+        "name": "Together We Are Terrific",
+        "country": "United States"
+    },
+    {
+        "id": "13505",
+        "name": "MBU Spartans",
+        "country": "United States"
+    },
+    {
+        "id": "13682",
+        "name": "Fisher White",
+        "country": "United States"
+    },
+    {
+        "id": "5601",
+        "name": "Nightblood Gaming",
+        "country": "United States"
+    },
+    {
+        "id": "12781",
+        "name": "Last Resistance",
+        "country": "United States"
+    },
+    {
+        "id": "14661",
+        "name": "the basement",
+        "country": "United States"
+    },
+    {
+        "id": "12900",
+        "name": "Maryville University",
+        "country": "United States"
+    },
+    {
+        "id": "15533",
+        "name": "Organization 13 ",
+        "country": "International"
+    },
+    {
+        "id": "10482",
+        "name": "West Virginia University",
+        "country": "United States"
+    },
+    {
+        "id": "15000",
+        "name": "AWAKEN",
+        "country": "United States"
+    },
+    {
+        "id": "15234",
+        "name": "1553pork",
+        "country": "International"
+    },
+    {
+        "id": "15305",
+        "name": "ASTANE",
+        "country": "United States"
+    },
+    {
+        "id": "15229",
+        "name": "evil genies",
+        "country": "International"
+    },
+    {
+        "id": "10456",
+        "name": "FIU Varsity",
+        "country": "United States"
+    },
+    {
+        "id": "14663",
+        "name": "Cookin Papas",
+        "country": "United States"
+    },
+    {
+        "id": "15232",
+        "name": "Culturized",
+        "country": "International"
+    },
+    {
+        "id": "13834",
+        "name": "SEN Shahzam",
+        "country": "Canada"
+    },
+    {
+        "id": "14159",
+        "name": "Wook's Academy",
+        "country": "United States"
+    },
+    {
+        "id": "9679",
+        "name": "WTP",
+        "country": "United States"
+    },
+    {
+        "id": "14828",
+        "name": "Retake Mid",
+        "country": "International"
+    },
+    {
+        "id": "13078",
+        "name": "CC Premier",
+        "country": "United States"
+    },
+    {
+        "id": "11658",
+        "name": "Boomer Bandits",
+        "country": "International"
+    },
+    {
+        "id": "14086",
+        "name": "Glue Huffers",
+        "country": "International"
+    },
+    {
+        "id": "12769",
+        "name": "Life's a Game",
+        "country": "United States"
+    },
+    {
+        "id": "13091",
+        "name": "Luminous",
+        "country": "International"
+    },
+    {
+        "id": "14960",
+        "name": "Shifty505",
+        "country": "United States"
+    },
+    {
+        "id": "14265",
+        "name": "be like mike",
+        "country": "International"
+    },
+    {
+        "id": "14820",
+        "name": "the process",
+        "country": "International"
+    },
+    {
+        "id": "13191",
+        "name": "Spate Esports",
+        "country": "United States"
+    },
+    {
+        "id": "14830",
+        "name": "Refugee Camp",
+        "country": "International"
+    },
+    {
+        "id": "14364",
+        "name": "Six Figures",
+        "country": "United States"
+    },
+    {
+        "id": "13657",
+        "name": "chicago project",
+        "country": "International"
+    },
+    {
+        "id": "12001",
+        "name": "Goth Girl Sanctuary",
+        "country": "International"
+    },
+    {
+        "id": "11648",
+        "name": "ROSE",
+        "country": "United States"
+    },
+    {
+        "id": "14824",
+        "name": "boomertin",
+        "country": "International"
+    },
+    {
+        "id": "13636",
+        "name": "Harrisburg University",
+        "country": "United States"
+    },
+    {
+        "id": "12475",
+        "name": "UCF Gold",
+        "country": "United States"
+    },
+    {
+        "id": "14994",
+        "name": "les piments",
+        "country": "Canada"
+    },
+    {
+        "id": "15348",
+        "name": "Prospects",
+        "country": "International"
+    },
+    {
+        "id": "14160",
+        "name": "Notorious",
+        "country": "International"
+    },
+    {
+        "id": "10086",
+        "name": "Converse Purple",
+        "country": "United States"
+    },
+    {
+        "id": "13527",
+        "name": "Cumberland Varsity",
+        "country": "United States"
+    },
+    {
+        "id": "14293",
+        "name": "Cookie Monster Fanclub",
+        "country": "International"
+    },
+    {
+        "id": "13143",
+        "name": "Why So Serious",
+        "country": "International"
+    },
+    {
+        "id": "13273",
+        "name": "Equinox",
+        "country": "International"
+    },
+    {
+        "id": "13271",
+        "name": "Colgate EP",
+        "country": "International"
+    },
+    {
+        "id": "14821",
+        "name": "Ouroboros",
+        "country": "International"
+    },
+    {
+        "id": "8614",
+        "name": "Mizzou Esports",
+        "country": "United States"
+    },
+    {
+        "id": "14833",
+        "name": "Blue Rose",
+        "country": "International"
+    },
+    {
+        "id": "15003",
+        "name": "Out the mud",
+        "country": "International"
+    },
+    {
+        "id": "12994",
+        "name": "Box Of Kittens",
+        "country": "United States"
+    },
+    {
+        "id": "12799",
+        "name": "Polarity",
+        "country": "International"
+    },
+    {
+        "id": "11272",
+        "name": "Disciples",
+        "country": "United States"
+    },
+    {
+        "id": "14144",
+        "name": "Yordle Lovers",
+        "country": "International"
+    },
+    {
+        "id": "12750",
+        "name": "bandzmoneyblickygat",
+        "country": "International"
+    },
+    {
+        "id": "13512",
+        "name": "CCG Esports",
+        "country": "United States"
+    },
+    {
+        "id": "14827",
+        "name": "Gunter's Goons ",
+        "country": "United States"
+    },
+    {
+        "id": "13146",
+        "name": "NextGenEsports",
+        "country": "United States"
+    },
+    {
+        "id": "12933",
+        "name": "Tussin Esports",
+        "country": "United States"
+    },
+    {
+        "id": "13004",
+        "name": "96 Bulls",
+        "country": "International"
+    },
+    {
+        "id": "11840",
+        "name": "Handsome Jit",
+        "country": "United States"
+    },
+    {
+        "id": "12970",
+        "name": "fun guys fun times",
+        "country": "International"
+    },
+    {
+        "id": "13842",
+        "name": "Dexterity Gaming",
+        "country": "United States"
+    },
+    {
+        "id": "13076",
+        "name": "Ra Strength",
+        "country": "International"
+    },
+    {
+        "id": "12926",
+        "name": "AKA",
+        "country": "International"
+    },
+    {
+        "id": "13190",
+        "name": "LC",
+        "country": "International"
+    },
+    {
+        "id": "12316",
+        "name": "Styx's Sticky Salamanders",
+        "country": "International"
+    },
+    {
+        "id": "1248",
+        "name": "TradeLikePros",
+        "country": "United States"
+    },
+    {
+        "id": "14023",
+        "name": "Night Raid",
+        "country": "International"
+    },
+    {
+        "id": "12440",
+        "name": "Sovereign Esports",
+        "country": "United States"
+    },
+    {
+        "id": "14145",
+        "name": "Bambys Boys",
+        "country": "International"
+    },
+    {
+        "id": "1669",
+        "name": "Able Esports",
+        "country": "Canada"
+    },
+    {
+        "id": "2785",
+        "name": "TAMU Maroon",
+        "country": "United States"
+    },
+    {
+        "id": "13411",
+        "name": "Predator X Gaming",
+        "country": "United States"
+    },
+    {
+        "id": "13012",
+        "name": "VizUprising Mafia",
+        "country": "United States"
+    },
+    {
+        "id": "11436",
+        "name": "UW Madison Red",
+        "country": "United States"
+    },
+    {
+        "id": "12838",
+        "name": "Premier Esports Red",
+        "country": "International"
+    },
+    {
+        "id": "11949",
+        "name": "dZOriginals",
+        "country": "United States"
+    },
+    {
+        "id": "13193",
+        "name": "Banana Flippers",
+        "country": "International"
+    },
+    {
+        "id": "11358",
+        "name": "Yacht Club",
+        "country": "United States"
+    },
+    {
+        "id": "14219",
+        "name": "WASTED TALENT",
+        "country": "International"
+    },
+    {
+        "id": "13086",
+        "name": "Mango Munchers",
+        "country": "International"
+    },
+    {
+        "id": "10359",
+        "name": "Ottawa Braves",
+        "country": "United States"
+    },
+    {
+        "id": "13528",
+        "name": "Silly Little Guys",
+        "country": "International"
+    },
+    {
+        "id": "7711",
+        "name": "Berzerkers",
+        "country": "United States"
+    },
+    {
+        "id": "12738",
+        "name": "ThriveHQ",
+        "country": "International"
+    },
+    {
+        "id": "12020",
+        "name": "Unexpected Victory",
+        "country": "Canada"
+    },
+    {
+        "id": "14832",
+        "name": "diversity",
+        "country": "International"
+    },
+    {
+        "id": "12737",
+        "name": "LazerrFreeks8",
+        "country": "United States"
+    },
+    {
+        "id": "8357",
+        "name": "Zer0 Latency",
+        "country": "United States"
+    },
+    {
+        "id": "13838",
+        "name": "Team Equinox",
+        "country": "International"
+    },
+    {
+        "id": "11666",
+        "name": "Think Again",
+        "country": "International"
+    },
+    {
+        "id": "14162",
+        "name": "Neo",
+        "country": "International"
+    },
+    {
+        "id": "12843",
+        "name": "we are pugging",
+        "country": "International"
+    },
+    {
+        "id": "13199",
+        "name": "Defiant",
+        "country": "International"
+    },
+    {
+        "id": "13007",
+        "name": "Thrive 2 Greatness",
+        "country": "International"
+    },
+    {
+        "id": "9361",
+        "name": "Harmony",
+        "country": "United States"
+    },
+    {
+        "id": "14993",
+        "name": "Luxoria",
+        "country": "United States"
+    },
+    {
+        "id": "13092",
+        "name": "SOS",
+        "country": "International"
+    },
+    {
+        "id": "4260",
+        "name": "afterMath Esports",
+        "country": "United States"
+    },
+    {
+        "id": "12932",
+        "name": "Matcha Tea Red",
+        "country": "International"
+    },
+    {
+        "id": "13014",
+        "name": "Furious Five",
+        "country": "International"
+    },
+    {
+        "id": "14140",
+        "name": "RDM",
+        "country": "International"
+    },
+    {
+        "id": "12779",
+        "name": "Valor United",
+        "country": "United States"
+    },
+    {
+        "id": "12431",
+        "name": "Orlando Hurricanes",
+        "country": "United States"
+    },
+    {
+        "id": "11424",
+        "name": "Koalanoob Fan Club",
+        "country": "United States"
+    },
+    {
+        "id": "11202",
+        "name": "Wobbegongs",
+        "country": "United States"
+    },
+    {
+        "id": "12801",
+        "name": "VizUprising",
+        "country": "International"
+    },
+    {
+        "id": "14838",
+        "name": "1T",
+        "country": "United States"
+    },
+    {
+        "id": "2760",
+        "name": "Valkyrie",
+        "country": "United States"
+    },
+    {
+        "id": "12808",
+        "name": "86th District",
+        "country": "United States"
+    },
+    {
+        "id": "13077",
+        "name": "Team 7",
+        "country": "United States"
+    },
+    {
+        "id": "15092",
+        "name": "Van Lyn Black",
+        "country": "United States"
+    },
+    {
+        "id": "9533",
+        "name": "Georgia Tech Gold",
+        "country": "United States"
+    },
+    {
+        "id": "9021",
+        "name": "BHOP Esports",
+        "country": "International"
+    },
+    {
+        "id": "13094",
+        "name": "Hybrid Authority",
+        "country": "International"
+    },
+    {
+        "id": "12321",
+        "name": "call it Luck",
+        "country": "United States"
+    },
+    {
+        "id": "13844",
+        "name": "Stay Hard",
+        "country": "United States"
+    },
+    {
+        "id": "12840",
+        "name": "Wolf Pack",
+        "country": "International"
+    },
+    {
+        "id": "12434",
+        "name": "Team Bakery",
+        "country": "International"
+    },
+    {
+        "id": "12744",
+        "name": "Team Kodiak",
+        "country": "International"
+    },
+    {
+        "id": "13494",
+        "name": "Berzerkers Night",
+        "country": "United States"
+    },
+    {
+        "id": "13987",
+        "name": "Take Back Control",
+        "country": "International"
+    },
+    {
+        "id": "13511",
+        "name": "ImPerium Vancuverii",
+        "country": "International"
+    },
+    {
+        "id": "10971",
+        "name": "RyZ Knights",
+        "country": "United States"
+    },
+    {
+        "id": "14965",
+        "name": "good luck",
+        "country": "International"
+    },
+    {
+        "id": "10370",
+        "name": "Chosen 1s",
+        "country": "United States"
+    },
+    {
+        "id": "14835",
+        "name": "goodfellas",
+        "country": "International"
+    },
+    {
+        "id": "8038",
+        "name": "SNHU Blue",
+        "country": "United States"
+    },
+    {
+        "id": "13144",
+        "name": "The Oversleepers",
+        "country": "International"
+    },
+    {
+        "id": "12980",
+        "name": "5K Imperials",
+        "country": "United States"
+    },
+    {
+        "id": "7716",
+        "name": "EDO TENSEI",
+        "country": "Canada"
+    },
+    {
+        "id": "13668",
+        "name": "Tedward Gaming",
+        "country": "Canada"
+    },
+    {
+        "id": "13524",
+        "name": "Asian and Co",
+        "country": "International"
+    },
+    {
+        "id": "12749",
+        "name": "Team NSGE",
+        "country": "International"
+    },
+    {
+        "id": "11687",
+        "name": " Sway eSports",
+        "country": "United States"
+    },
+    {
+        "id": "14266",
+        "name": "Bucky Bandits",
+        "country": "International"
+    },
+    {
+        "id": "12795",
+        "name": "Neons",
+        "country": "International"
+    },
+    {
+        "id": "12802",
+        "name": "KAWAII AIMERZ",
+        "country": "International"
+    },
+    {
+        "id": "9214",
+        "name": "Tea Mates",
+        "country": "International"
+    },
+    {
+        "id": "10087",
+        "name": "Team Digital",
+        "country": "Canada"
+    },
+    {
+        "id": "14271",
+        "name": "First Class",
+        "country": "International"
+    },
+    {
+        "id": "11956",
+        "name": "Excane",
+        "country": "International"
+    },
+    {
+        "id": "12016",
+        "name": "Miracle",
+        "country": "Canada"
+    },
+    {
+        "id": "10580",
+        "name": "Boise State University",
+        "country": "United States"
+    },
+    {
+        "id": "10536",
+        "name": "Rochester University Esports",
+        "country": "United States"
+    },
+    {
+        "id": "13006",
+        "name": "Red Flag",
+        "country": "International"
+    },
+    {
+        "id": "11357",
+        "name": "Dead Orbit",
+        "country": "Canada"
+    },
+    {
+        "id": "11199",
+        "name": "Zero Tolerance",
+        "country": "International"
+    },
+    {
+        "id": "11355",
+        "name": "Nonnegative",
+        "country": "United States"
+    },
+    {
+        "id": "12931",
+        "name": "TopLine Esports",
+        "country": "United States"
+    },
+    {
+        "id": "6866",
+        "name": "RIT Orange",
+        "country": "United States"
+    },
+    {
+        "id": "8471",
+        "name": "Omnipotent Gaming",
+        "country": "International"
+    },
+    {
+        "id": "4317",
+        "name": "Event Horizon",
+        "country": "International"
+    },
+    {
+        "id": "12755",
+        "name": "High Roller Esports",
+        "country": "International"
+    },
+    {
+        "id": "13652",
+        "name": "Army of Five",
+        "country": "United States"
+    },
+    {
+        "id": "14141",
+        "name": " Imposter's Bank Robbers",
+        "country": "International"
+    },
+    {
+        "id": "12841",
+        "name": "YDZ Infinity",
+        "country": "United States"
+    },
+    {
+        "id": "9483",
+        "name": "Ast\u00e9ri 7",
+        "country": "United States"
+    },
+    {
+        "id": "11200",
+        "name": "Cataclysm Gaming",
+        "country": "United States"
+    },
+    {
+        "id": "14469",
+        "name": "JiJieHao",
+        "country": "Australia"
+    },
+    {
+        "id": "15289",
+        "name": "Arena Internet Cafe",
+        "country": "Australia"
+    },
+    {
+        "id": "15253",
+        "name": "FOCUSGG",
+        "country": "Australia"
+    },
+    {
+        "id": "13849",
+        "name": "JFT",
+        "country": "Australia"
+    },
+    {
+        "id": "8448",
+        "name": "BOBO",
+        "country": "Australia"
+    },
+    {
+        "id": "15208",
+        "name": "EDGE",
+        "country": "Australia"
+    },
+    {
+        "id": "15118",
+        "name": "Crim's Kittens",
+        "country": "International"
+    },
+    {
+        "id": "14281",
+        "name": "Arcade Esports",
+        "country": "Australia"
+    },
+    {
+        "id": "15216",
+        "name": "Rub n' Pug",
+        "country": "Australia"
+    },
+    {
+        "id": "15210",
+        "name": "the burgers",
+        "country": "International"
+    },
+    {
+        "id": "14689",
+        "name": "Indian Greed",
+        "country": "Australia"
+    },
+    {
+        "id": "15197",
+        "name": "iPGN",
+        "country": "Australia"
+    },
+    {
+        "id": "15212",
+        "name": "DINGLE GOOGY and friends",
+        "country": "International"
+    },
+    {
+        "id": "15221",
+        "name": "Corn Dawgs",
+        "country": "International"
+    },
+    {
+        "id": "12814",
+        "name": "PLUG",
+        "country": "International"
+    },
+    {
+        "id": "4073",
+        "name": "Bandit ESC",
+        "country": "Australia"
+    },
+    {
+        "id": "1319",
+        "name": "Funcrew",
+        "country": "Australia"
+    },
+    {
+        "id": "10307",
+        "name": "Built For Greatness",
+        "country": "Australia"
+    },
+    {
+        "id": "14692",
+        "name": "DXA Esports",
+        "country": "Australia"
+    },
+    {
+        "id": "13863",
+        "name": "Estio eSports",
+        "country": "Australia"
+    },
+    {
+        "id": "14688",
+        "name": "Xu Gang",
+        "country": "International"
+    },
+    {
+        "id": "14691",
+        "name": "VEND",
+        "country": "International"
+    },
+    {
+        "id": "9727",
+        "name": "Koopa Troopas",
+        "country": "Australia"
+    },
+    {
+        "id": "14699",
+        "name": "BarackObamaPizza",
+        "country": "International"
+    },
+    {
+        "id": "14683",
+        "name": "Infernum",
+        "country": "Australia"
+    },
+    {
+        "id": "15227",
+        "name": "After Life Esports",
+        "country": "Australia"
+    },
+    {
+        "id": "15198",
+        "name": "WE DONT PLAY ANYMORE",
+        "country": "International"
+    },
+    {
+        "id": "14695",
+        "name": "LAZYTOWN",
+        "country": "International"
+    },
+    {
+        "id": "10305",
+        "name": "club penguin",
+        "country": "Australia"
+    },
+    {
+        "id": "14686",
+        "name": "Xu Gang Sapphire",
+        "country": "International"
+    },
+    {
+        "id": "8535",
+        "name": "Salt n Pepper",
+        "country": "Australia"
+    }
+]

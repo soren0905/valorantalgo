@@ -1,0 +1,402 @@
+[
+    {
+        "id": "1120",
+        "name": "EDward Gaming",
+        "country": "China"
+    },
+    {
+        "id": "12685",
+        "name": "Trace Esports",
+        "country": "China"
+    },
+    {
+        "id": "11328",
+        "name": "FunPlus Phoenix",
+        "country": "China"
+    },
+    {
+        "id": "11981",
+        "name": "Dragon Ranger Gaming",
+        "country": "China"
+    },
+    {
+        "id": "12010",
+        "name": "Bilibili Gaming",
+        "country": "China"
+    },
+    {
+        "id": "13576",
+        "name": "JD Gaming",
+        "country": "China"
+    },
+    {
+        "id": "14137",
+        "name": "Titan Esports Club",
+        "country": "China"
+    },
+    {
+        "id": "13164",
+        "name": "Chao Hui EDward Gaming",
+        "country": "China"
+    },
+    {
+        "id": "1119",
+        "name": "All Gamers",
+        "country": "China"
+    },
+    {
+        "id": "13790",
+        "name": "Wolves Esports",
+        "country": "China"
+    },
+    {
+        "id": "1224",
+        "name": "Weibo Gaming",
+        "country": "China"
+    },
+    {
+        "id": "731",
+        "name": "TYLOO",
+        "country": "China"
+    },
+    {
+        "id": "13564",
+        "name": "Regans Gaming",
+        "country": "China"
+    },
+    {
+        "id": "12011",
+        "name": "Douyu Gaming",
+        "country": "China"
+    },
+    {
+        "id": "11980",
+        "name": "Four Angry Men",
+        "country": "China"
+    },
+    {
+        "id": "5461",
+        "name": "Invictus Gaming",
+        "country": "China"
+    },
+    {
+        "id": "12064",
+        "name": "Nova Esports",
+        "country": "China"
+    },
+    {
+        "id": "11983",
+        "name": "Kingzone",
+        "country": "China"
+    },
+    {
+        "id": "5944",
+        "name": "Night Wings Gaming",
+        "country": "China"
+    },
+    {
+        "id": "12784",
+        "name": "KeepBest Gaming",
+        "country": "China"
+    },
+    {
+        "id": "4683",
+        "name": "Invincible Gaming",
+        "country": "China"
+    },
+    {
+        "id": "906",
+        "name": "NewHappy Esports",
+        "country": "China"
+    },
+    {
+        "id": "11982",
+        "name": "KunPeng Gaming",
+        "country": "China"
+    },
+    {
+        "id": "11986",
+        "name": "TJD Esports Club",
+        "country": "China"
+    },
+    {
+        "id": "2934",
+        "name": "FENNEL",
+        "country": "Japan"
+    },
+    {
+        "id": "516",
+        "name": "FAV gaming",
+        "country": "Japan"
+    },
+    {
+        "id": "104",
+        "name": "REJECT",
+        "country": "Japan"
+    },
+    {
+        "id": "278",
+        "name": "DetonatioN FocusMe",
+        "country": "Japan"
+    },
+    {
+        "id": "283",
+        "name": "Sengoku Gaming",
+        "country": "Japan"
+    },
+    {
+        "id": "2988",
+        "name": "NORTHEPTION",
+        "country": "Japan"
+    },
+    {
+        "id": "5448",
+        "name": "ZETA DIVISION",
+        "country": "Japan"
+    },
+    {
+        "id": "9315",
+        "name": "ZETA DIVISION GC",
+        "country": "Japan"
+    },
+    {
+        "id": "294",
+        "name": "CREST GAMING Zst",
+        "country": "Japan"
+    },
+    {
+        "id": "11229",
+        "name": "VARREL",
+        "country": "Japan"
+    },
+    {
+        "id": "10606",
+        "name": "AMORIS Vega",
+        "country": "Japan"
+    },
+    {
+        "id": "14677",
+        "name": "esports team \u03b1D",
+        "country": "Japan"
+    },
+    {
+        "id": "14665",
+        "name": "RABILIS BURST",
+        "country": "Japan"
+    },
+    {
+        "id": "2108",
+        "name": "BLUE BEES.ESP",
+        "country": "Japan"
+    },
+    {
+        "id": "14383",
+        "name": "NOEZ FOXX",
+        "country": "Japan"
+    },
+    {
+        "id": "11233",
+        "name": "BC SWELL",
+        "country": "Japan"
+    },
+    {
+        "id": "11498",
+        "name": "Citrus e-sports",
+        "country": "Japan"
+    },
+    {
+        "id": "282",
+        "name": "SCARZ",
+        "country": "Japan"
+    },
+    {
+        "id": "8043",
+        "name": "SOLAR ANTHEM",
+        "country": "South Korea"
+    },
+    {
+        "id": "13612",
+        "name": "Xenesis e-sports",
+        "country": "Japan"
+    },
+    {
+        "id": "11506",
+        "name": "Acris",
+        "country": "Japan"
+    },
+    {
+        "id": "8870",
+        "name": "HIT GAMING CLAN",
+        "country": "Japan"
+    },
+    {
+        "id": "13615",
+        "name": "Father's Back",
+        "country": "Japan"
+    },
+    {
+        "id": "6798",
+        "name": "REIGNITE",
+        "country": "Japan"
+    },
+    {
+        "id": "11491",
+        "name": "TeamDuration",
+        "country": "Japan"
+    },
+    {
+        "id": "11490",
+        "name": "Murash Gaming",
+        "country": "Japan"
+    },
+    {
+        "id": "5148",
+        "name": "Insomnia",
+        "country": "Japan"
+    },
+    {
+        "id": "13614",
+        "name": "Striderz",
+        "country": "Japan"
+    },
+    {
+        "id": "11513",
+        "name": "DopeNess Esports",
+        "country": "Japan"
+    },
+    {
+        "id": "6869",
+        "name": "IGZIST",
+        "country": "Japan"
+    },
+    {
+        "id": "2990",
+        "name": "Lost Eden",
+        "country": "Japan"
+    },
+    {
+        "id": "10607",
+        "name": "SETOUCHI SPARKS",
+        "country": "Japan"
+    },
+    {
+        "id": "8185",
+        "name": "DRX",
+        "country": "South Korea"
+    },
+    {
+        "id": "17",
+        "name": "Gen.G",
+        "country": "South Korea"
+    },
+    {
+        "id": "14",
+        "name": "T1",
+        "country": "South Korea"
+    },
+    {
+        "id": "14590",
+        "name": "LFG Portal",
+        "country": "South Korea"
+    },
+    {
+        "id": "12446",
+        "name": "SLT Seongnam",
+        "country": "South Korea"
+    },
+    {
+        "id": "11060",
+        "name": "Nongshim RedForce",
+        "country": "South Korea"
+    },
+    {
+        "id": "14599",
+        "name": "IAM",
+        "country": "South Korea"
+    },
+    {
+        "id": "11539",
+        "name": "Blater",
+        "country": "South Korea"
+    },
+    {
+        "id": "8099",
+        "name": "CNJ Esports",
+        "country": "South Korea"
+    },
+    {
+        "id": "14596",
+        "name": "OLY",
+        "country": "South Korea"
+    },
+    {
+        "id": "11348",
+        "name": "Dplus Esports",
+        "country": "South Korea"
+    },
+    {
+        "id": "14566",
+        "name": "fOu Clan",
+        "country": "South Korea"
+    },
+    {
+        "id": "14422",
+        "name": "Sin Prisa Gaming",
+        "country": "South Korea"
+    },
+    {
+        "id": "14584",
+        "name": "Frozen 3",
+        "country": "South Korea"
+    },
+    {
+        "id": "14574",
+        "name": "Nuclear",
+        "country": "South Korea"
+    },
+    {
+        "id": "8906",
+        "name": "Beyond Stratos Gaming",
+        "country": "South Korea"
+    },
+    {
+        "id": "14567",
+        "name": "YnC",
+        "country": "South Korea"
+    },
+    {
+        "id": "14602",
+        "name": "ReturN",
+        "country": "South Korea"
+    },
+    {
+        "id": "13551",
+        "name": "CVA",
+        "country": "South Korea"
+    },
+    {
+        "id": "14565",
+        "name": "SHERPA",
+        "country": "South Korea"
+    },
+    {
+        "id": "6622",
+        "name": "Team LuZi",
+        "country": "South Korea"
+    },
+    {
+        "id": "14582",
+        "name": "MS",
+        "country": "South Korea"
+    },
+    {
+        "id": "8086",
+        "name": "Maru Gaming",
+        "country": "South Korea"
+    },
+    {
+        "id": "8182",
+        "name": "Incheon On Sla2ers",
+        "country": "South Korea"
+    }
+]

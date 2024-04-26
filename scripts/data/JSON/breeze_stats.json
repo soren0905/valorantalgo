@@ -1,0 +1,9530 @@
+[
+    {
+        "Player": "grahams",
+        "RND": "24",
+        "KPR": "1.42",
+        "APR": "0.17",
+        "FKPR": "0.13",
+        "KMAX": "34"
+    },
+    {
+        "Player": "jowa\nTM",
+        "RND": "16",
+        "KPR": "1.13",
+        "APR": "0.75",
+        "FKPR": "0.13",
+        "KMAX": "18"
+    },
+    {
+        "Player": "soulcas\nAPK",
+        "RND": "19",
+        "KPR": "1.21",
+        "APR": "0.89",
+        "FKPR": "0.05",
+        "KMAX": "23"
+    },
+    {
+        "Player": "Mihlog",
+        "RND": "16",
+        "KPR": "1.44",
+        "APR": "0.06",
+        "FKPR": "0.31",
+        "KMAX": "23"
+    },
+    {
+        "Player": "iZu\nT1",
+        "RND": "22",
+        "KPR": "1.18",
+        "APR": "0.14",
+        "FKPR": "0.23",
+        "KMAX": "26"
+    },
+    {
+        "Player": "ezk\nxyz",
+        "RND": "20",
+        "KPR": "1.25",
+        "APR": "0.15",
+        "FKPR": "0.20",
+        "KMAX": "25"
+    },
+    {
+        "Player": "MiniBoo\nTH",
+        "RND": "39",
+        "KPR": "1.18",
+        "APR": "0.21",
+        "FKPR": "0.23",
+        "KMAX": "24"
+    },
+    {
+        "Player": "mada\nMxS",
+        "RND": "18",
+        "KPR": "1.28",
+        "APR": "0.00",
+        "FKPR": "0.28",
+        "KMAX": "23"
+    },
+    {
+        "Player": "Milooo\nRLF",
+        "RND": "16",
+        "KPR": "1.00",
+        "APR": "0.44",
+        "FKPR": "0.06",
+        "KMAX": "16"
+    },
+    {
+        "Player": "dods\nKR\u00dc.B",
+        "RND": "22",
+        "KPR": "1.18",
+        "APR": "0.14",
+        "FKPR": "0.23",
+        "KMAX": "26"
+    },
+    {
+        "Player": "Jelly\nMIBR",
+        "RND": "38",
+        "KPR": "1.24",
+        "APR": "0.47",
+        "FKPR": "0.13",
+        "KMAX": "25"
+    },
+    {
+        "Player": "Buffala\n6K.Fem",
+        "RND": "22",
+        "KPR": "1.14",
+        "APR": "0.18",
+        "FKPR": "0.18",
+        "KMAX": "25"
+    },
+    {
+        "Player": "aspas\nLEV",
+        "RND": "19",
+        "KPR": "1.21",
+        "APR": "0.00",
+        "FKPR": "0.16",
+        "KMAX": "23"
+    },
+    {
+        "Player": "signed\nJJH",
+        "RND": "23",
+        "KPR": "1.00",
+        "APR": "0.39",
+        "FKPR": "0.09",
+        "KMAX": "23"
+    },
+    {
+        "Player": "DWX",
+        "RND": "20",
+        "KPR": "1.05",
+        "APR": "0.15",
+        "FKPR": "0.15",
+        "KMAX": "21"
+    },
+    {
+        "Player": "Kiuuuu\nLGD",
+        "RND": "23",
+        "KPR": "1.26",
+        "APR": "0.17",
+        "FKPR": "0.13",
+        "KMAX": "29"
+    },
+    {
+        "Player": "Sato\nGLRS",
+        "RND": "40",
+        "KPR": "1.15",
+        "APR": "0.13",
+        "FKPR": "0.10",
+        "KMAX": "25"
+    },
+    {
+        "Player": "heat\nKR\u00dc",
+        "RND": "20",
+        "KPR": "1.10",
+        "APR": "0.55",
+        "FKPR": "0.10",
+        "KMAX": "22"
+    },
+    {
+        "Player": "romia\nFL.GC",
+        "RND": "17",
+        "KPR": "1.12",
+        "APR": "0.29",
+        "FKPR": "0.24",
+        "KMAX": "19"
+    },
+    {
+        "Player": "Curumi\nFL.GC",
+        "RND": "17",
+        "KPR": "1.29",
+        "APR": "0.29",
+        "FKPR": "0.12",
+        "KMAX": "22"
+    },
+    {
+        "Player": "wackie\nDSY",
+        "RND": "53",
+        "KPR": "1.06",
+        "APR": "0.28",
+        "FKPR": "0.17",
+        "KMAX": "24"
+    },
+    {
+        "Player": "dos9\nRVNT",
+        "RND": "28",
+        "KPR": "1.14",
+        "APR": "0.32",
+        "FKPR": "0.21",
+        "KMAX": "32"
+    },
+    {
+        "Player": "Arduino",
+        "RND": "39",
+        "KPR": "1.00",
+        "APR": "0.26",
+        "FKPR": "0.05",
+        "KMAX": "20"
+    },
+    {
+        "Player": "hype\nAPK",
+        "RND": "19",
+        "KPR": "1.16",
+        "APR": "0.21",
+        "FKPR": "0.11",
+        "KMAX": "22"
+    },
+    {
+        "Player": "Alucard",
+        "RND": "20",
+        "KPR": "1.00",
+        "APR": "0.20",
+        "FKPR": "0.15",
+        "KMAX": "20"
+    },
+    {
+        "Player": "Dinxx\nWVU",
+        "RND": "19",
+        "KPR": "1.11",
+        "APR": "0.16",
+        "FKPR": "0.47",
+        "KMAX": "21"
+    },
+    {
+        "Player": "Ash\nLFG",
+        "RND": "16",
+        "KPR": "1.19",
+        "APR": "0.00",
+        "FKPR": "0.38",
+        "KMAX": "19"
+    },
+    {
+        "Player": "poof\ndont",
+        "RND": "51",
+        "KPR": "1.22",
+        "APR": "0.10",
+        "FKPR": "0.16",
+        "KMAX": "43"
+    },
+    {
+        "Player": "Oderus\nMxS",
+        "RND": "18",
+        "KPR": "0.83",
+        "APR": "0.17",
+        "FKPR": "0.11",
+        "KMAX": "15"
+    },
+    {
+        "Player": "Azu",
+        "RND": "20",
+        "KPR": "1.15",
+        "APR": "0.15",
+        "FKPR": "0.35",
+        "KMAX": "23"
+    },
+    {
+        "Player": "Vera\nLZE",
+        "RND": "82",
+        "KPR": "1.18",
+        "APR": "0.13",
+        "FKPR": "0.26",
+        "KMAX": "32"
+    },
+    {
+        "Player": "haint\nOPY",
+        "RND": "24",
+        "KPR": "1.00",
+        "APR": "0.29",
+        "FKPR": "0.08",
+        "KMAX": "24"
+    },
+    {
+        "Player": "Sayonara\nKPI",
+        "RND": "19",
+        "KPR": "1.26",
+        "APR": "0.16",
+        "FKPR": "0.21",
+        "KMAX": "24"
+    },
+    {
+        "Player": "Jinboong\nSG",
+        "RND": "28",
+        "KPR": "1.00",
+        "APR": "0.25",
+        "FKPR": "0.25",
+        "KMAX": "28"
+    },
+    {
+        "Player": "benjii\nthe",
+        "RND": "16",
+        "KPR": "1.00",
+        "APR": "0.25",
+        "FKPR": "0.06",
+        "KMAX": "16"
+    },
+    {
+        "Player": "B\u00e1nhMj\nRLF",
+        "RND": "16",
+        "KPR": "1.00",
+        "APR": "0.50",
+        "FKPR": "0.06",
+        "KMAX": "16"
+    },
+    {
+        "Player": "Sayf\nVIT",
+        "RND": "42",
+        "KPR": "1.12",
+        "APR": "0.29",
+        "FKPR": "0.19",
+        "KMAX": "28"
+    },
+    {
+        "Player": "tokameite\nKPI.S",
+        "RND": "34",
+        "KPR": "1.15",
+        "APR": "0.38",
+        "FKPR": "0.09",
+        "KMAX": "39"
+    },
+    {
+        "Player": "Rebo\nROSE",
+        "RND": "21",
+        "KPR": "1.05",
+        "APR": "0.19",
+        "FKPR": "0.14",
+        "KMAX": "22"
+    },
+    {
+        "Player": "sickrey\nR8",
+        "RND": "65",
+        "KPR": "0.85",
+        "APR": "0.17",
+        "FKPR": "0.06",
+        "KMAX": "20"
+    },
+    {
+        "Player": "AtaKaptan\nFUT",
+        "RND": "20",
+        "KPR": "0.85",
+        "APR": "0.55",
+        "FKPR": "0.10",
+        "KMAX": "17"
+    },
+    {
+        "Player": "Mephisto\n6K",
+        "RND": "47",
+        "KPR": "1.13",
+        "APR": "0.15",
+        "FKPR": "0.15",
+        "KMAX": "35"
+    },
+    {
+        "Player": "Nythan\nARF",
+        "RND": "18",
+        "KPR": "1.00",
+        "APR": "0.61",
+        "FKPR": "0.22",
+        "KMAX": "18"
+    },
+    {
+        "Player": "LBY\nRGES",
+        "RND": "28",
+        "KPR": "0.96",
+        "APR": "0.14",
+        "FKPR": "0.11",
+        "KMAX": "27"
+    },
+    {
+        "Player": "Moves\nLFG",
+        "RND": "16",
+        "KPR": "1.06",
+        "APR": "0.25",
+        "FKPR": "0.13",
+        "KMAX": "17"
+    },
+    {
+        "Player": "Zap\n2G",
+        "RND": "24",
+        "KPR": "1.00",
+        "APR": "0.21",
+        "FKPR": "0.08",
+        "KMAX": "24"
+    },
+    {
+        "Player": "Ziad\nINST",
+        "RND": "23",
+        "KPR": "1.13",
+        "APR": "0.09",
+        "FKPR": "0.30",
+        "KMAX": "26"
+    },
+    {
+        "Player": "Poly\nFSS",
+        "RND": "21",
+        "KPR": "1.05",
+        "APR": "0.29",
+        "FKPR": "0.10",
+        "KMAX": "22"
+    },
+    {
+        "Player": "toozy\nVZ",
+        "RND": "16",
+        "KPR": "0.88",
+        "APR": "0.44",
+        "FKPR": "0.13",
+        "KMAX": "14"
+    },
+    {
+        "Player": "Techno\nTRS",
+        "RND": "24",
+        "KPR": "1.00",
+        "APR": "0.46",
+        "FKPR": "0.04",
+        "KMAX": "24"
+    },
+    {
+        "Player": "Inumo\nVCTRY",
+        "RND": "20",
+        "KPR": "0.75",
+        "APR": "0.20",
+        "FKPR": "0.05",
+        "KMAX": "15"
+    },
+    {
+        "Player": "Sunday\nLFG",
+        "RND": "16",
+        "KPR": "0.81",
+        "APR": "0.25",
+        "FKPR": "0.00",
+        "KMAX": "13"
+    },
+    {
+        "Player": "dip\nVZ",
+        "RND": "16",
+        "KPR": "0.56",
+        "APR": "0.94",
+        "FKPR": "0.00",
+        "KMAX": "9"
+    },
+    {
+        "Player": "ANNYEON",
+        "RND": "39",
+        "KPR": "0.90",
+        "APR": "0.38",
+        "FKPR": "0.10",
+        "KMAX": "18"
+    },
+    {
+        "Player": "alyaL\nFPT",
+        "RND": "34",
+        "KPR": "1.06",
+        "APR": "0.18",
+        "FKPR": "0.12",
+        "KMAX": "22"
+    },
+    {
+        "Player": "Teerapong\nNKT",
+        "RND": "48",
+        "KPR": "1.00",
+        "APR": "0.40",
+        "FKPR": "0.04",
+        "KMAX": "28"
+    },
+    {
+        "Player": "RieNs\nTH",
+        "RND": "39",
+        "KPR": "1.03",
+        "APR": "0.46",
+        "FKPR": "0.21",
+        "KMAX": "22"
+    },
+    {
+        "Player": "BerserX\nBME",
+        "RND": "34",
+        "KPR": "0.88",
+        "APR": "0.32",
+        "FKPR": "0.06",
+        "KMAX": "30"
+    },
+    {
+        "Player": "elfie\nMKS",
+        "RND": "30",
+        "KPR": "1.13",
+        "APR": "0.27",
+        "FKPR": "0.13",
+        "KMAX": "34"
+    },
+    {
+        "Player": "JSP\nNBG",
+        "RND": "23",
+        "KPR": "1.04",
+        "APR": "0.04",
+        "FKPR": "0.43",
+        "KMAX": "24"
+    },
+    {
+        "Player": "tex\nLEV",
+        "RND": "19",
+        "KPR": "1.11",
+        "APR": "0.00",
+        "FKPR": "0.21",
+        "KMAX": "21"
+    },
+    {
+        "Player": "ri4d\nBLX",
+        "RND": "23",
+        "KPR": "1.04",
+        "APR": "0.04",
+        "FKPR": "0.26",
+        "KMAX": "24"
+    },
+    {
+        "Player": "dimaxx\nFUZO",
+        "RND": "19",
+        "KPR": "0.89",
+        "APR": "0.42",
+        "FKPR": "0.05",
+        "KMAX": "17"
+    },
+    {
+        "Player": "Shyy\nKR\u00dc",
+        "RND": "20",
+        "KPR": "0.75",
+        "APR": "0.35",
+        "FKPR": "0.05",
+        "KMAX": "15"
+    },
+    {
+        "Player": "v1c\nMxS",
+        "RND": "18",
+        "KPR": "1.00",
+        "APR": "0.33",
+        "FKPR": "0.17",
+        "KMAX": "18"
+    },
+    {
+        "Player": "Jlerst\nGAL",
+        "RND": "21",
+        "KPR": "0.95",
+        "APR": "0.05",
+        "FKPR": "0.14",
+        "KMAX": "20"
+    },
+    {
+        "Player": "Cain\nTorc",
+        "RND": "38",
+        "KPR": "0.89",
+        "APR": "0.26",
+        "FKPR": "0.05",
+        "KMAX": "19"
+    },
+    {
+        "Player": "DESTRUCT1VEE\nGAL",
+        "RND": "21",
+        "KPR": "0.95",
+        "APR": "0.29",
+        "FKPR": "0.14",
+        "KMAX": "20"
+    },
+    {
+        "Player": "Autumn\nFPX",
+        "RND": "93",
+        "KPR": "0.83",
+        "APR": "0.23",
+        "FKPR": "0.29",
+        "KMAX": "25"
+    },
+    {
+        "Player": "kaho\nSFU.P",
+        "RND": "38",
+        "KPR": "1.13",
+        "APR": "0.16",
+        "FKPR": "0.24",
+        "KMAX": "22"
+    },
+    {
+        "Player": "Kylee\nARF",
+        "RND": "18",
+        "KPR": "1.06",
+        "APR": "0.00",
+        "FKPR": "0.00",
+        "KMAX": "19"
+    },
+    {
+        "Player": "yetujey\nFUT",
+        "RND": "20",
+        "KPR": "0.70",
+        "APR": "0.25",
+        "FKPR": "0.10",
+        "KMAX": "14"
+    },
+    {
+        "Player": "Obnoks\nMOUZ",
+        "RND": "26",
+        "KPR": "0.92",
+        "APR": "0.46",
+        "FKPR": "0.15",
+        "KMAX": "24"
+    },
+    {
+        "Player": "iluri\nMOUZ",
+        "RND": "26",
+        "KPR": "0.88",
+        "APR": "0.35",
+        "FKPR": "0.08",
+        "KMAX": "23"
+    },
+    {
+        "Player": "neT\nG2",
+        "RND": "45",
+        "KPR": "1.02",
+        "APR": "0.20",
+        "FKPR": "0.11",
+        "KMAX": "25"
+    },
+    {
+        "Player": "DREAM\nCG.GC",
+        "RND": "30",
+        "KPR": "0.97",
+        "APR": "0.40",
+        "FKPR": "0.10",
+        "KMAX": "29"
+    },
+    {
+        "Player": "david\n9z",
+        "RND": "60",
+        "KPR": "1.05",
+        "APR": "0.23",
+        "FKPR": "0.12",
+        "KMAX": "35"
+    },
+    {
+        "Player": "Akai\nFLC",
+        "RND": "116",
+        "KPR": "1.06",
+        "APR": "0.17",
+        "FKPR": "0.19",
+        "KMAX": "43"
+    },
+    {
+        "Player": "S1ay3rr\nSFU",
+        "RND": "38",
+        "KPR": "0.87",
+        "APR": "0.79",
+        "FKPR": "0.08",
+        "KMAX": "17"
+    },
+    {
+        "Player": "Kolosha",
+        "RND": "49",
+        "KPR": "1.04",
+        "APR": "0.29",
+        "FKPR": "0.10",
+        "KMAX": "30"
+    },
+    {
+        "Player": "Paradox\nRVNT",
+        "RND": "28",
+        "KPR": "0.89",
+        "APR": "0.54",
+        "FKPR": "0.07",
+        "KMAX": "25"
+    },
+    {
+        "Player": "mocatito",
+        "RND": "20",
+        "KPR": "1.15",
+        "APR": "0.25",
+        "FKPR": "0.15",
+        "KMAX": "23"
+    },
+    {
+        "Player": "Less\nLOUD",
+        "RND": "68",
+        "KPR": "1.00",
+        "APR": "0.26",
+        "FKPR": "0.09",
+        "KMAX": "25"
+    },
+    {
+        "Player": "Blessed\nFOC",
+        "RND": "23",
+        "KPR": "0.87",
+        "APR": "0.22",
+        "FKPR": "0.13",
+        "KMAX": "20"
+    },
+    {
+        "Player": "mmonch\nAKV.GC",
+        "RND": "28",
+        "KPR": "0.96",
+        "APR": "0.32",
+        "FKPR": "0.00",
+        "KMAX": "27"
+    },
+    {
+        "Player": "Hori",
+        "RND": "20",
+        "KPR": "1.00",
+        "APR": "0.05",
+        "FKPR": "0.10",
+        "KMAX": "20"
+    },
+    {
+        "Player": "Muffyn\nFSS",
+        "RND": "21",
+        "KPR": "0.95",
+        "APR": "0.33",
+        "FKPR": "0.24",
+        "KMAX": "20"
+    },
+    {
+        "Player": "Faceroll\nVENI",
+        "RND": "20",
+        "KPR": "0.80",
+        "APR": "0.20",
+        "FKPR": "0.00",
+        "KMAX": "16"
+    },
+    {
+        "Player": "6ix\nSila",
+        "RND": "24",
+        "KPR": "0.96",
+        "APR": "0.21",
+        "FKPR": "0.13",
+        "KMAX": "23"
+    },
+    {
+        "Player": "sacred\nYFP",
+        "RND": "38",
+        "KPR": "0.82",
+        "APR": "0.21",
+        "FKPR": "0.05",
+        "KMAX": "18"
+    },
+    {
+        "Player": "tryst\nOGS",
+        "RND": "45",
+        "KPR": "1.00",
+        "APR": "0.16",
+        "FKPR": "0.09",
+        "KMAX": "23"
+    },
+    {
+        "Player": "coconut\nOF",
+        "RND": "23",
+        "KPR": "0.96",
+        "APR": "0.09",
+        "FKPR": "0.00",
+        "KMAX": "22"
+    },
+    {
+        "Player": "McKinley\nAIC",
+        "RND": "23",
+        "KPR": "0.74",
+        "APR": "0.26",
+        "FKPR": "0.13",
+        "KMAX": "17"
+    },
+    {
+        "Player": "Enjoy\nIU",
+        "RND": "30",
+        "KPR": "1.10",
+        "APR": "0.13",
+        "FKPR": "0.27",
+        "KMAX": "33"
+    },
+    {
+        "Player": "cNed\nFUT",
+        "RND": "20",
+        "KPR": "1.05",
+        "APR": "0.20",
+        "FKPR": "0.15",
+        "KMAX": "21"
+    },
+    {
+        "Player": "Tag\nDSY",
+        "RND": "53",
+        "KPR": "0.83",
+        "APR": "0.34",
+        "FKPR": "0.11",
+        "KMAX": "18"
+    },
+    {
+        "Player": "mimi\nG2.G",
+        "RND": "81",
+        "KPR": "0.80",
+        "APR": "0.41",
+        "FKPR": "0.14",
+        "KMAX": "21"
+    },
+    {
+        "Player": "TiduS\nAKR",
+        "RND": "23",
+        "KPR": "0.78",
+        "APR": "0.26",
+        "FKPR": "0.04",
+        "KMAX": "18"
+    },
+    {
+        "Player": "ShawateRR\nUG",
+        "RND": "24",
+        "KPR": "0.96",
+        "APR": "0.17",
+        "FKPR": "0.13",
+        "KMAX": "23"
+    },
+    {
+        "Player": "trexx\nVIT",
+        "RND": "42",
+        "KPR": "0.81",
+        "APR": "0.33",
+        "FKPR": "0.10",
+        "KMAX": "18"
+    },
+    {
+        "Player": "Glenn\nSiko",
+        "RND": "22",
+        "KPR": "0.86",
+        "APR": "0.50",
+        "FKPR": "0.14",
+        "KMAX": "19"
+    },
+    {
+        "Player": "baddyG\nACE",
+        "RND": "19",
+        "KPR": "0.63",
+        "APR": "0.63",
+        "FKPR": "0.21",
+        "KMAX": "12"
+    },
+    {
+        "Player": "Anva\nfuVi",
+        "RND": "24",
+        "KPR": "0.96",
+        "APR": "0.13",
+        "FKPR": "0.21",
+        "KMAX": "23"
+    },
+    {
+        "Player": "sym\nTSM",
+        "RND": "64",
+        "KPR": "0.97",
+        "APR": "0.19",
+        "FKPR": "0.19",
+        "KMAX": "24"
+    },
+    {
+        "Player": "soren\nColo",
+        "RND": "95",
+        "KPR": "0.94",
+        "APR": "0.18",
+        "FKPR": "0.26",
+        "KMAX": "29"
+    },
+    {
+        "Player": "conir\nKR\u00dc.B",
+        "RND": "22",
+        "KPR": "0.86",
+        "APR": "0.41",
+        "FKPR": "0.14",
+        "KMAX": "19"
+    },
+    {
+        "Player": "pashalime",
+        "RND": "20",
+        "KPR": "0.95",
+        "APR": "0.05",
+        "FKPR": "0.30",
+        "KMAX": "19"
+    },
+    {
+        "Player": "NoMan\nEQZ",
+        "RND": "22",
+        "KPR": "1.00",
+        "APR": "0.14",
+        "FKPR": "0.27",
+        "KMAX": "22"
+    },
+    {
+        "Player": "Natasha\nCARA",
+        "RND": "50",
+        "KPR": "0.94",
+        "APR": "0.20",
+        "FKPR": "0.06",
+        "KMAX": "26"
+    },
+    {
+        "Player": "keznit\nKR\u00dc",
+        "RND": "20",
+        "KPR": "0.95",
+        "APR": "0.00",
+        "FKPR": "0.15",
+        "KMAX": "19"
+    },
+    {
+        "Player": "Padisah\nGS",
+        "RND": "47",
+        "KPR": "0.96",
+        "APR": "0.19",
+        "FKPR": "0.02",
+        "KMAX": "25"
+    },
+    {
+        "Player": "Victor\nNRG",
+        "RND": "60",
+        "KPR": "0.87",
+        "APR": "0.18",
+        "FKPR": "0.12",
+        "KMAX": "24"
+    },
+    {
+        "Player": "d3ffo\nVLNT",
+        "RND": "43",
+        "KPR": "0.93",
+        "APR": "0.26",
+        "FKPR": "0.21",
+        "KMAX": "22"
+    },
+    {
+        "Player": "Mel\nMIBR",
+        "RND": "38",
+        "KPR": "0.87",
+        "APR": "0.11",
+        "FKPR": "0.08",
+        "KMAX": "18"
+    },
+    {
+        "Player": "tuyz\nLOUD",
+        "RND": "68",
+        "KPR": "0.79",
+        "APR": "0.51",
+        "FKPR": "0.01",
+        "KMAX": "22"
+    },
+    {
+        "Player": "Siduzord\nSTE",
+        "RND": "91",
+        "KPR": "0.80",
+        "APR": "0.22",
+        "FKPR": "0.09",
+        "KMAX": "32"
+    },
+    {
+        "Player": "Kaoticcc\nSaD",
+        "RND": "38",
+        "KPR": "0.92",
+        "APR": "0.13",
+        "FKPR": "0.16",
+        "KMAX": "20"
+    },
+    {
+        "Player": "Dizzy",
+        "RND": "26",
+        "KPR": "0.73",
+        "APR": "0.31",
+        "FKPR": "0.12",
+        "KMAX": "19"
+    },
+    {
+        "Player": "ngk",
+        "RND": "26",
+        "KPR": "1.08",
+        "APR": "0.12",
+        "FKPR": "0.15",
+        "KMAX": "28"
+    },
+    {
+        "Player": "rAb1q\nSTPL",
+        "RND": "30",
+        "KPR": "0.90",
+        "APR": "0.37",
+        "FKPR": "0.03",
+        "KMAX": "27"
+    },
+    {
+        "Player": "fl1pzjder\nRRQ",
+        "RND": "23",
+        "KPR": "1.00",
+        "APR": "0.22",
+        "FKPR": "0.09",
+        "KMAX": "23"
+    },
+    {
+        "Player": "darkosek\nINCO",
+        "RND": "18",
+        "KPR": "1.11",
+        "APR": "0.11",
+        "FKPR": "0.11",
+        "KMAX": "20"
+    },
+    {
+        "Player": "Reita\nMRSH",
+        "RND": "28",
+        "KPR": "0.89",
+        "APR": "0.18",
+        "FKPR": "0.14",
+        "KMAX": "25"
+    },
+    {
+        "Player": "Akame\nRC",
+        "RND": "60",
+        "KPR": "1.00",
+        "APR": "0.23",
+        "FKPR": "0.18",
+        "KMAX": "39"
+    },
+    {
+        "Player": "Vania\nG2.G",
+        "RND": "81",
+        "KPR": "0.81",
+        "APR": "0.23",
+        "FKPR": "0.15",
+        "KMAX": "20"
+    },
+    {
+        "Player": "grumble\nLZE",
+        "RND": "82",
+        "KPR": "0.80",
+        "APR": "0.35",
+        "FKPR": "0.09",
+        "KMAX": "19"
+    },
+    {
+        "Player": "Mikelelle\nEYG",
+        "RND": "20",
+        "KPR": "0.90",
+        "APR": "0.60",
+        "FKPR": "0.10",
+        "KMAX": "18"
+    },
+    {
+        "Player": "musashi\nACE",
+        "RND": "41",
+        "KPR": "0.83",
+        "APR": "0.46",
+        "FKPR": "0.02",
+        "KMAX": "18"
+    },
+    {
+        "Player": "Liz\n6K.Fem",
+        "RND": "22",
+        "KPR": "0.82",
+        "APR": "0.14",
+        "FKPR": "0.27",
+        "KMAX": "18"
+    },
+    {
+        "Player": "SecondLove\nAPH",
+        "RND": "40",
+        "KPR": "0.78",
+        "APR": "0.25",
+        "FKPR": "0.05",
+        "KMAX": "16"
+    },
+    {
+        "Player": "sayoo\nGRY",
+        "RND": "24",
+        "KPR": "0.83",
+        "APR": "0.21",
+        "FKPR": "0.08",
+        "KMAX": "20"
+    },
+    {
+        "Player": "Matt\nBurg",
+        "RND": "19",
+        "KPR": "0.79",
+        "APR": "0.42",
+        "FKPR": "0.00",
+        "KMAX": "15"
+    },
+    {
+        "Player": "Demiurge\nMZP",
+        "RND": "23",
+        "KPR": "0.96",
+        "APR": "0.17",
+        "FKPR": "0.22",
+        "KMAX": "22"
+    },
+    {
+        "Player": "klaudia\nO1O",
+        "RND": "24",
+        "KPR": "0.92",
+        "APR": "0.75",
+        "FKPR": "0.17",
+        "KMAX": "22"
+    },
+    {
+        "Player": "wayne\nDSG",
+        "RND": "80",
+        "KPR": "0.80",
+        "APR": "0.19",
+        "FKPR": "0.09",
+        "KMAX": "17"
+    },
+    {
+        "Player": "devilasxa\nGMX.L",
+        "RND": "34",
+        "KPR": "0.88",
+        "APR": "0.38",
+        "FKPR": "0.09",
+        "KMAX": "30"
+    },
+    {
+        "Player": "Marved\nNRG",
+        "RND": "60",
+        "KPR": "0.78",
+        "APR": "0.27",
+        "FKPR": "0.10",
+        "KMAX": "21"
+    },
+    {
+        "Player": "murizzz\nRETA",
+        "RND": "22",
+        "KPR": "0.82",
+        "APR": "0.18",
+        "FKPR": "0.14",
+        "KMAX": "18"
+    },
+    {
+        "Player": "Russ\nGE",
+        "RND": "26",
+        "KPR": "0.81",
+        "APR": "0.46",
+        "FKPR": "0.04",
+        "KMAX": "21"
+    },
+    {
+        "Player": "fluxxy\nO1O",
+        "RND": "24",
+        "KPR": "0.83",
+        "APR": "0.21",
+        "FKPR": "0.08",
+        "KMAX": "20"
+    },
+    {
+        "Player": "Fizzy\nMOUZ",
+        "RND": "26",
+        "KPR": "0.85",
+        "APR": "0.35",
+        "FKPR": "0.12",
+        "KMAX": "22"
+    },
+    {
+        "Player": "Near\nUNT",
+        "RND": "59",
+        "KPR": "0.80",
+        "APR": "0.22",
+        "FKPR": "0.14",
+        "KMAX": "18"
+    },
+    {
+        "Player": "sayuri\nMIBR",
+        "RND": "38",
+        "KPR": "0.61",
+        "APR": "0.47",
+        "FKPR": "0.00",
+        "KMAX": "15"
+    },
+    {
+        "Player": "Touven\nGGO",
+        "RND": "47",
+        "KPR": "0.89",
+        "APR": "0.26",
+        "FKPR": "0.06",
+        "KMAX": "26"
+    },
+    {
+        "Player": "Insider\nKPI",
+        "RND": "19",
+        "KPR": "0.89",
+        "APR": "0.37",
+        "FKPR": "0.16",
+        "KMAX": "17"
+    },
+    {
+        "Player": "LETHAL\nWHO",
+        "RND": "38",
+        "KPR": "0.84",
+        "APR": "0.53",
+        "FKPR": "0.05",
+        "KMAX": "32"
+    },
+    {
+        "Player": "Hitch\nESC",
+        "RND": "23",
+        "KPR": "0.78",
+        "APR": "0.52",
+        "FKPR": "0.00",
+        "KMAX": "18"
+    },
+    {
+        "Player": "POISED\nTSM",
+        "RND": "64",
+        "KPR": "0.83",
+        "APR": "0.36",
+        "FKPR": "0.09",
+        "KMAX": "21"
+    },
+    {
+        "Player": "ponix\n9z.GC",
+        "RND": "59",
+        "KPR": "0.85",
+        "APR": "0.20",
+        "FKPR": "0.07",
+        "KMAX": "20"
+    },
+    {
+        "Player": "delz1k\nRETA",
+        "RND": "22",
+        "KPR": "0.77",
+        "APR": "0.23",
+        "FKPR": "0.00",
+        "KMAX": "17"
+    },
+    {
+        "Player": "prince\nTBK",
+        "RND": "109",
+        "KPR": "0.82",
+        "APR": "0.35",
+        "FKPR": "0.09",
+        "KMAX": "23"
+    },
+    {
+        "Player": "Myth\nFOC",
+        "RND": "23",
+        "KPR": "0.70",
+        "APR": "0.39",
+        "FKPR": "0.04",
+        "KMAX": "16"
+    },
+    {
+        "Player": "Feniz\nEXL",
+        "RND": "22",
+        "KPR": "0.73",
+        "APR": "0.14",
+        "FKPR": "0.09",
+        "KMAX": "16"
+    },
+    {
+        "Player": "dzii\nLESS",
+        "RND": "82",
+        "KPR": "0.79",
+        "APR": "0.32",
+        "FKPR": "0.06",
+        "KMAX": "21"
+    },
+    {
+        "Player": "gatorada\nSG",
+        "RND": "28",
+        "KPR": "0.89",
+        "APR": "0.39",
+        "FKPR": "0.11",
+        "KMAX": "25"
+    },
+    {
+        "Player": "FETA\nAIC",
+        "RND": "23",
+        "KPR": "0.78",
+        "APR": "0.17",
+        "FKPR": "0.09",
+        "KMAX": "18"
+    },
+    {
+        "Player": "Lightningfast\nGE",
+        "RND": "26",
+        "KPR": "0.85",
+        "APR": "0.42",
+        "FKPR": "0.08",
+        "KMAX": "22"
+    },
+    {
+        "Player": "Pie\nColo",
+        "RND": "95",
+        "KPR": "0.69",
+        "APR": "0.47",
+        "FKPR": "0.03",
+        "KMAX": "24"
+    },
+    {
+        "Player": "tokyo\nROSE",
+        "RND": "21",
+        "KPR": "0.95",
+        "APR": "0.19",
+        "FKPR": "0.29",
+        "KMAX": "20"
+    },
+    {
+        "Player": "neth\nDFM",
+        "RND": "22",
+        "KPR": "0.86",
+        "APR": "0.36",
+        "FKPR": "0.05",
+        "KMAX": "19"
+    },
+    {
+        "Player": "cgrs\nMITH",
+        "RND": "30",
+        "KPR": "0.93",
+        "APR": "0.30",
+        "FKPR": "0.10",
+        "KMAX": "28"
+    },
+    {
+        "Player": "JayH\nDSG",
+        "RND": "80",
+        "KPR": "0.85",
+        "APR": "0.35",
+        "FKPR": "0.06",
+        "KMAX": "20"
+    },
+    {
+        "Player": "Dogo\nSaD",
+        "RND": "23",
+        "KPR": "0.83",
+        "APR": "0.26",
+        "FKPR": "0.04",
+        "KMAX": "19"
+    },
+    {
+        "Player": "Boni\nBurg",
+        "RND": "41",
+        "KPR": "0.90",
+        "APR": "0.32",
+        "FKPR": "0.20",
+        "KMAX": "19"
+    },
+    {
+        "Player": "qq\nNKT",
+        "RND": "48",
+        "KPR": "0.85",
+        "APR": "0.06",
+        "FKPR": "0.31",
+        "KMAX": "21"
+    },
+    {
+        "Player": "weber",
+        "RND": "30",
+        "KPR": "0.83",
+        "APR": "0.17",
+        "FKPR": "0.23",
+        "KMAX": "25"
+    },
+    {
+        "Player": "Miku\nFSX",
+        "RND": "52",
+        "KPR": "1.08",
+        "APR": "0.10",
+        "FKPR": "0.25",
+        "KMAX": "31"
+    },
+    {
+        "Player": "glo\nSFU.P",
+        "RND": "38",
+        "KPR": "0.95",
+        "APR": "0.05",
+        "FKPR": "0.11",
+        "KMAX": "20"
+    },
+    {
+        "Player": "nicky",
+        "RND": "59",
+        "KPR": "0.78",
+        "APR": "0.34",
+        "FKPR": "0.05",
+        "KMAX": "23"
+    },
+    {
+        "Player": "maestr0\nXLD",
+        "RND": "68",
+        "KPR": "0.97",
+        "APR": "0.18",
+        "FKPR": "0.09",
+        "KMAX": "24"
+    },
+    {
+        "Player": "Hanuh\nTHE.K",
+        "RND": "16",
+        "KPR": "1.06",
+        "APR": "0.13",
+        "FKPR": "0.19",
+        "KMAX": "17"
+    },
+    {
+        "Player": "Demon1\nNRG",
+        "RND": "60",
+        "KPR": "0.80",
+        "APR": "0.22",
+        "FKPR": "0.25",
+        "KMAX": "21"
+    },
+    {
+        "Player": "Zneva\nNOM",
+        "RND": "16",
+        "KPR": "1.00",
+        "APR": "0.25",
+        "FKPR": "0.19",
+        "KMAX": "16"
+    },
+    {
+        "Player": "socools0da\nTHA",
+        "RND": "48",
+        "KPR": "0.75",
+        "APR": "0.23",
+        "FKPR": "0.02",
+        "KMAX": "26"
+    },
+    {
+        "Player": "Notexxd\nSix",
+        "RND": "22",
+        "KPR": "0.86",
+        "APR": "0.59",
+        "FKPR": "0.09",
+        "KMAX": "19"
+    },
+    {
+        "Player": "tconda\nUC.Fem",
+        "RND": "24",
+        "KPR": "0.96",
+        "APR": "0.21",
+        "FKPR": "0.25",
+        "KMAX": "23"
+    },
+    {
+        "Player": "Edw4rd\n0Zer",
+        "RND": "33",
+        "KPR": "0.79",
+        "APR": "0.12",
+        "FKPR": "0.06",
+        "KMAX": "14"
+    },
+    {
+        "Player": "DisisJohn\nFKS",
+        "RND": "26",
+        "KPR": "0.92",
+        "APR": "0.08",
+        "FKPR": "0.23",
+        "KMAX": "24"
+    },
+    {
+        "Player": "Munchkin\nGEN",
+        "RND": "77",
+        "KPR": "0.78",
+        "APR": "0.19",
+        "FKPR": "0.06",
+        "KMAX": "19"
+    },
+    {
+        "Player": "Evilkyk\nGLRS",
+        "RND": "40",
+        "KPR": "0.73",
+        "APR": "0.23",
+        "FKPR": "0.08",
+        "KMAX": "19"
+    },
+    {
+        "Player": "Dantedeu5\nAK",
+        "RND": "40",
+        "KPR": "0.98",
+        "APR": "0.05",
+        "FKPR": "0.23",
+        "KMAX": "23"
+    },
+    {
+        "Player": "Bgg\nR8",
+        "RND": "65",
+        "KPR": "0.72",
+        "APR": "0.32",
+        "FKPR": "0.08",
+        "KMAX": "17"
+    },
+    {
+        "Player": "Wangle",
+        "RND": "21",
+        "KPR": "1.05",
+        "APR": "0.14",
+        "FKPR": "0.00",
+        "KMAX": "22"
+    },
+    {
+        "Player": "kiNgg\nLEV",
+        "RND": "19",
+        "KPR": "0.58",
+        "APR": "0.79",
+        "FKPR": "0.05",
+        "KMAX": "11"
+    },
+    {
+        "Player": "SpYzera\nFLC",
+        "RND": "116",
+        "KPR": "0.70",
+        "APR": "0.60",
+        "FKPR": "0.07",
+        "KMAX": "26"
+    },
+    {
+        "Player": "Br1ckzl\nVIS",
+        "RND": "70",
+        "KPR": "0.84",
+        "APR": "0.19",
+        "FKPR": "0.09",
+        "KMAX": "27"
+    },
+    {
+        "Player": "alvin\nBurg",
+        "RND": "19",
+        "KPR": "0.84",
+        "APR": "0.26",
+        "FKPR": "0.11",
+        "KMAX": "16"
+    },
+    {
+        "Player": "Meiy\nDFM",
+        "RND": "22",
+        "KPR": "0.91",
+        "APR": "0.14",
+        "FKPR": "0.27",
+        "KMAX": "20"
+    },
+    {
+        "Player": "Klaus\nKR\u00dc",
+        "RND": "20",
+        "KPR": "0.65",
+        "APR": "0.25",
+        "FKPR": "0.20",
+        "KMAX": "13"
+    },
+    {
+        "Player": "dgzin\nHERO",
+        "RND": "71",
+        "KPR": "1.01",
+        "APR": "0.10",
+        "FKPR": "0.24",
+        "KMAX": "27"
+    },
+    {
+        "Player": "Mikael\nARF",
+        "RND": "53",
+        "KPR": "0.77",
+        "APR": "0.30",
+        "FKPR": "0.11",
+        "KMAX": "23"
+    },
+    {
+        "Player": "Lysoar",
+        "RND": "93",
+        "KPR": "0.60",
+        "APR": "0.23",
+        "FKPR": "0.04",
+        "KMAX": "20"
+    },
+    {
+        "Player": "bsmooth",
+        "RND": "30",
+        "KPR": "0.87",
+        "APR": "0.13",
+        "FKPR": "0.13",
+        "KMAX": "26"
+    },
+    {
+        "Player": "maripo\nRIG.L",
+        "RND": "17",
+        "KPR": "0.76",
+        "APR": "0.12",
+        "FKPR": "0.06",
+        "KMAX": "13"
+    },
+    {
+        "Player": "Nabber\nTAMU",
+        "RND": "24",
+        "KPR": "0.83",
+        "APR": "0.08",
+        "FKPR": "0.04",
+        "KMAX": "20"
+    },
+    {
+        "Player": "IKANA\nGZL",
+        "RND": "20",
+        "KPR": "0.85",
+        "APR": "0.15",
+        "FKPR": "0.00",
+        "KMAX": "17"
+    },
+    {
+        "Player": "Hals\nRC",
+        "RND": "60",
+        "KPR": "0.65",
+        "APR": "0.15",
+        "FKPR": "0.03",
+        "KMAX": "22"
+    },
+    {
+        "Player": "damaraa\nTHE",
+        "RND": "37",
+        "KPR": "0.89",
+        "APR": "0.22",
+        "FKPR": "0.16",
+        "KMAX": "19"
+    },
+    {
+        "Player": "waddle\nDSY",
+        "RND": "53",
+        "KPR": "0.62",
+        "APR": "0.26",
+        "FKPR": "0.08",
+        "KMAX": "12"
+    },
+    {
+        "Player": "MerSa\nGS",
+        "RND": "47",
+        "KPR": "0.53",
+        "APR": "0.81",
+        "FKPR": "0.04",
+        "KMAX": "13"
+    },
+    {
+        "Player": "Gwangboong",
+        "RND": "28",
+        "KPR": "0.96",
+        "APR": "0.21",
+        "FKPR": "0.18",
+        "KMAX": "27"
+    },
+    {
+        "Player": "Jow\nEXL",
+        "RND": "22",
+        "KPR": "0.91",
+        "APR": "0.14",
+        "FKPR": "0.27",
+        "KMAX": "20"
+    },
+    {
+        "Player": "caydeN\nDSY",
+        "RND": "53",
+        "KPR": "0.68",
+        "APR": "0.38",
+        "FKPR": "0.06",
+        "KMAX": "13"
+    },
+    {
+        "Player": "oonzmlp\nMARU",
+        "RND": "39",
+        "KPR": "0.87",
+        "APR": "0.21",
+        "FKPR": "0.15",
+        "KMAX": "18"
+    },
+    {
+        "Player": "NakJi\nLFG",
+        "RND": "16",
+        "KPR": "0.63",
+        "APR": "0.63",
+        "FKPR": "0.06",
+        "KMAX": "10"
+    },
+    {
+        "Player": "mizu\n9z",
+        "RND": "60",
+        "KPR": "0.83",
+        "APR": "0.17",
+        "FKPR": "0.15",
+        "KMAX": "20"
+    },
+    {
+        "Player": "STYRON\nSGP",
+        "RND": "85",
+        "KPR": "0.88",
+        "APR": "0.19",
+        "FKPR": "0.09",
+        "KMAX": "27"
+    },
+    {
+        "Player": "YamzzI\nFL.GC",
+        "RND": "17",
+        "KPR": "0.47",
+        "APR": "0.71",
+        "FKPR": "0.06",
+        "KMAX": "8"
+    },
+    {
+        "Player": "Faska\nEQZ",
+        "RND": "22",
+        "KPR": "0.86",
+        "APR": "0.05",
+        "FKPR": "0.09",
+        "KMAX": "19"
+    },
+    {
+        "Player": "IDG\nONS",
+        "RND": "20",
+        "KPR": "0.95",
+        "APR": "0.20",
+        "FKPR": "0.05",
+        "KMAX": "19"
+    },
+    {
+        "Player": "Hate\nLFG",
+        "RND": "16",
+        "KPR": "0.69",
+        "APR": "0.56",
+        "FKPR": "0.00",
+        "KMAX": "11"
+    },
+    {
+        "Player": "MaKo\nDRX",
+        "RND": "22",
+        "KPR": "0.82",
+        "APR": "0.55",
+        "FKPR": "0.09",
+        "KMAX": "18"
+    },
+    {
+        "Player": "DEATHMAKER\nTRS",
+        "RND": "24",
+        "KPR": "1.00",
+        "APR": "0.17",
+        "FKPR": "0.42",
+        "KMAX": "24"
+    },
+    {
+        "Player": "kenhlong",
+        "RND": "22",
+        "KPR": "0.77",
+        "APR": "0.14",
+        "FKPR": "0.05",
+        "KMAX": "17"
+    },
+    {
+        "Player": "JoJo\nFA",
+        "RND": "30",
+        "KPR": "0.80",
+        "APR": "0.20",
+        "FKPR": "0.10",
+        "KMAX": "24"
+    },
+    {
+        "Player": "srN\nMIBR",
+        "RND": "38",
+        "KPR": "1.00",
+        "APR": "0.21",
+        "FKPR": "0.37",
+        "KMAX": "24"
+    },
+    {
+        "Player": "appA\nKOPF",
+        "RND": "65",
+        "KPR": "0.91",
+        "APR": "0.11",
+        "FKPR": "0.31",
+        "KMAX": "23"
+    },
+    {
+        "Player": "Samphire\nMLT.GC",
+        "RND": "30",
+        "KPR": "0.83",
+        "APR": "0.10",
+        "FKPR": "0.07",
+        "KMAX": "25"
+    },
+    {
+        "Player": "ALIVE\nACE",
+        "RND": "41",
+        "KPR": "0.88",
+        "APR": "0.17",
+        "FKPR": "0.12",
+        "KMAX": "19"
+    },
+    {
+        "Player": "bzt\nCG",
+        "RND": "108",
+        "KPR": "0.70",
+        "APR": "0.21",
+        "FKPR": "0.08",
+        "KMAX": "19"
+    },
+    {
+        "Player": "Truman",
+        "RND": "22",
+        "KPR": "0.82",
+        "APR": "0.18",
+        "FKPR": "0.05",
+        "KMAX": "18"
+    },
+    {
+        "Player": "NGen\nDK",
+        "RND": "68",
+        "KPR": "0.81",
+        "APR": "0.25",
+        "FKPR": "0.10",
+        "KMAX": "20"
+    },
+    {
+        "Player": "parscofield\nMine",
+        "RND": "40",
+        "KPR": "0.98",
+        "APR": "0.18",
+        "FKPR": "0.13",
+        "KMAX": "20"
+    },
+    {
+        "Player": "none\n9z.GC",
+        "RND": "59",
+        "KPR": "0.85",
+        "APR": "0.24",
+        "FKPR": "0.19",
+        "KMAX": "20"
+    },
+    {
+        "Player": "jduh\nO1O",
+        "RND": "24",
+        "KPR": "0.67",
+        "APR": "0.25",
+        "FKPR": "0.04",
+        "KMAX": "16"
+    },
+    {
+        "Player": "acrian\nVLYN",
+        "RND": "23",
+        "KPR": "0.96",
+        "APR": "0.26",
+        "FKPR": "0.17",
+        "KMAX": "22"
+    },
+    {
+        "Player": "Junju",
+        "RND": "17",
+        "KPR": "1.00",
+        "APR": "0.06",
+        "FKPR": "0.24",
+        "KMAX": "17"
+    },
+    {
+        "Player": "Ethan\nNRG",
+        "RND": "60",
+        "KPR": "0.70",
+        "APR": "0.27",
+        "FKPR": "0.08",
+        "KMAX": "19"
+    },
+    {
+        "Player": "SoOn\nMDR",
+        "RND": "20",
+        "KPR": "0.75",
+        "APR": "0.15",
+        "FKPR": "0.10",
+        "KMAX": "15"
+    },
+    {
+        "Player": "austifrosti\nTAMU",
+        "RND": "24",
+        "KPR": "0.75",
+        "APR": "0.33",
+        "FKPR": "0.17",
+        "KMAX": "18"
+    },
+    {
+        "Player": "Noia\nSR",
+        "RND": "67",
+        "KPR": "0.84",
+        "APR": "0.10",
+        "FKPR": "0.16",
+        "KMAX": "26"
+    },
+    {
+        "Player": "Tuli\n9z",
+        "RND": "60",
+        "KPR": "0.80",
+        "APR": "0.15",
+        "FKPR": "0.17",
+        "KMAX": "20"
+    },
+    {
+        "Player": "seven\nTSM",
+        "RND": "64",
+        "KPR": "0.77",
+        "APR": "0.41",
+        "FKPR": "0.09",
+        "KMAX": "21"
+    },
+    {
+        "Player": "cashmere\nTHE",
+        "RND": "37",
+        "KPR": "0.76",
+        "APR": "0.35",
+        "FKPR": "0.11",
+        "KMAX": "14"
+    },
+    {
+        "Player": "CRIME",
+        "RND": "18",
+        "KPR": "0.89",
+        "APR": "0.06",
+        "FKPR": "0.22",
+        "KMAX": "16"
+    },
+    {
+        "Player": "richzin\nLGCY",
+        "RND": "60",
+        "KPR": "0.75",
+        "APR": "0.20",
+        "FKPR": "0.05",
+        "KMAX": "16"
+    },
+    {
+        "Player": "RetrQ\nBurg",
+        "RND": "41",
+        "KPR": "0.76",
+        "APR": "0.24",
+        "FKPR": "0.15",
+        "KMAX": "18"
+    },
+    {
+        "Player": "KHaaLiD\nFLC",
+        "RND": "116",
+        "KPR": "0.77",
+        "APR": "0.28",
+        "FKPR": "0.10",
+        "KMAX": "22"
+    },
+    {
+        "Player": "zeddy\nKPI",
+        "RND": "19",
+        "KPR": "0.58",
+        "APR": "0.53",
+        "FKPR": "0.00",
+        "KMAX": "11"
+    },
+    {
+        "Player": "Tenshi\nIGW",
+        "RND": "22",
+        "KPR": "0.86",
+        "APR": "0.09",
+        "FKPR": "0.23",
+        "KMAX": "19"
+    },
+    {
+        "Player": "Goaster\nMDR",
+        "RND": "20",
+        "KPR": "0.85",
+        "APR": "0.00",
+        "FKPR": "0.15",
+        "KMAX": "17"
+    },
+    {
+        "Player": "Venka\nGRY",
+        "RND": "24",
+        "KPR": "0.88",
+        "APR": "0.08",
+        "FKPR": "0.21",
+        "KMAX": "21"
+    },
+    {
+        "Player": "emluo\nFLY.R",
+        "RND": "40",
+        "KPR": "0.85",
+        "APR": "0.28",
+        "FKPR": "0.08",
+        "KMAX": "18"
+    },
+    {
+        "Player": "Ivy\nAKV.GC",
+        "RND": "28",
+        "KPR": "0.79",
+        "APR": "0.64",
+        "FKPR": "0.14",
+        "KMAX": "22"
+    },
+    {
+        "Player": "eleo\nOVA",
+        "RND": "23",
+        "KPR": "0.87",
+        "APR": "0.13",
+        "FKPR": "0.04",
+        "KMAX": "20"
+    },
+    {
+        "Player": "crashies\nNRG",
+        "RND": "60",
+        "KPR": "0.73",
+        "APR": "0.23",
+        "FKPR": "0.05",
+        "KMAX": "18"
+    },
+    {
+        "Player": "vizsla\nFOC",
+        "RND": "23",
+        "KPR": "0.74",
+        "APR": "0.13",
+        "FKPR": "0.09",
+        "KMAX": "17"
+    },
+    {
+        "Player": "xffero\nRRQ",
+        "RND": "23",
+        "KPR": "0.74",
+        "APR": "0.13",
+        "FKPR": "0.13",
+        "KMAX": "17"
+    },
+    {
+        "Player": "rice",
+        "RND": "45",
+        "KPR": "0.71",
+        "APR": "0.29",
+        "FKPR": "0.22",
+        "KMAX": "21"
+    },
+    {
+        "Player": "Speedy\nCARA",
+        "RND": "50",
+        "KPR": "0.76",
+        "APR": "0.24",
+        "FKPR": "0.12",
+        "KMAX": "23"
+    },
+    {
+        "Player": "Sevkaan\nIrre",
+        "RND": "28",
+        "KPR": "0.86",
+        "APR": "0.25",
+        "FKPR": "0.18",
+        "KMAX": "24"
+    },
+    {
+        "Player": "OuTLaW\nSA",
+        "RND": "116",
+        "KPR": "0.72",
+        "APR": "0.31",
+        "FKPR": "0.10",
+        "KMAX": "28"
+    },
+    {
+        "Player": "Annie\nO1O",
+        "RND": "24",
+        "KPR": "0.79",
+        "APR": "0.21",
+        "FKPR": "0.17",
+        "KMAX": "19"
+    },
+    {
+        "Player": "Laz\nNKT",
+        "RND": "48",
+        "KPR": "0.69",
+        "APR": "0.40",
+        "FKPR": "0.15",
+        "KMAX": "20"
+    },
+    {
+        "Player": "Sandra\nGK",
+        "RND": "38",
+        "KPR": "0.79",
+        "APR": "0.13",
+        "FKPR": "0.11",
+        "KMAX": "20"
+    },
+    {
+        "Player": "Freyaaa",
+        "RND": "23",
+        "KPR": "0.78",
+        "APR": "0.43",
+        "FKPR": "0.13",
+        "KMAX": "18"
+    },
+    {
+        "Player": "biazik\nKR\u00dc.B",
+        "RND": "22",
+        "KPR": "0.82",
+        "APR": "0.23",
+        "FKPR": "0.05",
+        "KMAX": "18"
+    },
+    {
+        "Player": "Snowi\nOF",
+        "RND": "19",
+        "KPR": "0.84",
+        "APR": "0.26",
+        "FKPR": "0.00",
+        "KMAX": "16"
+    },
+    {
+        "Player": "ganter\nNOTT",
+        "RND": "20",
+        "KPR": "0.95",
+        "APR": "0.10",
+        "FKPR": "0.10",
+        "KMAX": "19"
+    },
+    {
+        "Player": "Moh\nFLC",
+        "RND": "116",
+        "KPR": "0.73",
+        "APR": "0.14",
+        "FKPR": "0.07",
+        "KMAX": "22"
+    },
+    {
+        "Player": "Anthem\nDFM",
+        "RND": "22",
+        "KPR": "0.91",
+        "APR": "0.27",
+        "FKPR": "0.00",
+        "KMAX": "20"
+    },
+    {
+        "Player": "pryxi\nNXT",
+        "RND": "65",
+        "KPR": "0.86",
+        "APR": "0.18",
+        "FKPR": "0.09",
+        "KMAX": "27"
+    },
+    {
+        "Player": "globeX\nCHCH",
+        "RND": "108",
+        "KPR": "0.80",
+        "APR": "0.19",
+        "FKPR": "0.12",
+        "KMAX": "28"
+    },
+    {
+        "Player": "MrFaliN\nFUT",
+        "RND": "20",
+        "KPR": "0.60",
+        "APR": "0.30",
+        "FKPR": "0.15",
+        "KMAX": "12"
+    },
+    {
+        "Player": "kaajak\nAPK",
+        "RND": "19",
+        "KPR": "0.79",
+        "APR": "0.21",
+        "FKPR": "0.21",
+        "KMAX": "15"
+    },
+    {
+        "Player": "Meganee\nCG.GC",
+        "RND": "30",
+        "KPR": "0.83",
+        "APR": "0.10",
+        "FKPR": "0.13",
+        "KMAX": "25"
+    },
+    {
+        "Player": "FuriouzMeow\nlave",
+        "RND": "22",
+        "KPR": "0.68",
+        "APR": "0.36",
+        "FKPR": "0.05",
+        "KMAX": "15"
+    },
+    {
+        "Player": "Karon\nGEN",
+        "RND": "77",
+        "KPR": "0.71",
+        "APR": "0.39",
+        "FKPR": "0.06",
+        "KMAX": "17"
+    },
+    {
+        "Player": "empty\nONS",
+        "RND": "20",
+        "KPR": "0.85",
+        "APR": "0.10",
+        "FKPR": "0.10",
+        "KMAX": "17"
+    },
+    {
+        "Player": "pr0xy\nMARU",
+        "RND": "39",
+        "KPR": "0.59",
+        "APR": "0.31",
+        "FKPR": "0.03",
+        "KMAX": "12"
+    },
+    {
+        "Player": "jcrueL\nNBG",
+        "RND": "23",
+        "KPR": "0.78",
+        "APR": "0.13",
+        "FKPR": "0.04",
+        "KMAX": "18"
+    },
+    {
+        "Player": "Killua\nMITH",
+        "RND": "30",
+        "KPR": "0.87",
+        "APR": "0.13",
+        "FKPR": "0.13",
+        "KMAX": "26"
+    },
+    {
+        "Player": "nati\nLEV.GC",
+        "RND": "17",
+        "KPR": "0.94",
+        "APR": "0.06",
+        "FKPR": "0.18",
+        "KMAX": "16"
+    },
+    {
+        "Player": "clear\nBOB",
+        "RND": "42",
+        "KPR": "0.90",
+        "APR": "0.10",
+        "FKPR": "0.29",
+        "KMAX": "22"
+    },
+    {
+        "Player": "cbui\nSNG",
+        "RND": "22",
+        "KPR": "0.82",
+        "APR": "0.36",
+        "FKPR": "0.00",
+        "KMAX": "18"
+    },
+    {
+        "Player": "kv7m\nUNta",
+        "RND": "24",
+        "KPR": "0.63",
+        "APR": "0.50",
+        "FKPR": "0.08",
+        "KMAX": "15"
+    },
+    {
+        "Player": "swarm\nCU.V",
+        "RND": "45",
+        "KPR": "0.82",
+        "APR": "0.09",
+        "FKPR": "0.22",
+        "KMAX": "22"
+    },
+    {
+        "Player": "roompa\nVLYN",
+        "RND": "23",
+        "KPR": "0.65",
+        "APR": "0.22",
+        "FKPR": "0.04",
+        "KMAX": "15"
+    },
+    {
+        "Player": "kpro\nIgni",
+        "RND": "22",
+        "KPR": "0.50",
+        "APR": "0.14",
+        "FKPR": "0.05",
+        "KMAX": "11"
+    },
+    {
+        "Player": "lexa\nTWIS.O",
+        "RND": "24",
+        "KPR": "0.67",
+        "APR": "0.38",
+        "FKPR": "0.08",
+        "KMAX": "16"
+    },
+    {
+        "Player": "woody\nARF",
+        "RND": "18",
+        "KPR": "0.89",
+        "APR": "0.28",
+        "FKPR": "0.11",
+        "KMAX": "16"
+    },
+    {
+        "Player": "miwa\nSNX.F",
+        "RND": "24",
+        "KPR": "0.75",
+        "APR": "0.54",
+        "FKPR": "0.04",
+        "KMAX": "18"
+    },
+    {
+        "Player": "Hibui",
+        "RND": "20",
+        "KPR": "0.80",
+        "APR": "0.20",
+        "FKPR": "0.00",
+        "KMAX": "16"
+    },
+    {
+        "Player": "Glance\nKC.GC",
+        "RND": "108",
+        "KPR": "0.78",
+        "APR": "0.31",
+        "FKPR": "0.08",
+        "KMAX": "36"
+    },
+    {
+        "Player": "sh1n\nKC",
+        "RND": "37",
+        "KPR": "0.59",
+        "APR": "0.43",
+        "FKPR": "0.00",
+        "KMAX": "15"
+    },
+    {
+        "Player": "SemberN\nAW3",
+        "RND": "23",
+        "KPR": "0.96",
+        "APR": "0.26",
+        "FKPR": "0.04",
+        "KMAX": "22"
+    },
+    {
+        "Player": "vvv",
+        "RND": "17",
+        "KPR": "0.94",
+        "APR": "0.12",
+        "FKPR": "0.24",
+        "KMAX": "16"
+    },
+    {
+        "Player": "N4RRATE\nKC",
+        "RND": "37",
+        "KPR": "0.78",
+        "APR": "0.41",
+        "FKPR": "0.08",
+        "KMAX": "17"
+    },
+    {
+        "Player": "BRIAN\nRC",
+        "RND": "60",
+        "KPR": "0.73",
+        "APR": "0.27",
+        "FKPR": "0.20",
+        "KMAX": "28"
+    },
+    {
+        "Player": "quantumrino\nPMT",
+        "RND": "51",
+        "KPR": "0.78",
+        "APR": "0.12",
+        "FKPR": "0.20",
+        "KMAX": "21"
+    },
+    {
+        "Player": "Kakarot\nZOL",
+        "RND": "61",
+        "KPR": "0.82",
+        "APR": "0.21",
+        "FKPR": "0.13",
+        "KMAX": "20"
+    },
+    {
+        "Player": "Cloud\nGX",
+        "RND": "55",
+        "KPR": "0.75",
+        "APR": "0.20",
+        "FKPR": "0.07",
+        "KMAX": "16"
+    },
+    {
+        "Player": "marteen\nKC",
+        "RND": "37",
+        "KPR": "0.78",
+        "APR": "0.14",
+        "FKPR": "0.24",
+        "KMAX": "15"
+    },
+    {
+        "Player": "SimonD4rk\nR8",
+        "RND": "65",
+        "KPR": "0.75",
+        "APR": "0.22",
+        "FKPR": "0.12",
+        "KMAX": "17"
+    },
+    {
+        "Player": "Tonbo\nFL",
+        "RND": "28",
+        "KPR": "0.75",
+        "APR": "0.21",
+        "FKPR": "0.07",
+        "KMAX": "21"
+    },
+    {
+        "Player": "Cohburg\nSAD",
+        "RND": "19",
+        "KPR": "0.79",
+        "APR": "0.26",
+        "FKPR": "0.21",
+        "KMAX": "15"
+    },
+    {
+        "Player": "Sueiy\nWSU",
+        "RND": "22",
+        "KPR": "0.77",
+        "APR": "0.18",
+        "FKPR": "0.09",
+        "KMAX": "17"
+    },
+    {
+        "Player": "Kanpeki\nTWT",
+        "RND": "70",
+        "KPR": "0.76",
+        "APR": "0.34",
+        "FKPR": "0.06",
+        "KMAX": "21"
+    },
+    {
+        "Player": "JinNy\nFSS",
+        "RND": "21",
+        "KPR": "0.67",
+        "APR": "0.29",
+        "FKPR": "0.05",
+        "KMAX": "14"
+    },
+    {
+        "Player": "kitkatwc\nNE",
+        "RND": "21",
+        "KPR": "0.71",
+        "APR": "0.24",
+        "FKPR": "0.05",
+        "KMAX": "15"
+    },
+    {
+        "Player": "Juzo",
+        "RND": "16",
+        "KPR": "0.94",
+        "APR": "0.19",
+        "FKPR": "0.00",
+        "KMAX": "15"
+    },
+    {
+        "Player": "ayman\nBZE",
+        "RND": "33",
+        "KPR": "0.85",
+        "APR": "0.18",
+        "FKPR": "0.18",
+        "KMAX": "18"
+    },
+    {
+        "Player": "jzz\nMIBR",
+        "RND": "39",
+        "KPR": "0.72",
+        "APR": "0.26",
+        "FKPR": "0.10",
+        "KMAX": "18"
+    },
+    {
+        "Player": "C0M\nLEV",
+        "RND": "19",
+        "KPR": "0.68",
+        "APR": "0.16",
+        "FKPR": "0.11",
+        "KMAX": "13"
+    },
+    {
+        "Player": "Filu\nDSY",
+        "RND": "53",
+        "KPR": "0.81",
+        "APR": "0.23",
+        "FKPR": "0.13",
+        "KMAX": "19"
+    },
+    {
+        "Player": "babzzz\nZIK",
+        "RND": "59",
+        "KPR": "0.76",
+        "APR": "0.25",
+        "FKPR": "0.14",
+        "KMAX": "22"
+    },
+    {
+        "Player": "B1SK\nKPI",
+        "RND": "19",
+        "KPR": "0.63",
+        "APR": "0.26",
+        "FKPR": "0.21",
+        "KMAX": "12"
+    },
+    {
+        "Player": "Winteryrook\nR8",
+        "RND": "65",
+        "KPR": "0.78",
+        "APR": "0.25",
+        "FKPR": "0.17",
+        "KMAX": "21"
+    },
+    {
+        "Player": "rezq\nG2.G",
+        "RND": "81",
+        "KPR": "0.78",
+        "APR": "0.16",
+        "FKPR": "0.19",
+        "KMAX": "19"
+    },
+    {
+        "Player": "aproto\nTSM",
+        "RND": "64",
+        "KPR": "0.75",
+        "APR": "0.13",
+        "FKPR": "0.06",
+        "KMAX": "18"
+    },
+    {
+        "Player": "B3ASTM0D3\nOVA",
+        "RND": "23",
+        "KPR": "0.65",
+        "APR": "0.43",
+        "FKPR": "0.09",
+        "KMAX": "15"
+    },
+    {
+        "Player": "isa1\nisa",
+        "RND": "50",
+        "KPR": "0.80",
+        "APR": "0.12",
+        "FKPR": "0.16",
+        "KMAX": "23"
+    },
+    {
+        "Player": "krejzzs\nINCO",
+        "RND": "18",
+        "KPR": "0.89",
+        "APR": "0.00",
+        "FKPR": "0.06",
+        "KMAX": "16"
+    },
+    {
+        "Player": "moner\nR8",
+        "RND": "65",
+        "KPR": "0.65",
+        "APR": "0.20",
+        "FKPR": "0.09",
+        "KMAX": "17"
+    },
+    {
+        "Player": "Timotino\nROSE",
+        "RND": "21",
+        "KPR": "0.81",
+        "APR": "0.24",
+        "FKPR": "0.19",
+        "KMAX": "17"
+    },
+    {
+        "Player": "Askia\nHERO",
+        "RND": "71",
+        "KPR": "0.63",
+        "APR": "0.52",
+        "FKPR": "0.06",
+        "KMAX": "15"
+    },
+    {
+        "Player": "madison\nIrre",
+        "RND": "28",
+        "KPR": "0.89",
+        "APR": "0.21",
+        "FKPR": "0.11",
+        "KMAX": "25"
+    },
+    {
+        "Player": "Meteor\nGEN",
+        "RND": "77",
+        "KPR": "0.77",
+        "APR": "0.31",
+        "FKPR": "0.08",
+        "KMAX": "19"
+    },
+    {
+        "Player": "nihggo\nVENI",
+        "RND": "20",
+        "KPR": "0.65",
+        "APR": "0.30",
+        "FKPR": "0.10",
+        "KMAX": "13"
+    },
+    {
+        "Player": "raafa\nHERO",
+        "RND": "71",
+        "KPR": "0.65",
+        "APR": "0.28",
+        "FKPR": "0.04",
+        "KMAX": "22"
+    },
+    {
+        "Player": "noumit\nKOPF",
+        "RND": "65",
+        "KPR": "0.68",
+        "APR": "0.14",
+        "FKPR": "0.08",
+        "KMAX": "21"
+    },
+    {
+        "Player": "Sinaway\nAIC",
+        "RND": "23",
+        "KPR": "1.00",
+        "APR": "0.26",
+        "FKPR": "0.13",
+        "KMAX": "23"
+    },
+    {
+        "Player": "florescent\nSR",
+        "RND": "67",
+        "KPR": "0.84",
+        "APR": "0.28",
+        "FKPR": "0.07",
+        "KMAX": "21"
+    },
+    {
+        "Player": "silentzz\n2G",
+        "RND": "24",
+        "KPR": "0.75",
+        "APR": "0.08",
+        "FKPR": "0.21",
+        "KMAX": "18"
+    },
+    {
+        "Player": "Lateu\nfuVi",
+        "RND": "24",
+        "KPR": "0.71",
+        "APR": "0.21",
+        "FKPR": "0.00",
+        "KMAX": "17"
+    },
+    {
+        "Player": "rood\nGLRS",
+        "RND": "40",
+        "KPR": "0.58",
+        "APR": "0.18",
+        "FKPR": "0.03",
+        "KMAX": "14"
+    },
+    {
+        "Player": "RedKoh\nLESS",
+        "RND": "82",
+        "KPR": "0.68",
+        "APR": "0.17",
+        "FKPR": "0.07",
+        "KMAX": "16"
+    },
+    {
+        "Player": "aduka\nNXGA",
+        "RND": "20",
+        "KPR": "0.80",
+        "APR": "0.45",
+        "FKPR": "0.15",
+        "KMAX": "16"
+    },
+    {
+        "Player": "Lmemore\nRRQ",
+        "RND": "23",
+        "KPR": "0.74",
+        "APR": "0.48",
+        "FKPR": "0.04",
+        "KMAX": "17"
+    },
+    {
+        "Player": "nTK\nBAAM",
+        "RND": "18",
+        "KPR": "0.72",
+        "APR": "0.11",
+        "FKPR": "0.11",
+        "KMAX": "13"
+    },
+    {
+        "Player": "swagzor\nOrac",
+        "RND": "20",
+        "KPR": "0.80",
+        "APR": "0.20",
+        "FKPR": "0.00",
+        "KMAX": "16"
+    },
+    {
+        "Player": "lukxo\nGLRS",
+        "RND": "40",
+        "KPR": "0.65",
+        "APR": "0.33",
+        "FKPR": "0.15",
+        "KMAX": "15"
+    },
+    {
+        "Player": "puggy\nFMG",
+        "RND": "23",
+        "KPR": "0.61",
+        "APR": "0.30",
+        "FKPR": "0.09",
+        "KMAX": "14"
+    },
+    {
+        "Player": "anesilia\nGMX.L",
+        "RND": "24",
+        "KPR": "0.71",
+        "APR": "0.29",
+        "FKPR": "0.13",
+        "KMAX": "17"
+    },
+    {
+        "Player": "astr0\n1MS",
+        "RND": "24",
+        "KPR": "0.88",
+        "APR": "0.21",
+        "FKPR": "0.08",
+        "KMAX": "21"
+    },
+    {
+        "Player": "logaN\nM8",
+        "RND": "19",
+        "KPR": "0.74",
+        "APR": "0.11",
+        "FKPR": "0.05",
+        "KMAX": "14"
+    },
+    {
+        "Player": "amy\nG2.G",
+        "RND": "81",
+        "KPR": "0.67",
+        "APR": "0.16",
+        "FKPR": "0.02",
+        "KMAX": "19"
+    },
+    {
+        "Player": "Spocki\nBloo",
+        "RND": "23",
+        "KPR": "0.70",
+        "APR": "0.13",
+        "FKPR": "0.09",
+        "KMAX": "16"
+    },
+    {
+        "Player": "deNaro\nRED",
+        "RND": "109",
+        "KPR": "0.67",
+        "APR": "0.37",
+        "FKPR": "0.06",
+        "KMAX": "21"
+    },
+    {
+        "Player": "nataNk\nM8",
+        "RND": "19",
+        "KPR": "0.84",
+        "APR": "0.26",
+        "FKPR": "0.11",
+        "KMAX": "16"
+    },
+    {
+        "Player": "Menna\nFSX",
+        "RND": "22",
+        "KPR": "0.68",
+        "APR": "0.41",
+        "FKPR": "0.00",
+        "KMAX": "15"
+    },
+    {
+        "Player": "Tim\nZMM.B",
+        "RND": "18",
+        "KPR": "0.78",
+        "APR": "0.11",
+        "FKPR": "0.11",
+        "KMAX": "14"
+    },
+    {
+        "Player": "6sonya\nO1O",
+        "RND": "24",
+        "KPR": "0.67",
+        "APR": "0.38",
+        "FKPR": "0.08",
+        "KMAX": "16"
+    },
+    {
+        "Player": "Four",
+        "RND": "21",
+        "KPR": "0.67",
+        "APR": "0.19",
+        "FKPR": "0.05",
+        "KMAX": "14"
+    },
+    {
+        "Player": "Adenina\n9z.GC",
+        "RND": "59",
+        "KPR": "0.64",
+        "APR": "0.44",
+        "FKPR": "0.03",
+        "KMAX": "19"
+    },
+    {
+        "Player": "quens1on\nRC",
+        "RND": "18",
+        "KPR": "0.94",
+        "APR": "0.17",
+        "FKPR": "0.06",
+        "KMAX": "17"
+    },
+    {
+        "Player": "freeing\nDK",
+        "RND": "68",
+        "KPR": "0.75",
+        "APR": "0.21",
+        "FKPR": "0.06",
+        "KMAX": "22"
+    },
+    {
+        "Player": "Logan\nBurg",
+        "RND": "41",
+        "KPR": "0.90",
+        "APR": "0.07",
+        "FKPR": "0.22",
+        "KMAX": "22"
+    },
+    {
+        "Player": "BeYN\nDRX",
+        "RND": "22",
+        "KPR": "0.73",
+        "APR": "0.18",
+        "FKPR": "0.09",
+        "KMAX": "16"
+    },
+    {
+        "Player": "micaela\nKR\u00dc.B",
+        "RND": "22",
+        "KPR": "0.64",
+        "APR": "0.36",
+        "FKPR": "0.14",
+        "KMAX": "14"
+    },
+    {
+        "Player": "NcSlasher\nBME",
+        "RND": "34",
+        "KPR": "0.71",
+        "APR": "0.29",
+        "FKPR": "0.12",
+        "KMAX": "24"
+    },
+    {
+        "Player": "gMd\nTSM",
+        "RND": "64",
+        "KPR": "0.75",
+        "APR": "0.31",
+        "FKPR": "0.08",
+        "KMAX": "23"
+    },
+    {
+        "Player": "Palla\npuGG",
+        "RND": "91",
+        "KPR": "0.89",
+        "APR": "0.11",
+        "FKPR": "0.24",
+        "KMAX": "27"
+    },
+    {
+        "Player": "bae\nFUR.F",
+        "RND": "24",
+        "KPR": "0.75",
+        "APR": "0.13",
+        "FKPR": "0.04",
+        "KMAX": "18"
+    },
+    {
+        "Player": "BuZz\nDRX",
+        "RND": "22",
+        "KPR": "0.82",
+        "APR": "0.14",
+        "FKPR": "0.05",
+        "KMAX": "18"
+    },
+    {
+        "Player": "ALL3Y\nOPY",
+        "RND": "24",
+        "KPR": "0.83",
+        "APR": "0.04",
+        "FKPR": "0.13",
+        "KMAX": "20"
+    },
+    {
+        "Player": "BORKUM\nTS",
+        "RND": "45",
+        "KPR": "0.73",
+        "APR": "0.40",
+        "FKPR": "0.13",
+        "KMAX": "19"
+    },
+    {
+        "Player": "Dephny",
+        "RND": "17",
+        "KPR": "0.82",
+        "APR": "0.24",
+        "FKPR": "0.24",
+        "KMAX": "14"
+    },
+    {
+        "Player": "Kevzii\nZOL",
+        "RND": "61",
+        "KPR": "0.62",
+        "APR": "0.31",
+        "FKPR": "0.03",
+        "KMAX": "17"
+    },
+    {
+        "Player": "PoomOneLove\nNKT",
+        "RND": "48",
+        "KPR": "0.69",
+        "APR": "0.46",
+        "FKPR": "0.06",
+        "KMAX": "23"
+    },
+    {
+        "Player": "Rudy\nUCF.G",
+        "RND": "24",
+        "KPR": "0.58",
+        "APR": "0.42",
+        "FKPR": "0.08",
+        "KMAX": "14"
+    },
+    {
+        "Player": "Heather",
+        "RND": "37",
+        "KPR": "0.86",
+        "APR": "0.19",
+        "FKPR": "0.05",
+        "KMAX": "16"
+    },
+    {
+        "Player": "DYoung",
+        "RND": "21",
+        "KPR": "0.81",
+        "APR": "0.10",
+        "FKPR": "0.29",
+        "KMAX": "17"
+    },
+    {
+        "Player": "Rexon\nEYG",
+        "RND": "23",
+        "KPR": "0.61",
+        "APR": "0.43",
+        "FKPR": "0.09",
+        "KMAX": "14"
+    },
+    {
+        "Player": "Kaah\nTeam",
+        "RND": "50",
+        "KPR": "0.72",
+        "APR": "0.32",
+        "FKPR": "0.06",
+        "KMAX": "23"
+    },
+    {
+        "Player": "Clewy",
+        "RND": "67",
+        "KPR": "0.81",
+        "APR": "0.18",
+        "FKPR": "0.09",
+        "KMAX": "25"
+    },
+    {
+        "Player": "ChiaWei",
+        "RND": "23",
+        "KPR": "0.74",
+        "APR": "0.26",
+        "FKPR": "0.04",
+        "KMAX": "17"
+    },
+    {
+        "Player": "Melser\nKR\u00dc",
+        "RND": "20",
+        "KPR": "0.60",
+        "APR": "0.40",
+        "FKPR": "0.10",
+        "KMAX": "12"
+    },
+    {
+        "Player": "Petra\nG2.G",
+        "RND": "81",
+        "KPR": "0.69",
+        "APR": "0.23",
+        "FKPR": "0.07",
+        "KMAX": "16"
+    },
+    {
+        "Player": "Caucasus",
+        "RND": "17",
+        "KPR": "0.47",
+        "APR": "0.35",
+        "FKPR": "0.00",
+        "KMAX": "8"
+    },
+    {
+        "Player": "anders\nIU",
+        "RND": "30",
+        "KPR": "0.53",
+        "APR": "0.20",
+        "FKPR": "0.07",
+        "KMAX": "16"
+    },
+    {
+        "Player": "CHIMEI\nOF",
+        "RND": "23",
+        "KPR": "0.57",
+        "APR": "0.61",
+        "FKPR": "0.04",
+        "KMAX": "13"
+    },
+    {
+        "Player": "Happen\nPMT",
+        "RND": "51",
+        "KPR": "0.75",
+        "APR": "0.25",
+        "FKPR": "0.08",
+        "KMAX": "24"
+    },
+    {
+        "Player": "Medusa\nDFM",
+        "RND": "22",
+        "KPR": "0.73",
+        "APR": "0.32",
+        "FKPR": "0.23",
+        "KMAX": "16"
+    },
+    {
+        "Player": "Kibojn\nMDL",
+        "RND": "43",
+        "KPR": "0.60",
+        "APR": "0.56",
+        "FKPR": "0.02",
+        "KMAX": "18"
+    },
+    {
+        "Player": "ExciteMVP\nNBG",
+        "RND": "23",
+        "KPR": "0.78",
+        "APR": "0.26",
+        "FKPR": "0.04",
+        "KMAX": "18"
+    },
+    {
+        "Player": "Nightmare\nUCF.G",
+        "RND": "24",
+        "KPR": "0.58",
+        "APR": "0.50",
+        "FKPR": "0.04",
+        "KMAX": "14"
+    },
+    {
+        "Player": "xiTsha\nDIA",
+        "RND": "44",
+        "KPR": "0.82",
+        "APR": "0.25",
+        "FKPR": "0.05",
+        "KMAX": "19"
+    },
+    {
+        "Player": "Yoyoman",
+        "RND": "26",
+        "KPR": "0.85",
+        "APR": "0.08",
+        "FKPR": "0.12",
+        "KMAX": "22"
+    },
+    {
+        "Player": "Nille\nWHO",
+        "RND": "38",
+        "KPR": "0.82",
+        "APR": "0.32",
+        "FKPR": "0.03",
+        "KMAX": "31"
+    },
+    {
+        "Player": "Lynn\nFIRE",
+        "RND": "43",
+        "KPR": "0.79",
+        "APR": "0.14",
+        "FKPR": "0.19",
+        "KMAX": "20"
+    },
+    {
+        "Player": "al0rante\nFKS",
+        "RND": "26",
+        "KPR": "0.81",
+        "APR": "0.12",
+        "FKPR": "0.04",
+        "KMAX": "21"
+    },
+    {
+        "Player": "spike\n2G",
+        "RND": "24",
+        "KPR": "0.79",
+        "APR": "0.13",
+        "FKPR": "0.04",
+        "KMAX": "19"
+    },
+    {
+        "Player": "Akita\nCG.GC",
+        "RND": "30",
+        "KPR": "0.80",
+        "APR": "0.13",
+        "FKPR": "0.10",
+        "KMAX": "24"
+    },
+    {
+        "Player": "Reapy\nIrre",
+        "RND": "28",
+        "KPR": "0.71",
+        "APR": "0.07",
+        "FKPR": "0.14",
+        "KMAX": "20"
+    },
+    {
+        "Player": "poegii\nGing",
+        "RND": "22",
+        "KPR": "0.55",
+        "APR": "0.14",
+        "FKPR": "0.05",
+        "KMAX": "12"
+    },
+    {
+        "Player": "Cebando\nAK",
+        "RND": "40",
+        "KPR": "0.65",
+        "APR": "0.33",
+        "FKPR": "0.10",
+        "KMAX": "13"
+    },
+    {
+        "Player": "Leo\nFNC",
+        "RND": "37",
+        "KPR": "0.73",
+        "APR": "0.38",
+        "FKPR": "0.03",
+        "KMAX": "18"
+    },
+    {
+        "Player": "Docent\nKAST",
+        "RND": "47",
+        "KPR": "0.70",
+        "APR": "0.26",
+        "FKPR": "0.06",
+        "KMAX": "17"
+    },
+    {
+        "Player": "Aeonyx\nGLAB",
+        "RND": "43",
+        "KPR": "0.86",
+        "APR": "0.19",
+        "FKPR": "0.09",
+        "KMAX": "19"
+    },
+    {
+        "Player": "Bob Ross",
+        "RND": "44",
+        "KPR": "0.86",
+        "APR": "0.11",
+        "FKPR": "0.07",
+        "KMAX": "23"
+    },
+    {
+        "Player": "reN\nBZE",
+        "RND": "33",
+        "KPR": "0.70",
+        "APR": "0.45",
+        "FKPR": "0.09",
+        "KMAX": "13"
+    },
+    {
+        "Player": "ZYND\nZOL",
+        "RND": "61",
+        "KPR": "0.77",
+        "APR": "0.21",
+        "FKPR": "0.16",
+        "KMAX": "20"
+    },
+    {
+        "Player": "H1ber\nCASE",
+        "RND": "21",
+        "KPR": "0.71",
+        "APR": "0.10",
+        "FKPR": "0.00",
+        "KMAX": "15"
+    },
+    {
+        "Player": "chiwa\nACE",
+        "RND": "41",
+        "KPR": "0.61",
+        "APR": "0.22",
+        "FKPR": "0.15",
+        "KMAX": "15"
+    },
+    {
+        "Player": "lovers rock",
+        "RND": "108",
+        "KPR": "0.86",
+        "APR": "0.15",
+        "FKPR": "0.16",
+        "KMAX": "32"
+    },
+    {
+        "Player": "YanLi",
+        "RND": "23",
+        "KPR": "0.83",
+        "APR": "0.13",
+        "FKPR": "0.13",
+        "KMAX": "19"
+    },
+    {
+        "Player": "Lime\nCASE",
+        "RND": "21",
+        "KPR": "0.71",
+        "APR": "0.33",
+        "FKPR": "0.00",
+        "KMAX": "15"
+    },
+    {
+        "Player": "gobera\nLGCY",
+        "RND": "60",
+        "KPR": "0.73",
+        "APR": "0.17",
+        "FKPR": "0.17",
+        "KMAX": "19"
+    },
+    {
+        "Player": "Juicy\nDSG",
+        "RND": "80",
+        "KPR": "0.80",
+        "APR": "0.18",
+        "FKPR": "0.18",
+        "KMAX": "21"
+    },
+    {
+        "Player": "exa",
+        "RND": "31",
+        "KPR": "0.68",
+        "APR": "0.42",
+        "FKPR": "0.16",
+        "KMAX": "11"
+    },
+    {
+        "Player": "Lele\nVENI",
+        "RND": "20",
+        "KPR": "0.70",
+        "APR": "0.25",
+        "FKPR": "0.05",
+        "KMAX": "14"
+    },
+    {
+        "Player": "Floaty\nCSUL",
+        "RND": "44",
+        "KPR": "0.80",
+        "APR": "0.14",
+        "FKPR": "0.09",
+        "KMAX": "21"
+    },
+    {
+        "Player": "HyP\nMDR",
+        "RND": "20",
+        "KPR": "0.80",
+        "APR": "0.25",
+        "FKPR": "0.20",
+        "KMAX": "16"
+    },
+    {
+        "Player": "budimeisteR\nBME",
+        "RND": "34",
+        "KPR": "0.62",
+        "APR": "0.38",
+        "FKPR": "0.00",
+        "KMAX": "21"
+    },
+    {
+        "Player": "nvk",
+        "RND": "14",
+        "KPR": "0.86",
+        "APR": "0.29",
+        "FKPR": "0.07",
+        "KMAX": "12"
+    },
+    {
+        "Player": "Jerrwin\nSEN",
+        "RND": "22",
+        "KPR": "0.73",
+        "APR": "0.05",
+        "FKPR": "0.18",
+        "KMAX": "16"
+    },
+    {
+        "Player": "OLIZERA\nUCAM",
+        "RND": "19",
+        "KPR": "0.84",
+        "APR": "0.26",
+        "FKPR": "0.11",
+        "KMAX": "16"
+    },
+    {
+        "Player": "Flickless\nUCAM",
+        "RND": "19",
+        "KPR": "0.84",
+        "APR": "0.21",
+        "FKPR": "0.11",
+        "KMAX": "16"
+    },
+    {
+        "Player": "zery\nDIV",
+        "RND": "23",
+        "KPR": "0.74",
+        "APR": "0.43",
+        "FKPR": "0.09",
+        "KMAX": "17"
+    },
+    {
+        "Player": "Flossie\nFIRE",
+        "RND": "43",
+        "KPR": "0.74",
+        "APR": "0.35",
+        "FKPR": "0.05",
+        "KMAX": "17"
+    },
+    {
+        "Player": "Boo\nTH",
+        "RND": "39",
+        "KPR": "0.56",
+        "APR": "0.49",
+        "FKPR": "0.05",
+        "KMAX": "15"
+    },
+    {
+        "Player": "Serenity\nGHR",
+        "RND": "18",
+        "KPR": "0.94",
+        "APR": "0.00",
+        "FKPR": "0.22",
+        "KMAX": "17"
+    },
+    {
+        "Player": "meL\nSR",
+        "RND": "67",
+        "KPR": "0.66",
+        "APR": "0.34",
+        "FKPR": "0.07",
+        "KMAX": "26"
+    },
+    {
+        "Player": "xeus\nHOWL",
+        "RND": "47",
+        "KPR": "0.89",
+        "APR": "0.06",
+        "FKPR": "0.28",
+        "KMAX": "25"
+    },
+    {
+        "Player": "Lakia\nGEN",
+        "RND": "77",
+        "KPR": "0.58",
+        "APR": "0.30",
+        "FKPR": "0.10",
+        "KMAX": "16"
+    },
+    {
+        "Player": "AleDa\nTama",
+        "RND": "30",
+        "KPR": "0.60",
+        "APR": "0.30",
+        "FKPR": "0.13",
+        "KMAX": "18"
+    },
+    {
+        "Player": "idkman",
+        "RND": "14",
+        "KPR": "0.93",
+        "APR": "0.00",
+        "FKPR": "0.14",
+        "KMAX": "13"
+    },
+    {
+        "Player": "Ali\nthe",
+        "RND": "16",
+        "KPR": "1.00",
+        "APR": "0.13",
+        "FKPR": "0.38",
+        "KMAX": "16"
+    },
+    {
+        "Player": "Repulsive",
+        "RND": "40",
+        "KPR": "0.58",
+        "APR": "0.33",
+        "FKPR": "0.03",
+        "KMAX": "17"
+    },
+    {
+        "Player": "Deadly10\nMDL",
+        "RND": "43",
+        "KPR": "0.88",
+        "APR": "0.21",
+        "FKPR": "0.23",
+        "KMAX": "26"
+    },
+    {
+        "Player": "Flaring\nAE",
+        "RND": "82",
+        "KPR": "0.50",
+        "APR": "0.57",
+        "FKPR": "0.00",
+        "KMAX": "12"
+    },
+    {
+        "Player": "Lied\nFSX",
+        "RND": "52",
+        "KPR": "0.77",
+        "APR": "0.31",
+        "FKPR": "0.10",
+        "KMAX": "22"
+    },
+    {
+        "Player": "exy\nDK",
+        "RND": "68",
+        "KPR": "0.60",
+        "APR": "0.38",
+        "FKPR": "0.03",
+        "KMAX": "21"
+    },
+    {
+        "Player": "Jesse\nVLNT",
+        "RND": "43",
+        "KPR": "0.70",
+        "APR": "0.23",
+        "FKPR": "0.09",
+        "KMAX": "17"
+    },
+    {
+        "Player": "RxYaL\nONLI",
+        "RND": "51",
+        "KPR": "0.73",
+        "APR": "0.16",
+        "FKPR": "0.06",
+        "KMAX": "25"
+    },
+    {
+        "Player": "Mon Ciel\nRepl",
+        "RND": "30",
+        "KPR": "0.80",
+        "APR": "0.13",
+        "FKPR": "0.00",
+        "KMAX": "24"
+    },
+    {
+        "Player": "Kicks\nVIT",
+        "RND": "42",
+        "KPR": "0.60",
+        "APR": "0.55",
+        "FKPR": "0.05",
+        "KMAX": "13"
+    },
+    {
+        "Player": "Yotaa\nAKR",
+        "RND": "23",
+        "KPR": "0.83",
+        "APR": "0.09",
+        "FKPR": "0.13",
+        "KMAX": "19"
+    },
+    {
+        "Player": "misu\nDSG",
+        "RND": "40",
+        "KPR": "0.65",
+        "APR": "0.33",
+        "FKPR": "0.03",
+        "KMAX": "17"
+    },
+    {
+        "Player": "MAGNUM\nKC",
+        "RND": "37",
+        "KPR": "0.65",
+        "APR": "0.24",
+        "FKPR": "0.11",
+        "KMAX": "14"
+    },
+    {
+        "Player": "PapiChulo\nNAOS",
+        "RND": "22",
+        "KPR": "0.73",
+        "APR": "0.18",
+        "FKPR": "0.09",
+        "KMAX": "16"
+    },
+    {
+        "Player": "artzin\nMIBR",
+        "RND": "39",
+        "KPR": "0.90",
+        "APR": "0.13",
+        "FKPR": "0.21",
+        "KMAX": "28"
+    },
+    {
+        "Player": "P4ND4\n6K",
+        "RND": "47",
+        "KPR": "0.68",
+        "APR": "0.28",
+        "FKPR": "0.02",
+        "KMAX": "16"
+    },
+    {
+        "Player": "Wolfen\nCASE",
+        "RND": "21",
+        "KPR": "0.81",
+        "APR": "0.00",
+        "FKPR": "0.14",
+        "KMAX": "17"
+    },
+    {
+        "Player": "Paincakes\nTWT",
+        "RND": "70",
+        "KPR": "0.76",
+        "APR": "0.16",
+        "FKPR": "0.11",
+        "KMAX": "31"
+    },
+    {
+        "Player": "bunnycrepe",
+        "RND": "22",
+        "KPR": "0.77",
+        "APR": "0.05",
+        "FKPR": "0.05",
+        "KMAX": "17"
+    },
+    {
+        "Player": "t3xture\nGEN",
+        "RND": "77",
+        "KPR": "0.84",
+        "APR": "0.08",
+        "FKPR": "0.16",
+        "KMAX": "21"
+    },
+    {
+        "Player": "Scarlett\nGMX.L",
+        "RND": "34",
+        "KPR": "0.71",
+        "APR": "0.12",
+        "FKPR": "0.15",
+        "KMAX": "24"
+    },
+    {
+        "Player": "bryce\nDSG",
+        "RND": "80",
+        "KPR": "0.56",
+        "APR": "0.31",
+        "FKPR": "0.06",
+        "KMAX": "15"
+    },
+    {
+        "Player": "Scottie\nUCF.B",
+        "RND": "24",
+        "KPR": "0.71",
+        "APR": "0.25",
+        "FKPR": "0.08",
+        "KMAX": "17"
+    },
+    {
+        "Player": "blu\nZIK",
+        "RND": "50",
+        "KPR": "0.72",
+        "APR": "0.20",
+        "FKPR": "0.10",
+        "KMAX": "21"
+    },
+    {
+        "Player": "SyouTa\nFL",
+        "RND": "88",
+        "KPR": "0.82",
+        "APR": "0.13",
+        "FKPR": "0.16",
+        "KMAX": "26"
+    },
+    {
+        "Player": "romily\nKR\u00dc.B",
+        "RND": "22",
+        "KPR": "0.68",
+        "APR": "0.23",
+        "FKPR": "0.05",
+        "KMAX": "15"
+    },
+    {
+        "Player": "VenTT\nHOWL",
+        "RND": "47",
+        "KPR": "0.81",
+        "APR": "0.34",
+        "FKPR": "0.09",
+        "KMAX": "24"
+    },
+    {
+        "Player": "A1mly\nUG",
+        "RND": "128",
+        "KPR": "0.80",
+        "APR": "0.20",
+        "FKPR": "0.11",
+        "KMAX": "32"
+    },
+    {
+        "Player": "SyKo\nPUG",
+        "RND": "40",
+        "KPR": "0.75",
+        "APR": "0.15",
+        "FKPR": "0.13",
+        "KMAX": "18"
+    },
+    {
+        "Player": "ZachKappa\nCHCH",
+        "RND": "108",
+        "KPR": "0.62",
+        "APR": "0.31",
+        "FKPR": "0.06",
+        "KMAX": "23"
+    },
+    {
+        "Player": "Acerola\nLAZY",
+        "RND": "18",
+        "KPR": "0.61",
+        "APR": "0.22",
+        "FKPR": "0.11",
+        "KMAX": "11"
+    },
+    {
+        "Player": "wiggles",
+        "RND": "17",
+        "KPR": "0.88",
+        "APR": "0.24",
+        "FKPR": "0.00",
+        "KMAX": "15"
+    },
+    {
+        "Player": "xccurate\nT1",
+        "RND": "22",
+        "KPR": "0.68",
+        "APR": "0.27",
+        "FKPR": "0.00",
+        "KMAX": "15"
+    },
+    {
+        "Player": "Ssun\nMARU",
+        "RND": "39",
+        "KPR": "0.72",
+        "APR": "0.18",
+        "FKPR": "0.23",
+        "KMAX": "18"
+    },
+    {
+        "Player": "Andersin\nBTR",
+        "RND": "18",
+        "KPR": "0.72",
+        "APR": "0.22",
+        "FKPR": "0.17",
+        "KMAX": "13"
+    },
+    {
+        "Player": "souhm",
+        "RND": "14",
+        "KPR": "1.00",
+        "APR": "0.00",
+        "FKPR": "0.14",
+        "KMAX": "14"
+    },
+    {
+        "Player": "saadhak\nLOUD",
+        "RND": "68",
+        "KPR": "0.66",
+        "APR": "0.54",
+        "FKPR": "0.12",
+        "KMAX": "19"
+    },
+    {
+        "Player": "GLYPH\nMR",
+        "RND": "38",
+        "KPR": "0.66",
+        "APR": "0.34",
+        "FKPR": "0.18",
+        "KMAX": "13"
+    },
+    {
+        "Player": "brawk\nMxS",
+        "RND": "18",
+        "KPR": "0.61",
+        "APR": "0.17",
+        "FKPR": "0.00",
+        "KMAX": "11"
+    },
+    {
+        "Player": "Famouz\nBME",
+        "RND": "34",
+        "KPR": "0.74",
+        "APR": "0.09",
+        "FKPR": "0.24",
+        "KMAX": "25"
+    },
+    {
+        "Player": "ref\nMas",
+        "RND": "50",
+        "KPR": "0.84",
+        "APR": "0.08",
+        "FKPR": "0.20",
+        "KMAX": "24"
+    },
+    {
+        "Player": "ExiT\nTwis",
+        "RND": "141",
+        "KPR": "0.72",
+        "APR": "0.16",
+        "FKPR": "0.11",
+        "KMAX": "28"
+    },
+    {
+        "Player": "TajReX\nLDS",
+        "RND": "19",
+        "KPR": "0.79",
+        "APR": "0.21",
+        "FKPR": "0.21",
+        "KMAX": "15"
+    },
+    {
+        "Player": "mist",
+        "RND": "22",
+        "KPR": "0.73",
+        "APR": "0.09",
+        "FKPR": "0.14",
+        "KMAX": "16"
+    },
+    {
+        "Player": "mishu\nWHO",
+        "RND": "38",
+        "KPR": "0.53",
+        "APR": "0.61",
+        "FKPR": "0.11",
+        "KMAX": "20"
+    },
+    {
+        "Player": "Polkan\nIluZ",
+        "RND": "22",
+        "KPR": "0.50",
+        "APR": "0.95",
+        "FKPR": "0.09",
+        "KMAX": "11"
+    },
+    {
+        "Player": "Teague\nTACO",
+        "RND": "21",
+        "KPR": "0.52",
+        "APR": "0.52",
+        "FKPR": "0.05",
+        "KMAX": "11"
+    },
+    {
+        "Player": "MicroBrilk\nMorJ",
+        "RND": "23",
+        "KPR": "0.87",
+        "APR": "0.17",
+        "FKPR": "0.17",
+        "KMAX": "20"
+    },
+    {
+        "Player": "SHINSEI\nKZ",
+        "RND": "21",
+        "KPR": "0.81",
+        "APR": "0.10",
+        "FKPR": "0.14",
+        "KMAX": "17"
+    },
+    {
+        "Player": "PatMen\nZOL",
+        "RND": "61",
+        "KPR": "0.82",
+        "APR": "0.23",
+        "FKPR": "0.11",
+        "KMAX": "20"
+    },
+    {
+        "Player": "Daveeski\nPMT",
+        "RND": "23",
+        "KPR": "0.70",
+        "APR": "0.35",
+        "FKPR": "0.04",
+        "KMAX": "16"
+    },
+    {
+        "Player": "NeskaaS\nVMS",
+        "RND": "43",
+        "KPR": "0.79",
+        "APR": "0.14",
+        "FKPR": "0.14",
+        "KMAX": "20"
+    },
+    {
+        "Player": "Kongi\nNXT",
+        "RND": "23",
+        "KPR": "0.65",
+        "APR": "0.26",
+        "FKPR": "0.09",
+        "KMAX": "15"
+    },
+    {
+        "Player": "Derrek\nEG",
+        "RND": "22",
+        "KPR": "0.73",
+        "APR": "0.00",
+        "FKPR": "0.05",
+        "KMAX": "16"
+    },
+    {
+        "Player": "Prestige\n86th",
+        "RND": "17",
+        "KPR": "0.65",
+        "APR": "0.41",
+        "FKPR": "0.00",
+        "KMAX": "11"
+    },
+    {
+        "Player": "Bing Chilling\nTAMU",
+        "RND": "24",
+        "KPR": "0.75",
+        "APR": "0.29",
+        "FKPR": "0.08",
+        "KMAX": "18"
+    },
+    {
+        "Player": "Estrella\nRRQ",
+        "RND": "23",
+        "KPR": "0.65",
+        "APR": "0.35",
+        "FKPR": "0.09",
+        "KMAX": "15"
+    },
+    {
+        "Player": "Xdll\nFL",
+        "RND": "88",
+        "KPR": "0.70",
+        "APR": "0.22",
+        "FKPR": "0.10",
+        "KMAX": "25"
+    },
+    {
+        "Player": "esmonde\nKZ",
+        "RND": "40",
+        "KPR": "0.63",
+        "APR": "0.40",
+        "FKPR": "0.03",
+        "KMAX": "14"
+    },
+    {
+        "Player": "HearthBeat\nMZP",
+        "RND": "23",
+        "KPR": "0.65",
+        "APR": "0.26",
+        "FKPR": "0.17",
+        "KMAX": "15"
+    },
+    {
+        "Player": "AKUMAAAAA\nMDR",
+        "RND": "20",
+        "KPR": "0.80",
+        "APR": "0.40",
+        "FKPR": "0.05",
+        "KMAX": "16"
+    },
+    {
+        "Player": "Tura\nFSX",
+        "RND": "52",
+        "KPR": "0.77",
+        "APR": "0.17",
+        "FKPR": "0.08",
+        "KMAX": "23"
+    },
+    {
+        "Player": "Bob\nSAD",
+        "RND": "19",
+        "KPR": "0.74",
+        "APR": "0.21",
+        "FKPR": "0.11",
+        "KMAX": "14"
+    },
+    {
+        "Player": "parker\nLR",
+        "RND": "17",
+        "KPR": "0.59",
+        "APR": "0.35",
+        "FKPR": "0.06",
+        "KMAX": "10"
+    },
+    {
+        "Player": "Owen q t\nGLAB",
+        "RND": "43",
+        "KPR": "0.81",
+        "APR": "0.16",
+        "FKPR": "0.14",
+        "KMAX": "24"
+    },
+    {
+        "Player": "matrix\nKC.GC",
+        "RND": "108",
+        "KPR": "0.80",
+        "APR": "0.16",
+        "FKPR": "0.19",
+        "KMAX": "26"
+    },
+    {
+        "Player": "rubkkoide\n9z",
+        "RND": "60",
+        "KPR": "0.62",
+        "APR": "0.28",
+        "FKPR": "0.03",
+        "KMAX": "15"
+    },
+    {
+        "Player": "sawamura\nRRQ.K",
+        "RND": "24",
+        "KPR": "0.71",
+        "APR": "0.25",
+        "FKPR": "0.17",
+        "KMAX": "17"
+    },
+    {
+        "Player": "ZachaREEE\nCB",
+        "RND": "28",
+        "KPR": "0.71",
+        "APR": "0.11",
+        "FKPR": "0.14",
+        "KMAX": "20"
+    },
+    {
+        "Player": "vAgue\nUNT",
+        "RND": "59",
+        "KPR": "0.95",
+        "APR": "0.05",
+        "FKPR": "0.24",
+        "KMAX": "26"
+    },
+    {
+        "Player": "JustnatioNN\nUNT",
+        "RND": "59",
+        "KPR": "0.61",
+        "APR": "0.31",
+        "FKPR": "0.10",
+        "KMAX": "18"
+    },
+    {
+        "Player": "Sayaplayer\nT1",
+        "RND": "22",
+        "KPR": "0.91",
+        "APR": "0.14",
+        "FKPR": "0.23",
+        "KMAX": "20"
+    },
+    {
+        "Player": "SSeeS\nDFM",
+        "RND": "22",
+        "KPR": "0.32",
+        "APR": "0.55",
+        "FKPR": "0.05",
+        "KMAX": "7"
+    },
+    {
+        "Player": "LoyDreaM\nGLAB",
+        "RND": "40",
+        "KPR": "0.73",
+        "APR": "0.28",
+        "FKPR": "0.15",
+        "KMAX": "20"
+    },
+    {
+        "Player": "Zimo\nTwis",
+        "RND": "141",
+        "KPR": "0.60",
+        "APR": "0.35",
+        "FKPR": "0.04",
+        "KMAX": "23"
+    },
+    {
+        "Player": "MaiShiu\nFOC",
+        "RND": "23",
+        "KPR": "0.61",
+        "APR": "0.30",
+        "FKPR": "0.13",
+        "KMAX": "14"
+    },
+    {
+        "Player": "Rereiana",
+        "RND": "17",
+        "KPR": "0.76",
+        "APR": "0.18",
+        "FKPR": "0.00",
+        "KMAX": "13"
+    },
+    {
+        "Player": "GatsH\nCASE",
+        "RND": "21",
+        "KPR": "0.67",
+        "APR": "0.14",
+        "FKPR": "0.05",
+        "KMAX": "14"
+    },
+    {
+        "Player": "Kiles\nCASE",
+        "RND": "21",
+        "KPR": "0.67",
+        "APR": "0.24",
+        "FKPR": "0.10",
+        "KMAX": "14"
+    },
+    {
+        "Player": "Benkai\nGE",
+        "RND": "26",
+        "KPR": "0.69",
+        "APR": "0.19",
+        "FKPR": "0.00",
+        "KMAX": "18"
+    },
+    {
+        "Player": "Karina\nFKS.S",
+        "RND": "23",
+        "KPR": "0.65",
+        "APR": "0.09",
+        "FKPR": "0.09",
+        "KMAX": "15"
+    },
+    {
+        "Player": "cauanzin\nLOUD",
+        "RND": "68",
+        "KPR": "0.66",
+        "APR": "0.35",
+        "FKPR": "0.04",
+        "KMAX": "19"
+    },
+    {
+        "Player": "Biju",
+        "RND": "28",
+        "KPR": "0.64",
+        "APR": "0.29",
+        "FKPR": "0.04",
+        "KMAX": "18"
+    },
+    {
+        "Player": "August\nHOG",
+        "RND": "23",
+        "KPR": "0.70",
+        "APR": "0.13",
+        "FKPR": "0.09",
+        "KMAX": "16"
+    },
+    {
+        "Player": "miNt\nFL.GC",
+        "RND": "17",
+        "KPR": "0.88",
+        "APR": "0.24",
+        "FKPR": "0.18",
+        "KMAX": "15"
+    },
+    {
+        "Player": "frantastic\nFIRE",
+        "RND": "43",
+        "KPR": "0.60",
+        "APR": "0.37",
+        "FKPR": "0.14",
+        "KMAX": "21"
+    },
+    {
+        "Player": "runneR\nVIT",
+        "RND": "42",
+        "KPR": "0.69",
+        "APR": "0.36",
+        "FKPR": "0.19",
+        "KMAX": "15"
+    },
+    {
+        "Player": "JessieVash\nTS",
+        "RND": "45",
+        "KPR": "0.80",
+        "APR": "0.18",
+        "FKPR": "0.07",
+        "KMAX": "22"
+    },
+    {
+        "Player": "SUYGETSU\nNAVI",
+        "RND": "17",
+        "KPR": "0.76",
+        "APR": "0.06",
+        "FKPR": "0.00",
+        "KMAX": "13"
+    },
+    {
+        "Player": "smiley\nVLYN",
+        "RND": "23",
+        "KPR": "0.65",
+        "APR": "0.70",
+        "FKPR": "0.00",
+        "KMAX": "15"
+    },
+    {
+        "Player": "Jini\nHEIZ",
+        "RND": "65",
+        "KPR": "0.54",
+        "APR": "0.38",
+        "FKPR": "0.06",
+        "KMAX": "16"
+    },
+    {
+        "Player": "GianSanity\n1MS",
+        "RND": "24",
+        "KPR": "0.67",
+        "APR": "0.29",
+        "FKPR": "0.21",
+        "KMAX": "16"
+    },
+    {
+        "Player": "bless\nErit",
+        "RND": "45",
+        "KPR": "0.78",
+        "APR": "0.18",
+        "FKPR": "0.09",
+        "KMAX": "19"
+    },
+    {
+        "Player": "tomaszy\nKC",
+        "RND": "37",
+        "KPR": "0.62",
+        "APR": "0.19",
+        "FKPR": "0.05",
+        "KMAX": "12"
+    },
+    {
+        "Player": "robz\nAMZ",
+        "RND": "17",
+        "KPR": "0.65",
+        "APR": "0.24",
+        "FKPR": "0.18",
+        "KMAX": "11"
+    },
+    {
+        "Player": "zerona\nZMM.B",
+        "RND": "39",
+        "KPR": "0.82",
+        "APR": "0.18",
+        "FKPR": "0.15",
+        "KMAX": "20"
+    },
+    {
+        "Player": "lurzy0y0\nGAL",
+        "RND": "21",
+        "KPR": "0.48",
+        "APR": "0.19",
+        "FKPR": "0.14",
+        "KMAX": "10"
+    },
+    {
+        "Player": "vii\nCARA",
+        "RND": "50",
+        "KPR": "0.68",
+        "APR": "0.14",
+        "FKPR": "0.20",
+        "KMAX": "17"
+    },
+    {
+        "Player": "ChAlalala\nAAA",
+        "RND": "18",
+        "KPR": "0.89",
+        "APR": "0.11",
+        "FKPR": "0.06",
+        "KMAX": "16"
+    },
+    {
+        "Player": "RvK\nRGES",
+        "RND": "28",
+        "KPR": "0.82",
+        "APR": "0.11",
+        "FKPR": "0.14",
+        "KMAX": "23"
+    },
+    {
+        "Player": "Louitan\nOVA",
+        "RND": "23",
+        "KPR": "0.52",
+        "APR": "0.30",
+        "FKPR": "0.09",
+        "KMAX": "12"
+    },
+    {
+        "Player": "Yuno\nVENI",
+        "RND": "20",
+        "KPR": "0.85",
+        "APR": "0.15",
+        "FKPR": "0.25",
+        "KMAX": "17"
+    },
+    {
+        "Player": "Kohliii\nGRY",
+        "RND": "24",
+        "KPR": "0.63",
+        "APR": "0.38",
+        "FKPR": "0.00",
+        "KMAX": "15"
+    },
+    {
+        "Player": "paTiTek\nTH",
+        "RND": "39",
+        "KPR": "0.51",
+        "APR": "0.64",
+        "FKPR": "0.05",
+        "KMAX": "11"
+    },
+    {
+        "Player": "xann\nSNG",
+        "RND": "40",
+        "KPR": "0.80",
+        "APR": "0.25",
+        "FKPR": "0.23",
+        "KMAX": "22"
+    },
+    {
+        "Player": "meleliita\nLEV.GC",
+        "RND": "17",
+        "KPR": "0.82",
+        "APR": "0.18",
+        "FKPR": "0.12",
+        "KMAX": "14"
+    },
+    {
+        "Player": "Mami",
+        "RND": "18",
+        "KPR": "0.78",
+        "APR": "0.28",
+        "FKPR": "0.06",
+        "KMAX": "14"
+    },
+    {
+        "Player": "nzr\nFUR",
+        "RND": "41",
+        "KPR": "0.61",
+        "APR": "0.27",
+        "FKPR": "0.02",
+        "KMAX": "15"
+    },
+    {
+        "Player": "Huso\nFH",
+        "RND": "39",
+        "KPR": "0.69",
+        "APR": "0.21",
+        "FKPR": "0.13",
+        "KMAX": "14"
+    },
+    {
+        "Player": "theozy\nCAOS.GC",
+        "RND": "50",
+        "KPR": "0.70",
+        "APR": "0.36",
+        "FKPR": "0.16",
+        "KMAX": "21"
+    },
+    {
+        "Player": "Precision\nTG",
+        "RND": "28",
+        "KPR": "0.71",
+        "APR": "0.14",
+        "FKPR": "0.04",
+        "KMAX": "20"
+    },
+    {
+        "Player": "Kssar\nVIS",
+        "RND": "70",
+        "KPR": "0.70",
+        "APR": "0.19",
+        "FKPR": "0.23",
+        "KMAX": "24"
+    },
+    {
+        "Player": "bld\nTrop",
+        "RND": "91",
+        "KPR": "0.67",
+        "APR": "0.21",
+        "FKPR": "0.10",
+        "KMAX": "20"
+    },
+    {
+        "Player": "skz\nLGCY",
+        "RND": "60",
+        "KPR": "0.65",
+        "APR": "0.35",
+        "FKPR": "0.13",
+        "KMAX": "19"
+    },
+    {
+        "Player": "Br0die\nACE",
+        "RND": "41",
+        "KPR": "0.61",
+        "APR": "0.32",
+        "FKPR": "0.15",
+        "KMAX": "14"
+    },
+    {
+        "Player": "AvovA\nAPK",
+        "RND": "19",
+        "KPR": "0.42",
+        "APR": "0.32",
+        "FKPR": "0.00",
+        "KMAX": "8"
+    },
+    {
+        "Player": "canefis\nOVA",
+        "RND": "23",
+        "KPR": "0.78",
+        "APR": "0.22",
+        "FKPR": "0.09",
+        "KMAX": "18"
+    },
+    {
+        "Player": "ikyoo\nFKS.S",
+        "RND": "23",
+        "KPR": "0.78",
+        "APR": "0.13",
+        "FKPR": "0.22",
+        "KMAX": "18"
+    },
+    {
+        "Player": "RizoN\nUG",
+        "RND": "128",
+        "KPR": "0.74",
+        "APR": "0.15",
+        "FKPR": "0.12",
+        "KMAX": "34"
+    },
+    {
+        "Player": "grubinho\nKOI",
+        "RND": "17",
+        "KPR": "0.53",
+        "APR": "0.24",
+        "FKPR": "0.06",
+        "KMAX": "9"
+    },
+    {
+        "Player": "Frosty",
+        "RND": "20",
+        "KPR": "0.70",
+        "APR": "0.10",
+        "FKPR": "0.05",
+        "KMAX": "14"
+    },
+    {
+        "Player": "Titan\nUG",
+        "RND": "60",
+        "KPR": "0.70",
+        "APR": "0.13",
+        "FKPR": "0.10",
+        "KMAX": "27"
+    },
+    {
+        "Player": "ceNder\nVIT",
+        "RND": "42",
+        "KPR": "0.64",
+        "APR": "0.38",
+        "FKPR": "0.02",
+        "KMAX": "17"
+    },
+    {
+        "Player": "Miyamura\nGHR",
+        "RND": "18",
+        "KPR": "0.78",
+        "APR": "0.11",
+        "FKPR": "0.06",
+        "KMAX": "14"
+    },
+    {
+        "Player": "vandals\n6K",
+        "RND": "47",
+        "KPR": "0.72",
+        "APR": "0.13",
+        "FKPR": "0.11",
+        "KMAX": "20"
+    },
+    {
+        "Player": "ip0TT\nGAL",
+        "RND": "21",
+        "KPR": "0.57",
+        "APR": "0.10",
+        "FKPR": "0.10",
+        "KMAX": "12"
+    },
+    {
+        "Player": "pancc\nHERO",
+        "RND": "71",
+        "KPR": "0.68",
+        "APR": "0.24",
+        "FKPR": "0.08",
+        "KMAX": "20"
+    },
+    {
+        "Player": "lz\n2G",
+        "RND": "24",
+        "KPR": "0.50",
+        "APR": "0.04",
+        "FKPR": "0.08",
+        "KMAX": "12"
+    },
+    {
+        "Player": "k1ngkappa\nTHE",
+        "RND": "37",
+        "KPR": "0.62",
+        "APR": "0.19",
+        "FKPR": "0.19",
+        "KMAX": "14"
+    },
+    {
+        "Player": "Hermes\nDK",
+        "RND": "68",
+        "KPR": "0.65",
+        "APR": "0.53",
+        "FKPR": "0.10",
+        "KMAX": "22"
+    },
+    {
+        "Player": "Dignified",
+        "RND": "43",
+        "KPR": "0.65",
+        "APR": "0.26",
+        "FKPR": "0.12",
+        "KMAX": "16"
+    },
+    {
+        "Player": "Will\nTWT",
+        "RND": "70",
+        "KPR": "0.74",
+        "APR": "0.07",
+        "FKPR": "0.11",
+        "KMAX": "19"
+    },
+    {
+        "Player": "Jaf\nCLS",
+        "RND": "23",
+        "KPR": "0.65",
+        "APR": "0.35",
+        "FKPR": "0.09",
+        "KMAX": "15"
+    },
+    {
+        "Player": "starkk\nNOVO",
+        "RND": "43",
+        "KPR": "0.58",
+        "APR": "0.19",
+        "FKPR": "0.05",
+        "KMAX": "18"
+    },
+    {
+        "Player": "Ambi\nVLNT",
+        "RND": "43",
+        "KPR": "0.53",
+        "APR": "0.40",
+        "FKPR": "0.07",
+        "KMAX": "12"
+    },
+    {
+        "Player": "glovee\nGAL",
+        "RND": "21",
+        "KPR": "0.67",
+        "APR": "0.38",
+        "FKPR": "0.05",
+        "KMAX": "14"
+    },
+    {
+        "Player": "speedowka\nKC.GC",
+        "RND": "108",
+        "KPR": "0.67",
+        "APR": "0.39",
+        "FKPR": "0.11",
+        "KMAX": "24"
+    },
+    {
+        "Player": "iFly\nTwis",
+        "RND": "141",
+        "KPR": "0.68",
+        "APR": "0.09",
+        "FKPR": "0.15",
+        "KMAX": "23"
+    },
+    {
+        "Player": "h6tedthemost\nACE",
+        "RND": "34",
+        "KPR": "0.68",
+        "APR": "0.32",
+        "FKPR": "0.09",
+        "KMAX": "23"
+    },
+    {
+        "Player": "Ktori\nNOMA",
+        "RND": "17",
+        "KPR": "0.76",
+        "APR": "0.29",
+        "FKPR": "0.12",
+        "KMAX": "13"
+    },
+    {
+        "Player": "N A I S\nGMT",
+        "RND": "43",
+        "KPR": "0.63",
+        "APR": "0.16",
+        "FKPR": "0.05",
+        "KMAX": "17"
+    },
+    {
+        "Player": "purp0\nGX",
+        "RND": "55",
+        "KPR": "0.65",
+        "APR": "0.05",
+        "FKPR": "0.09",
+        "KMAX": "16"
+    },
+    {
+        "Player": "splash\nNXGA",
+        "RND": "20",
+        "KPR": "0.70",
+        "APR": "0.25",
+        "FKPR": "0.30",
+        "KMAX": "14"
+    },
+    {
+        "Player": "RND\nTBK",
+        "RND": "109",
+        "KPR": "0.75",
+        "APR": "0.12",
+        "FKPR": "0.15",
+        "KMAX": "19"
+    },
+    {
+        "Player": "unstable\nDSG",
+        "RND": "22",
+        "KPR": "0.68",
+        "APR": "0.32",
+        "FKPR": "0.23",
+        "KMAX": "15"
+    },
+    {
+        "Player": "mzr",
+        "RND": "21",
+        "KPR": "0.86",
+        "APR": "0.05",
+        "FKPR": "0.24",
+        "KMAX": "18"
+    },
+    {
+        "Player": "Blahst\nZMM.B",
+        "RND": "18",
+        "KPR": "0.78",
+        "APR": "0.11",
+        "FKPR": "0.06",
+        "KMAX": "14"
+    },
+    {
+        "Player": "al1en\nCTLS",
+        "RND": "36",
+        "KPR": "0.67",
+        "APR": "0.22",
+        "FKPR": "0.06",
+        "KMAX": "12"
+    },
+    {
+        "Player": "GhostlyJinx\nXO.V",
+        "RND": "16",
+        "KPR": "0.81",
+        "APR": "0.00",
+        "FKPR": "0.19",
+        "KMAX": "13"
+    },
+    {
+        "Player": "Dano\nFSX",
+        "RND": "52",
+        "KPR": "0.58",
+        "APR": "0.50",
+        "FKPR": "0.02",
+        "KMAX": "16"
+    },
+    {
+        "Player": "Chronicle\nFNC",
+        "RND": "37",
+        "KPR": "0.70",
+        "APR": "0.24",
+        "FKPR": "0.16",
+        "KMAX": "15"
+    },
+    {
+        "Player": "GangPin\nRC",
+        "RND": "60",
+        "KPR": "0.47",
+        "APR": "0.43",
+        "FKPR": "0.03",
+        "KMAX": "18"
+    },
+    {
+        "Player": "Laleh",
+        "RND": "30",
+        "KPR": "0.63",
+        "APR": "0.30",
+        "FKPR": "0.07",
+        "KMAX": "19"
+    },
+    {
+        "Player": "jfoeN\nEXL",
+        "RND": "22",
+        "KPR": "0.68",
+        "APR": "0.23",
+        "FKPR": "0.09",
+        "KMAX": "15"
+    },
+    {
+        "Player": "Poetite\nSurr",
+        "RND": "24",
+        "KPR": "0.83",
+        "APR": "0.13",
+        "FKPR": "0.13",
+        "KMAX": "20"
+    },
+    {
+        "Player": "GuhRVN\nHERO",
+        "RND": "71",
+        "KPR": "0.55",
+        "APR": "0.34",
+        "FKPR": "0.04",
+        "KMAX": "15"
+    },
+    {
+        "Player": "gRIGUAj\nNOVO",
+        "RND": "43",
+        "KPR": "0.58",
+        "APR": "0.28",
+        "FKPR": "0.09",
+        "KMAX": "19"
+    },
+    {
+        "Player": "dis\nCSUL",
+        "RND": "44",
+        "KPR": "0.68",
+        "APR": "0.27",
+        "FKPR": "0.16",
+        "KMAX": "21"
+    },
+    {
+        "Player": "qRaxs\nFUT",
+        "RND": "20",
+        "KPR": "0.50",
+        "APR": "0.20",
+        "FKPR": "0.10",
+        "KMAX": "10"
+    },
+    {
+        "Player": "stax\nDRX",
+        "RND": "22",
+        "KPR": "0.64",
+        "APR": "0.18",
+        "FKPR": "0.09",
+        "KMAX": "14"
+    },
+    {
+        "Player": "Jemkin\nRRQ",
+        "RND": "23",
+        "KPR": "0.61",
+        "APR": "0.09",
+        "FKPR": "0.09",
+        "KMAX": "14"
+    },
+    {
+        "Player": "LewN\nGS",
+        "RND": "47",
+        "KPR": "0.70",
+        "APR": "0.17",
+        "FKPR": "0.26",
+        "KMAX": "21"
+    },
+    {
+        "Player": "Chanyboi\nBNB",
+        "RND": "24",
+        "KPR": "0.71",
+        "APR": "0.21",
+        "FKPR": "0.04",
+        "KMAX": "17"
+    },
+    {
+        "Player": "starxo\nKOI",
+        "RND": "17",
+        "KPR": "0.76",
+        "APR": "0.12",
+        "FKPR": "0.18",
+        "KMAX": "13"
+    },
+    {
+        "Player": "Lendary",
+        "RND": "50",
+        "KPR": "0.56",
+        "APR": "0.16",
+        "FKPR": "0.06",
+        "KMAX": "17"
+    },
+    {
+        "Player": "SCar\nARF",
+        "RND": "18",
+        "KPR": "0.67",
+        "APR": "0.39",
+        "FKPR": "0.11",
+        "KMAX": "12"
+    },
+    {
+        "Player": "vascalizz\nMBH",
+        "RND": "53",
+        "KPR": "0.60",
+        "APR": "0.23",
+        "FKPR": "0.09",
+        "KMAX": "19"
+    },
+    {
+        "Player": "Impecunity\nNG",
+        "RND": "46",
+        "KPR": "0.76",
+        "APR": "0.02",
+        "FKPR": "0.24",
+        "KMAX": "21"
+    },
+    {
+        "Player": "Cozmc",
+        "RND": "22",
+        "KPR": "0.73",
+        "APR": "0.23",
+        "FKPR": "0.18",
+        "KMAX": "16"
+    },
+    {
+        "Player": "leaf\nG2",
+        "RND": "64",
+        "KPR": "0.80",
+        "APR": "0.17",
+        "FKPR": "0.14",
+        "KMAX": "23"
+    },
+    {
+        "Player": "micr0\nZOL",
+        "RND": "61",
+        "KPR": "0.57",
+        "APR": "0.33",
+        "FKPR": "0.11",
+        "KMAX": "16"
+    },
+    {
+        "Player": "CLZ\nFL",
+        "RND": "88",
+        "KPR": "0.68",
+        "APR": "0.19",
+        "FKPR": "0.07",
+        "KMAX": "23"
+    },
+    {
+        "Player": "Whats Wong\nARC",
+        "RND": "51",
+        "KPR": "0.57",
+        "APR": "0.29",
+        "FKPR": "0.04",
+        "KMAX": "15"
+    },
+    {
+        "Player": "squirmor\nUCF.B",
+        "RND": "24",
+        "KPR": "0.79",
+        "APR": "0.13",
+        "FKPR": "0.00",
+        "KMAX": "19"
+    },
+    {
+        "Player": "Divine\nSGP",
+        "RND": "85",
+        "KPR": "0.59",
+        "APR": "0.38",
+        "FKPR": "0.06",
+        "KMAX": "16"
+    },
+    {
+        "Player": "rise\nWPT",
+        "RND": "40",
+        "KPR": "0.50",
+        "APR": "0.63",
+        "FKPR": "0.10",
+        "KMAX": "10"
+    },
+    {
+        "Player": "BiggieCheese\nAIC",
+        "RND": "23",
+        "KPR": "0.52",
+        "APR": "0.17",
+        "FKPR": "0.04",
+        "KMAX": "12"
+    },
+    {
+        "Player": "SeliG\nDK",
+        "RND": "68",
+        "KPR": "0.65",
+        "APR": "0.29",
+        "FKPR": "0.12",
+        "KMAX": "20"
+    },
+    {
+        "Player": "techuu",
+        "RND": "18",
+        "KPR": "0.67",
+        "APR": "0.22",
+        "FKPR": "0.11",
+        "KMAX": "12"
+    },
+    {
+        "Player": "Dragon\nJJH",
+        "RND": "23",
+        "KPR": "0.70",
+        "APR": "0.13",
+        "FKPR": "0.04",
+        "KMAX": "16"
+    },
+    {
+        "Player": "Nexi\nNAOS",
+        "RND": "22",
+        "KPR": "0.73",
+        "APR": "0.27",
+        "FKPR": "0.00",
+        "KMAX": "16"
+    },
+    {
+        "Player": "reshi\nFIRE",
+        "RND": "43",
+        "KPR": "0.67",
+        "APR": "0.19",
+        "FKPR": "0.09",
+        "KMAX": "15"
+    },
+    {
+        "Player": "GON\nFL",
+        "RND": "88",
+        "KPR": "0.72",
+        "APR": "0.35",
+        "FKPR": "0.07",
+        "KMAX": "37"
+    },
+    {
+        "Player": "Rinn\n4CE",
+        "RND": "30",
+        "KPR": "0.77",
+        "APR": "0.17",
+        "FKPR": "0.07",
+        "KMAX": "23"
+    },
+    {
+        "Player": "Mazino\nLEV",
+        "RND": "19",
+        "KPR": "0.47",
+        "APR": "0.68",
+        "FKPR": "0.05",
+        "KMAX": "9"
+    },
+    {
+        "Player": "trent\nG2",
+        "RND": "64",
+        "KPR": "0.63",
+        "APR": "0.17",
+        "FKPR": "0.11",
+        "KMAX": "16"
+    },
+    {
+        "Player": "adverso\nAK",
+        "RND": "40",
+        "KPR": "0.63",
+        "APR": "0.23",
+        "FKPR": "0.08",
+        "KMAX": "18"
+    },
+    {
+        "Player": "Ri0\nOGS",
+        "RND": "45",
+        "KPR": "0.67",
+        "APR": "0.22",
+        "FKPR": "0.02",
+        "KMAX": "15"
+    },
+    {
+        "Player": "kAzoo\nTwis",
+        "RND": "141",
+        "KPR": "0.68",
+        "APR": "0.16",
+        "FKPR": "0.09",
+        "KMAX": "22"
+    },
+    {
+        "Player": "Suka\nRLF",
+        "RND": "16",
+        "KPR": "0.63",
+        "APR": "0.19",
+        "FKPR": "0.13",
+        "KMAX": "10"
+    },
+    {
+        "Player": "Shiro\nBME",
+        "RND": "34",
+        "KPR": "0.62",
+        "APR": "0.26",
+        "FKPR": "0.03",
+        "KMAX": "21"
+    },
+    {
+        "Player": "Dazlly\nVIS",
+        "RND": "70",
+        "KPR": "0.73",
+        "APR": "0.10",
+        "FKPR": "0.04",
+        "KMAX": "20"
+    },
+    {
+        "Player": "vong\nMZP",
+        "RND": "23",
+        "KPR": "0.57",
+        "APR": "0.57",
+        "FKPR": "0.04",
+        "KMAX": "13"
+    },
+    {
+        "Player": "Kenkayyy\nXLD",
+        "RND": "68",
+        "KPR": "0.75",
+        "APR": "0.12",
+        "FKPR": "0.09",
+        "KMAX": "20"
+    },
+    {
+        "Player": "AuloekXD",
+        "RND": "30",
+        "KPR": "0.50",
+        "APR": "0.57",
+        "FKPR": "0.00",
+        "KMAX": "15"
+    },
+    {
+        "Player": "Dark3st\nSAD",
+        "RND": "19",
+        "KPR": "0.74",
+        "APR": "0.21",
+        "FKPR": "0.00",
+        "KMAX": "14"
+    },
+    {
+        "Player": "izana\nColo",
+        "RND": "95",
+        "KPR": "0.58",
+        "APR": "0.21",
+        "FKPR": "0.05",
+        "KMAX": "25"
+    },
+    {
+        "Player": "songry\nxyz",
+        "RND": "20",
+        "KPR": "0.75",
+        "APR": "0.20",
+        "FKPR": "0.10",
+        "KMAX": "15"
+    },
+    {
+        "Player": "7omash",
+        "RND": "18",
+        "KPR": "0.78",
+        "APR": "0.00",
+        "FKPR": "0.06",
+        "KMAX": "14"
+    },
+    {
+        "Player": "Unhappy\nROA",
+        "RND": "26",
+        "KPR": "0.65",
+        "APR": "0.15",
+        "FKPR": "0.04",
+        "KMAX": "17"
+    },
+    {
+        "Player": "Deria\nVien",
+        "RND": "30",
+        "KPR": "0.67",
+        "APR": "0.43",
+        "FKPR": "0.07",
+        "KMAX": "20"
+    },
+    {
+        "Player": "Brinks\nWTR",
+        "RND": "109",
+        "KPR": "0.61",
+        "APR": "0.17",
+        "FKPR": "0.10",
+        "KMAX": "18"
+    },
+    {
+        "Player": "sarahcat\nSR",
+        "RND": "67",
+        "KPR": "0.69",
+        "APR": "0.22",
+        "FKPR": "0.06",
+        "KMAX": "18"
+    },
+    {
+        "Player": "cavern\nMOBAP",
+        "RND": "22",
+        "KPR": "0.73",
+        "APR": "0.18",
+        "FKPR": "0.05",
+        "KMAX": "16"
+    },
+    {
+        "Player": "Andrehs\nAKV.GC",
+        "RND": "28",
+        "KPR": "0.71",
+        "APR": "0.25",
+        "FKPR": "0.04",
+        "KMAX": "20"
+    },
+    {
+        "Player": "Nelo\nKC.GC",
+        "RND": "108",
+        "KPR": "0.74",
+        "APR": "0.14",
+        "FKPR": "0.09",
+        "KMAX": "34"
+    },
+    {
+        "Player": "lazylion\nDSG",
+        "RND": "22",
+        "KPR": "0.64",
+        "APR": "0.27",
+        "FKPR": "0.23",
+        "KMAX": "14"
+    },
+    {
+        "Player": "tinchoff\nAK",
+        "RND": "40",
+        "KPR": "0.75",
+        "APR": "0.15",
+        "FKPR": "0.03",
+        "KMAX": "15"
+    },
+    {
+        "Player": "snw\nRETA",
+        "RND": "22",
+        "KPR": "0.86",
+        "APR": "0.05",
+        "FKPR": "0.14",
+        "KMAX": "19"
+    },
+    {
+        "Player": "thebigfiz\nMDR",
+        "RND": "20",
+        "KPR": "0.55",
+        "APR": "0.30",
+        "FKPR": "0.00",
+        "KMAX": "11"
+    },
+    {
+        "Player": "SerialKiller\nAimb",
+        "RND": "108",
+        "KPR": "0.66",
+        "APR": "0.18",
+        "FKPR": "0.16",
+        "KMAX": "19"
+    },
+    {
+        "Player": "Boofd0n",
+        "RND": "16",
+        "KPR": "0.75",
+        "APR": "0.25",
+        "FKPR": "0.13",
+        "KMAX": "12"
+    },
+    {
+        "Player": "FREY\nLZE",
+        "RND": "85",
+        "KPR": "0.62",
+        "APR": "0.11",
+        "FKPR": "0.09",
+        "KMAX": "16"
+    },
+    {
+        "Player": "K1LLERS\nFPT",
+        "RND": "34",
+        "KPR": "0.71",
+        "APR": "0.12",
+        "FKPR": "0.06",
+        "KMAX": "17"
+    },
+    {
+        "Player": "sorr0w\nEVOP",
+        "RND": "18",
+        "KPR": "0.78",
+        "APR": "0.00",
+        "FKPR": "0.00",
+        "KMAX": "14"
+    },
+    {
+        "Player": "JonahP\nG2",
+        "RND": "64",
+        "KPR": "0.61",
+        "APR": "0.23",
+        "FKPR": "0.08",
+        "KMAX": "15"
+    },
+    {
+        "Player": "Licht\n6K.Fem",
+        "RND": "22",
+        "KPR": "0.50",
+        "APR": "0.05",
+        "FKPR": "0.00",
+        "KMAX": "11"
+    },
+    {
+        "Player": "Ange\nMAD",
+        "RND": "28",
+        "KPR": "0.43",
+        "APR": "0.25",
+        "FKPR": "0.11",
+        "KMAX": "12"
+    },
+    {
+        "Player": "Shak0w\nColo",
+        "RND": "95",
+        "KPR": "0.66",
+        "APR": "0.31",
+        "FKPR": "0.11",
+        "KMAX": "27"
+    },
+    {
+        "Player": "Ignite\nCCG",
+        "RND": "17",
+        "KPR": "0.82",
+        "APR": "0.06",
+        "FKPR": "0.06",
+        "KMAX": "14"
+    },
+    {
+        "Player": "GENETICZZ\nPMT",
+        "RND": "28",
+        "KPR": "0.46",
+        "APR": "0.29",
+        "FKPR": "0.00",
+        "KMAX": "13"
+    },
+    {
+        "Player": "Jremy\nTS",
+        "RND": "45",
+        "KPR": "0.71",
+        "APR": "0.11",
+        "FKPR": "0.20",
+        "KMAX": "16"
+    },
+    {
+        "Player": "faniehehe\nNE",
+        "RND": "22",
+        "KPR": "0.64",
+        "APR": "0.23",
+        "FKPR": "0.00",
+        "KMAX": "14"
+    },
+    {
+        "Player": "Urango\nGLRS",
+        "RND": "40",
+        "KPR": "0.73",
+        "APR": "0.18",
+        "FKPR": "0.20",
+        "KMAX": "18"
+    },
+    {
+        "Player": "prozin\nTBK",
+        "RND": "109",
+        "KPR": "0.58",
+        "APR": "0.45",
+        "FKPR": "0.08",
+        "KMAX": "15"
+    },
+    {
+        "Player": "alexis\nSR",
+        "RND": "67",
+        "KPR": "0.66",
+        "APR": "0.30",
+        "FKPR": "0.09",
+        "KMAX": "21"
+    },
+    {
+        "Player": "Nasty",
+        "RND": "30",
+        "KPR": "0.77",
+        "APR": "0.07",
+        "FKPR": "0.20",
+        "KMAX": "23"
+    },
+    {
+        "Player": "Veqaj\nVX3",
+        "RND": "36",
+        "KPR": "0.78",
+        "APR": "0.25",
+        "FKPR": "0.28",
+        "KMAX": "16"
+    },
+    {
+        "Player": "lucas\nMFC",
+        "RND": "54",
+        "KPR": "0.61",
+        "APR": "0.20",
+        "FKPR": "0.04",
+        "KMAX": "15"
+    },
+    {
+        "Player": "invy\nTS",
+        "RND": "45",
+        "KPR": "0.56",
+        "APR": "0.56",
+        "FKPR": "0.07",
+        "KMAX": "14"
+    },
+    {
+        "Player": "Bocah",
+        "RND": "37",
+        "KPR": "0.70",
+        "APR": "0.24",
+        "FKPR": "0.00",
+        "KMAX": "14"
+    },
+    {
+        "Player": "Fit1nho\nGX",
+        "RND": "55",
+        "KPR": "0.69",
+        "APR": "0.18",
+        "FKPR": "0.15",
+        "KMAX": "18"
+    },
+    {
+        "Player": "drakoNz\nLGCY",
+        "RND": "60",
+        "KPR": "0.62",
+        "APR": "0.23",
+        "FKPR": "0.07",
+        "KMAX": "16"
+    },
+    {
+        "Player": "VYX\nFCN",
+        "RND": "18",
+        "KPR": "0.67",
+        "APR": "0.06",
+        "FKPR": "0.00",
+        "KMAX": "12"
+    },
+    {
+        "Player": "Mited\nEXL",
+        "RND": "22",
+        "KPR": "0.59",
+        "APR": "0.18",
+        "FKPR": "0.09",
+        "KMAX": "13"
+    },
+    {
+        "Player": "zolters\nONLI",
+        "RND": "20",
+        "KPR": "0.45",
+        "APR": "0.40",
+        "FKPR": "0.00",
+        "KMAX": "9"
+    },
+    {
+        "Player": "flyuh\nMxS",
+        "RND": "18",
+        "KPR": "0.44",
+        "APR": "0.44",
+        "FKPR": "0.17",
+        "KMAX": "8"
+    },
+    {
+        "Player": "Absol\nMRSH",
+        "RND": "28",
+        "KPR": "0.46",
+        "APR": "0.36",
+        "FKPR": "0.14",
+        "KMAX": "13"
+    },
+    {
+        "Player": "Vuubit\nACE",
+        "RND": "22",
+        "KPR": "0.64",
+        "APR": "0.18",
+        "FKPR": "0.05",
+        "KMAX": "14"
+    },
+    {
+        "Player": "Zellsis\nSEN",
+        "RND": "59",
+        "KPR": "0.53",
+        "APR": "0.27",
+        "FKPR": "0.03",
+        "KMAX": "14"
+    },
+    {
+        "Player": "zero cap\nMFC",
+        "RND": "42",
+        "KPR": "0.57",
+        "APR": "0.29",
+        "FKPR": "0.05",
+        "KMAX": "17"
+    },
+    {
+        "Player": "vibhoRR\nMDL",
+        "RND": "43",
+        "KPR": "0.79",
+        "APR": "0.16",
+        "FKPR": "0.07",
+        "KMAX": "21"
+    },
+    {
+        "Player": "Kuripuuya\nKC.GC",
+        "RND": "108",
+        "KPR": "0.60",
+        "APR": "0.19",
+        "FKPR": "0.06",
+        "KMAX": "24"
+    },
+    {
+        "Player": "tub\nDVT",
+        "RND": "45",
+        "KPR": "0.76",
+        "APR": "0.09",
+        "FKPR": "0.11",
+        "KMAX": "20"
+    },
+    {
+        "Player": "lalambona",
+        "RND": "20",
+        "KPR": "0.40",
+        "APR": "0.20",
+        "FKPR": "0.00",
+        "KMAX": "8"
+    },
+    {
+        "Player": "pryze\n2G",
+        "RND": "24",
+        "KPR": "0.38",
+        "APR": "0.21",
+        "FKPR": "0.08",
+        "KMAX": "9"
+    },
+    {
+        "Player": "c4Lypso\nVLYN",
+        "RND": "23",
+        "KPR": "0.65",
+        "APR": "0.26",
+        "FKPR": "0.04",
+        "KMAX": "15"
+    },
+    {
+        "Player": "JaebiN\nSLT",
+        "RND": "16",
+        "KPR": "0.75",
+        "APR": "0.06",
+        "FKPR": "0.13",
+        "KMAX": "12"
+    },
+    {
+        "Player": "Hakka",
+        "RND": "20",
+        "KPR": "0.65",
+        "APR": "0.20",
+        "FKPR": "0.00",
+        "KMAX": "13"
+    },
+    {
+        "Player": "L1NK\nUCAM",
+        "RND": "19",
+        "KPR": "0.47",
+        "APR": "0.21",
+        "FKPR": "0.00",
+        "KMAX": "9"
+    },
+    {
+        "Player": "Kadoom\nSPE",
+        "RND": "30",
+        "KPR": "0.77",
+        "APR": "0.20",
+        "FKPR": "0.07",
+        "KMAX": "23"
+    },
+    {
+        "Player": "Mcfly\nSNX.F",
+        "RND": "24",
+        "KPR": "0.58",
+        "APR": "0.13",
+        "FKPR": "0.08",
+        "KMAX": "14"
+    },
+    {
+        "Player": "Tr1X\nGR G",
+        "RND": "18",
+        "KPR": "0.83",
+        "APR": "0.22",
+        "FKPR": "0.06",
+        "KMAX": "15"
+    },
+    {
+        "Player": "Moosey\nBBP",
+        "RND": "46",
+        "KPR": "0.70",
+        "APR": "0.17",
+        "FKPR": "0.20",
+        "KMAX": "17"
+    },
+    {
+        "Player": "Chadi\nESC",
+        "RND": "23",
+        "KPR": "0.70",
+        "APR": "0.13",
+        "FKPR": "0.13",
+        "KMAX": "16"
+    },
+    {
+        "Player": "Ninjas\nVIS",
+        "RND": "70",
+        "KPR": "0.64",
+        "APR": "0.20",
+        "FKPR": "0.10",
+        "KMAX": "27"
+    },
+    {
+        "Player": "Nirvana",
+        "RND": "17",
+        "KPR": "0.82",
+        "APR": "0.12",
+        "FKPR": "0.12",
+        "KMAX": "14"
+    },
+    {
+        "Player": "Sacake\nVLNT",
+        "RND": "43",
+        "KPR": "0.70",
+        "APR": "0.23",
+        "FKPR": "0.12",
+        "KMAX": "19"
+    },
+    {
+        "Player": "CortexDesire",
+        "RND": "22",
+        "KPR": "0.50",
+        "APR": "0.50",
+        "FKPR": "0.14",
+        "KMAX": "11"
+    },
+    {
+        "Player": "Tempz\nNG",
+        "RND": "46",
+        "KPR": "0.65",
+        "APR": "0.15",
+        "FKPR": "0.04",
+        "KMAX": "16"
+    },
+    {
+        "Player": "SkRossi\nRVNT",
+        "RND": "28",
+        "KPR": "0.71",
+        "APR": "0.14",
+        "FKPR": "0.07",
+        "KMAX": "20"
+    },
+    {
+        "Player": "renai\nCU.V",
+        "RND": "45",
+        "KPR": "0.53",
+        "APR": "0.29",
+        "FKPR": "0.04",
+        "KMAX": "15"
+    },
+    {
+        "Player": "Ciel",
+        "RND": "22",
+        "KPR": "0.59",
+        "APR": "0.18",
+        "FKPR": "0.05",
+        "KMAX": "13"
+    },
+    {
+        "Player": "riku\nNSIC",
+        "RND": "28",
+        "KPR": "0.82",
+        "APR": "0.11",
+        "FKPR": "0.11",
+        "KMAX": "23"
+    },
+    {
+        "Player": "Grmekista\nDIA",
+        "RND": "44",
+        "KPR": "0.73",
+        "APR": "0.20",
+        "FKPR": "0.02",
+        "KMAX": "17"
+    },
+    {
+        "Player": "ACHRF\nOXR",
+        "RND": "41",
+        "KPR": "0.68",
+        "APR": "0.15",
+        "FKPR": "0.15",
+        "KMAX": "17"
+    },
+    {
+        "Player": "Polvi\nGE",
+        "RND": "26",
+        "KPR": "0.62",
+        "APR": "0.23",
+        "FKPR": "0.31",
+        "KMAX": "16"
+    },
+    {
+        "Player": "Redgar\nGX",
+        "RND": "55",
+        "KPR": "0.58",
+        "APR": "0.15",
+        "FKPR": "0.02",
+        "KMAX": "16"
+    },
+    {
+        "Player": "viness\nFPT",
+        "RND": "34",
+        "KPR": "0.65",
+        "APR": "0.15",
+        "FKPR": "0.15",
+        "KMAX": "15"
+    },
+    {
+        "Player": "Eso177\nOXR",
+        "RND": "41",
+        "KPR": "0.71",
+        "APR": "0.17",
+        "FKPR": "0.10",
+        "KMAX": "19"
+    },
+    {
+        "Player": "arcaea",
+        "RND": "28",
+        "KPR": "0.54",
+        "APR": "0.29",
+        "FKPR": "0.04",
+        "KMAX": "15"
+    },
+    {
+        "Player": "Rainy\nCBT",
+        "RND": "23",
+        "KPR": "0.61",
+        "APR": "0.04",
+        "FKPR": "0.09",
+        "KMAX": "14"
+    },
+    {
+        "Player": "GGHuiii\nLGD",
+        "RND": "23",
+        "KPR": "0.65",
+        "APR": "0.09",
+        "FKPR": "0.30",
+        "KMAX": "15"
+    },
+    {
+        "Player": "PowerPixele\nPP",
+        "RND": "22",
+        "KPR": "0.64",
+        "APR": "0.64",
+        "FKPR": "0.09",
+        "KMAX": "14"
+    },
+    {
+        "Player": "Tillo\nspec",
+        "RND": "22",
+        "KPR": "0.50",
+        "APR": "0.45",
+        "FKPR": "0.00",
+        "KMAX": "11"
+    },
+    {
+        "Player": "satellite\nVLYN",
+        "RND": "23",
+        "KPR": "0.61",
+        "APR": "0.09",
+        "FKPR": "0.13",
+        "KMAX": "14"
+    },
+    {
+        "Player": "LiNLiN\nAKV.GC",
+        "RND": "28",
+        "KPR": "0.64",
+        "APR": "0.25",
+        "FKPR": "0.07",
+        "KMAX": "18"
+    },
+    {
+        "Player": "xelouz\nUNT",
+        "RND": "59",
+        "KPR": "0.56",
+        "APR": "0.29",
+        "FKPR": "0.03",
+        "KMAX": "17"
+    },
+    {
+        "Player": "freya\nBCK",
+        "RND": "16",
+        "KPR": "0.81",
+        "APR": "0.06",
+        "FKPR": "0.00",
+        "KMAX": "13"
+    },
+    {
+        "Player": "Dane\nSuic",
+        "RND": "141",
+        "KPR": "0.68",
+        "APR": "0.21",
+        "FKPR": "0.06",
+        "KMAX": "24"
+    },
+    {
+        "Player": "WicK\nDG",
+        "RND": "17",
+        "KPR": "0.47",
+        "APR": "0.24",
+        "FKPR": "0.00",
+        "KMAX": "8"
+    },
+    {
+        "Player": "469matt\nDG",
+        "RND": "17",
+        "KPR": "0.76",
+        "APR": "0.00",
+        "FKPR": "0.29",
+        "KMAX": "13"
+    },
+    {
+        "Player": "ivy",
+        "RND": "18",
+        "KPR": "0.67",
+        "APR": "0.22",
+        "FKPR": "0.17",
+        "KMAX": "12"
+    },
+    {
+        "Player": "mindle\nODK",
+        "RND": "50",
+        "KPR": "0.58",
+        "APR": "0.34",
+        "FKPR": "0.04",
+        "KMAX": "17"
+    },
+    {
+        "Player": "Bugsy",
+        "RND": "45",
+        "KPR": "0.58",
+        "APR": "0.31",
+        "FKPR": "0.04",
+        "KMAX": "15"
+    },
+    {
+        "Player": "zeek\nCVU.NBG",
+        "RND": "38",
+        "KPR": "0.66",
+        "APR": "0.32",
+        "FKPR": "0.05",
+        "KMAX": "17"
+    },
+    {
+        "Player": "skillZ\nRVNT",
+        "RND": "28",
+        "KPR": "0.61",
+        "APR": "0.07",
+        "FKPR": "0.00",
+        "KMAX": "17"
+    },
+    {
+        "Player": "Kwixy\nESC",
+        "RND": "23",
+        "KPR": "0.61",
+        "APR": "0.39",
+        "FKPR": "0.04",
+        "KMAX": "14"
+    },
+    {
+        "Player": "MOLSI\nAPK",
+        "RND": "19",
+        "KPR": "0.58",
+        "APR": "0.47",
+        "FKPR": "0.11",
+        "KMAX": "11"
+    },
+    {
+        "Player": "Axuspes",
+        "RND": "30",
+        "KPR": "0.70",
+        "APR": "0.27",
+        "FKPR": "0.23",
+        "KMAX": "21"
+    },
+    {
+        "Player": "RYRY\nARC",
+        "RND": "51",
+        "KPR": "0.69",
+        "APR": "0.16",
+        "FKPR": "0.16",
+        "KMAX": "20"
+    },
+    {
+        "Player": "lg1c",
+        "RND": "20",
+        "KPR": "0.65",
+        "APR": "0.05",
+        "FKPR": "0.10",
+        "KMAX": "13"
+    },
+    {
+        "Player": "BNIPER\nUCF.G",
+        "RND": "24",
+        "KPR": "0.79",
+        "APR": "0.00",
+        "FKPR": "0.17",
+        "KMAX": "19"
+    },
+    {
+        "Player": "cidZzZ\nXLD",
+        "RND": "68",
+        "KPR": "0.54",
+        "APR": "0.28",
+        "FKPR": "0.04",
+        "KMAX": "18"
+    },
+    {
+        "Player": "NXBLE\nTAMU",
+        "RND": "24",
+        "KPR": "0.79",
+        "APR": "0.08",
+        "FKPR": "0.29",
+        "KMAX": "19"
+    },
+    {
+        "Player": "Qrizma\nCSUL",
+        "RND": "44",
+        "KPR": "0.70",
+        "APR": "0.09",
+        "FKPR": "0.20",
+        "KMAX": "16"
+    },
+    {
+        "Player": "supamen\nEG",
+        "RND": "22",
+        "KPR": "0.68",
+        "APR": "0.05",
+        "FKPR": "0.18",
+        "KMAX": "15"
+    },
+    {
+        "Player": "karie\nSNG",
+        "RND": "40",
+        "KPR": "0.75",
+        "APR": "0.15",
+        "FKPR": "0.08",
+        "KMAX": "18"
+    },
+    {
+        "Player": "adrnking\nGRY",
+        "RND": "24",
+        "KPR": "0.67",
+        "APR": "0.13",
+        "FKPR": "0.04",
+        "KMAX": "16"
+    },
+    {
+        "Player": "Neli\nFKS.S",
+        "RND": "23",
+        "KPR": "0.43",
+        "APR": "0.30",
+        "FKPR": "0.04",
+        "KMAX": "10"
+    },
+    {
+        "Player": "SEIDER\nFKS",
+        "RND": "26",
+        "KPR": "0.50",
+        "APR": "0.23",
+        "FKPR": "0.08",
+        "KMAX": "13"
+    },
+    {
+        "Player": "Khalil\nFUR",
+        "RND": "41",
+        "KPR": "0.51",
+        "APR": "0.20",
+        "FKPR": "0.07",
+        "KMAX": "11"
+    },
+    {
+        "Player": "bipo\nNOVO",
+        "RND": "43",
+        "KPR": "0.70",
+        "APR": "0.09",
+        "FKPR": "0.19",
+        "KMAX": "22"
+    },
+    {
+        "Player": "Newky\nNF",
+        "RND": "22",
+        "KPR": "0.64",
+        "APR": "0.18",
+        "FKPR": "0.14",
+        "KMAX": "14"
+    },
+    {
+        "Player": "hypeRR\nKOPF",
+        "RND": "65",
+        "KPR": "0.54",
+        "APR": "0.23",
+        "FKPR": "0.02",
+        "KMAX": "13"
+    },
+    {
+        "Player": "Jerk\nWU",
+        "RND": "17",
+        "KPR": "0.71",
+        "APR": "0.18",
+        "FKPR": "0.06",
+        "KMAX": "12"
+    },
+    {
+        "Player": "Boaster\nFNC",
+        "RND": "37",
+        "KPR": "0.49",
+        "APR": "0.24",
+        "FKPR": "0.11",
+        "KMAX": "12"
+    },
+    {
+        "Player": "frz\nMIBR",
+        "RND": "39",
+        "KPR": "0.56",
+        "APR": "0.15",
+        "FKPR": "0.08",
+        "KMAX": "13"
+    },
+    {
+        "Player": "TenZ\nSEN",
+        "RND": "59",
+        "KPR": "0.59",
+        "APR": "0.47",
+        "FKPR": "0.08",
+        "KMAX": "16"
+    },
+    {
+        "Player": "shelbyN\nEBG",
+        "RND": "91",
+        "KPR": "0.54",
+        "APR": "0.26",
+        "FKPR": "0.04",
+        "KMAX": "16"
+    },
+    {
+        "Player": "zekken\nSEN",
+        "RND": "59",
+        "KPR": "0.73",
+        "APR": "0.14",
+        "FKPR": "0.22",
+        "KMAX": "20"
+    },
+    {
+        "Player": "DOXZ3R\nRGES",
+        "RND": "28",
+        "KPR": "0.64",
+        "APR": "0.18",
+        "FKPR": "0.00",
+        "KMAX": "18"
+    },
+    {
+        "Player": "Derke\nFNC",
+        "RND": "37",
+        "KPR": "0.84",
+        "APR": "0.14",
+        "FKPR": "0.11",
+        "KMAX": "26"
+    },
+    {
+        "Player": "FallX\nGLAB",
+        "RND": "43",
+        "KPR": "0.67",
+        "APR": "0.07",
+        "FKPR": "0.12",
+        "KMAX": "16"
+    },
+    {
+        "Player": "adelano\nUG",
+        "RND": "104",
+        "KPR": "0.58",
+        "APR": "0.13",
+        "FKPR": "0.07",
+        "KMAX": "26"
+    },
+    {
+        "Player": "SnipKw\nDRGN",
+        "RND": "38",
+        "KPR": "0.63",
+        "APR": "0.24",
+        "FKPR": "0.03",
+        "KMAX": "15"
+    },
+    {
+        "Player": "Minimise\nJJH",
+        "RND": "23",
+        "KPR": "0.57",
+        "APR": "0.57",
+        "FKPR": "0.13",
+        "KMAX": "13"
+    },
+    {
+        "Player": "d1srupt\nTRS",
+        "RND": "24",
+        "KPR": "0.46",
+        "APR": "0.42",
+        "FKPR": "0.04",
+        "KMAX": "11"
+    },
+    {
+        "Player": "JKronic\nWVU",
+        "RND": "19",
+        "KPR": "0.53",
+        "APR": "0.16",
+        "FKPR": "0.05",
+        "KMAX": "10"
+    },
+    {
+        "Player": "FirstLove\nEND",
+        "RND": "30",
+        "KPR": "0.53",
+        "APR": "0.20",
+        "FKPR": "0.13",
+        "KMAX": "11"
+    },
+    {
+        "Player": "imai",
+        "RND": "15",
+        "KPR": "0.73",
+        "APR": "0.07",
+        "FKPR": "0.27",
+        "KMAX": "11"
+    },
+    {
+        "Player": "Lil Bob\nFKS.S",
+        "RND": "23",
+        "KPR": "0.70",
+        "APR": "0.22",
+        "FKPR": "0.09",
+        "KMAX": "16"
+    },
+    {
+        "Player": "askoo\nColo",
+        "RND": "95",
+        "KPR": "0.60",
+        "APR": "0.47",
+        "FKPR": "0.05",
+        "KMAX": "25"
+    },
+    {
+        "Player": "NaturE\nEG",
+        "RND": "22",
+        "KPR": "0.59",
+        "APR": "0.09",
+        "FKPR": "0.14",
+        "KMAX": "13"
+    },
+    {
+        "Player": "moshieroo\nFKS.S",
+        "RND": "24",
+        "KPR": "0.67",
+        "APR": "0.42",
+        "FKPR": "0.04",
+        "KMAX": "16"
+    },
+    {
+        "Player": "kiss\nDead",
+        "RND": "20",
+        "KPR": "0.75",
+        "APR": "0.15",
+        "FKPR": "0.20",
+        "KMAX": "15"
+    },
+    {
+        "Player": "Zoestol\nSAD",
+        "RND": "19",
+        "KPR": "0.53",
+        "APR": "0.37",
+        "FKPR": "0.16",
+        "KMAX": "10"
+    },
+    {
+        "Player": "BananaMan\n0Zer",
+        "RND": "33",
+        "KPR": "0.61",
+        "APR": "0.18",
+        "FKPR": "0.06",
+        "KMAX": "12"
+    },
+    {
+        "Player": "ginger\naTTaX",
+        "RND": "17",
+        "KPR": "0.76",
+        "APR": "0.00",
+        "FKPR": "0.06",
+        "KMAX": "13"
+    },
+    {
+        "Player": "Bonobo\nFOC",
+        "RND": "23",
+        "KPR": "0.57",
+        "APR": "0.30",
+        "FKPR": "0.17",
+        "KMAX": "13"
+    },
+    {
+        "Player": "Naifma7\nVIS",
+        "RND": "70",
+        "KPR": "0.41",
+        "APR": "0.19",
+        "FKPR": "0.03",
+        "KMAX": "12"
+    },
+    {
+        "Player": "Sacy\nSEN",
+        "RND": "59",
+        "KPR": "0.61",
+        "APR": "0.19",
+        "FKPR": "0.08",
+        "KMAX": "15"
+    },
+    {
+        "Player": "FakeAnanas\nSila",
+        "RND": "18",
+        "KPR": "0.67",
+        "APR": "0.11",
+        "FKPR": "0.06",
+        "KMAX": "12"
+    },
+    {
+        "Player": "kongared\nAAA",
+        "RND": "18",
+        "KPR": "0.83",
+        "APR": "0.22",
+        "FKPR": "0.22",
+        "KMAX": "15"
+    },
+    {
+        "Player": "swag\nLGCY",
+        "RND": "60",
+        "KPR": "0.53",
+        "APR": "0.30",
+        "FKPR": "0.07",
+        "KMAX": "17"
+    },
+    {
+        "Player": "ZmjjKK\nEDG",
+        "RND": "45",
+        "KPR": "1.02",
+        "APR": "0.11",
+        "FKPR": "0.21",
+        "KMAX": "30"
+    },
+    {
+        "Player": "teeson",
+        "RND": "22",
+        "KPR": "0.59",
+        "APR": "0.32",
+        "FKPR": "0.09",
+        "KMAX": "13"
+    },
+    {
+        "Player": "benjyfishy\nTH",
+        "RND": "39",
+        "KPR": "0.64",
+        "APR": "0.18",
+        "FKPR": "0.15",
+        "KMAX": "15"
+    },
+    {
+        "Player": "phi\nxyz",
+        "RND": "20",
+        "KPR": "0.60",
+        "APR": "0.25",
+        "FKPR": "0.10",
+        "KMAX": "12"
+    },
+    {
+        "Player": "Davud\nWHO",
+        "RND": "38",
+        "KPR": "0.76",
+        "APR": "0.24",
+        "FKPR": "0.21",
+        "KMAX": "29"
+    },
+    {
+        "Player": "Spolen\nMZP",
+        "RND": "23",
+        "KPR": "0.61",
+        "APR": "0.13",
+        "FKPR": "0.04",
+        "KMAX": "14"
+    },
+    {
+        "Player": "hellff\nTRS",
+        "RND": "24",
+        "KPR": "0.63",
+        "APR": "0.21",
+        "FKPR": "0.13",
+        "KMAX": "15"
+    },
+    {
+        "Player": "starriebun\nWPT",
+        "RND": "24",
+        "KPR": "0.50",
+        "APR": "0.33",
+        "FKPR": "0.08",
+        "KMAX": "12"
+    },
+    {
+        "Player": "Lilo\nMBH",
+        "RND": "53",
+        "KPR": "0.66",
+        "APR": "0.13",
+        "FKPR": "0.15",
+        "KMAX": "25"
+    },
+    {
+        "Player": "theory\nEXL",
+        "RND": "22",
+        "KPR": "0.32",
+        "APR": "0.18",
+        "FKPR": "0.09",
+        "KMAX": "7"
+    },
+    {
+        "Player": "nobody\nEDG",
+        "RND": "45",
+        "KPR": "0.56",
+        "APR": "0.18",
+        "FKPR": "0.05",
+        "KMAX": "14"
+    },
+    {
+        "Player": "XyuS",
+        "RND": "23",
+        "KPR": "0.65",
+        "APR": "0.13",
+        "FKPR": "0.04",
+        "KMAX": "15"
+    },
+    {
+        "Player": "Alfajer\nFNC",
+        "RND": "37",
+        "KPR": "0.59",
+        "APR": "0.05",
+        "FKPR": "0.05",
+        "KMAX": "15"
+    },
+    {
+        "Player": "Salth",
+        "RND": "18",
+        "KPR": "0.67",
+        "APR": "0.22",
+        "FKPR": "0.00",
+        "KMAX": "12"
+    },
+    {
+        "Player": "mwzera\nFUR",
+        "RND": "41",
+        "KPR": "0.73",
+        "APR": "0.20",
+        "FKPR": "0.10",
+        "KMAX": "17"
+    },
+    {
+        "Player": "Morgausse\nN8V",
+        "RND": "45",
+        "KPR": "0.60",
+        "APR": "0.29",
+        "FKPR": "0.07",
+        "KMAX": "15"
+    },
+    {
+        "Player": "NagZ\nRETA",
+        "RND": "22",
+        "KPR": "0.50",
+        "APR": "0.14",
+        "FKPR": "0.00",
+        "KMAX": "11"
+    },
+    {
+        "Player": "Matrixx\nFKS",
+        "RND": "26",
+        "KPR": "0.58",
+        "APR": "0.19",
+        "FKPR": "0.12",
+        "KMAX": "15"
+    },
+    {
+        "Player": "neto\nNOTT",
+        "RND": "20",
+        "KPR": "0.75",
+        "APR": "0.05",
+        "FKPR": "0.25",
+        "KMAX": "15"
+    },
+    {
+        "Player": "Phardon\nFMG",
+        "RND": "23",
+        "KPR": "0.52",
+        "APR": "0.39",
+        "FKPR": "0.00",
+        "KMAX": "12"
+    },
+    {
+        "Player": "Rykinn\nJimB",
+        "RND": "17",
+        "KPR": "0.59",
+        "APR": "0.18",
+        "FKPR": "0.18",
+        "KMAX": "10"
+    },
+    {
+        "Player": "DaFt\nVIC",
+        "RND": "16",
+        "KPR": "0.50",
+        "APR": "0.38",
+        "FKPR": "0.13",
+        "KMAX": "8"
+    },
+    {
+        "Player": "westside\nDIA",
+        "RND": "44",
+        "KPR": "0.61",
+        "APR": "0.14",
+        "FKPR": "0.09",
+        "KMAX": "18"
+    },
+    {
+        "Player": "stew\nSFU.P",
+        "RND": "38",
+        "KPR": "0.39",
+        "APR": "0.29",
+        "FKPR": "0.05",
+        "KMAX": "9"
+    },
+    {
+        "Player": "kalli",
+        "RND": "17",
+        "KPR": "0.76",
+        "APR": "0.06",
+        "FKPR": "0.06",
+        "KMAX": "13"
+    },
+    {
+        "Player": "Jackk",
+        "RND": "16",
+        "KPR": "0.50",
+        "APR": "0.38",
+        "FKPR": "0.38",
+        "KMAX": "8"
+    },
+    {
+        "Player": "mummAy\nTWT",
+        "RND": "70",
+        "KPR": "0.53",
+        "APR": "0.14",
+        "FKPR": "0.10",
+        "KMAX": "15"
+    },
+    {
+        "Player": "DizzyFps",
+        "RND": "43",
+        "KPR": "0.44",
+        "APR": "0.12",
+        "FKPR": "0.02",
+        "KMAX": "11"
+    },
+    {
+        "Player": "kay\nCU.V",
+        "RND": "45",
+        "KPR": "0.42",
+        "APR": "0.58",
+        "FKPR": "0.02",
+        "KMAX": "10"
+    },
+    {
+        "Player": "AloNeFillz\nAAA",
+        "RND": "18",
+        "KPR": "0.50",
+        "APR": "0.17",
+        "FKPR": "0.00",
+        "KMAX": "9"
+    },
+    {
+        "Player": "Breezy",
+        "RND": "21",
+        "KPR": "0.57",
+        "APR": "0.10",
+        "FKPR": "0.05",
+        "KMAX": "12"
+    },
+    {
+        "Player": "Crewen\nHOWL",
+        "RND": "47",
+        "KPR": "0.55",
+        "APR": "0.19",
+        "FKPR": "0.06",
+        "KMAX": "15"
+    },
+    {
+        "Player": "phi\nSZE",
+        "RND": "24",
+        "KPR": "0.42",
+        "APR": "0.29",
+        "FKPR": "0.00",
+        "KMAX": "10"
+    },
+    {
+        "Player": "Feeqn\nOF",
+        "RND": "19",
+        "KPR": "0.68",
+        "APR": "0.21",
+        "FKPR": "0.16",
+        "KMAX": "13"
+    },
+    {
+        "Player": "Tormo\nEQZ",
+        "RND": "22",
+        "KPR": "0.50",
+        "APR": "0.23",
+        "FKPR": "0.09",
+        "KMAX": "11"
+    },
+    {
+        "Player": "johnqt\nSEN",
+        "RND": "59",
+        "KPR": "0.58",
+        "APR": "0.17",
+        "FKPR": "0.07",
+        "KMAX": "13"
+    },
+    {
+        "Player": "ShadoW\nKOI",
+        "RND": "17",
+        "KPR": "0.59",
+        "APR": "0.24",
+        "FKPR": "0.00",
+        "KMAX": "10"
+    },
+    {
+        "Player": "Riza\nDSG",
+        "RND": "80",
+        "KPR": "0.56",
+        "APR": "0.18",
+        "FKPR": "0.05",
+        "KMAX": "14"
+    },
+    {
+        "Player": "welyy\nRyZe",
+        "RND": "15",
+        "KPR": "0.60",
+        "APR": "0.07",
+        "FKPR": "0.00",
+        "KMAX": "9"
+    },
+    {
+        "Player": "Troizyxgod",
+        "RND": "115",
+        "KPR": "0.59",
+        "APR": "0.18",
+        "FKPR": "0.09",
+        "KMAX": "21"
+    },
+    {
+        "Player": "Pyro\nMIND",
+        "RND": "15",
+        "KPR": "0.73",
+        "APR": "0.13",
+        "FKPR": "0.00",
+        "KMAX": "11"
+    },
+    {
+        "Player": "qrizly\nGHR",
+        "RND": "18",
+        "KPR": "0.56",
+        "APR": "0.11",
+        "FKPR": "0.11",
+        "KMAX": "10"
+    },
+    {
+        "Player": "NDG\nTS",
+        "RND": "45",
+        "KPR": "0.58",
+        "APR": "0.27",
+        "FKPR": "0.02",
+        "KMAX": "15"
+    },
+    {
+        "Player": "Rano\nHU",
+        "RND": "39",
+        "KPR": "0.67",
+        "APR": "0.23",
+        "FKPR": "0.05",
+        "KMAX": "16"
+    },
+    {
+        "Player": "saun\nOGS",
+        "RND": "45",
+        "KPR": "0.58",
+        "APR": "0.22",
+        "FKPR": "0.13",
+        "KMAX": "16"
+    },
+    {
+        "Player": "queebae",
+        "RND": "17",
+        "KPR": "0.59",
+        "APR": "0.24",
+        "FKPR": "0.00",
+        "KMAX": "10"
+    },
+    {
+        "Player": "NOBITA",
+        "RND": "28",
+        "KPR": "0.54",
+        "APR": "0.36",
+        "FKPR": "0.04",
+        "KMAX": "15"
+    },
+    {
+        "Player": "Misaya",
+        "RND": "28",
+        "KPR": "0.50",
+        "APR": "0.39",
+        "FKPR": "0.00",
+        "KMAX": "14"
+    },
+    {
+        "Player": "kon4n\nFUR",
+        "RND": "41",
+        "KPR": "0.54",
+        "APR": "0.32",
+        "FKPR": "0.07",
+        "KMAX": "14"
+    },
+    {
+        "Player": "Jazzyk1ns\nCOL",
+        "RND": "22",
+        "KPR": "0.55",
+        "APR": "0.05",
+        "FKPR": "0.00",
+        "KMAX": "12"
+    },
+    {
+        "Player": "req\nMFC",
+        "RND": "42",
+        "KPR": "0.71",
+        "APR": "0.10",
+        "FKPR": "0.07",
+        "KMAX": "19"
+    },
+    {
+        "Player": "ANXiOS\nSKUL",
+        "RND": "19",
+        "KPR": "0.63",
+        "APR": "0.16",
+        "FKPR": "0.05",
+        "KMAX": "12"
+    },
+    {
+        "Player": "Gloomy\nHOWL",
+        "RND": "47",
+        "KPR": "0.55",
+        "APR": "0.26",
+        "FKPR": "0.11",
+        "KMAX": "15"
+    },
+    {
+        "Player": "Anima\nHOWL",
+        "RND": "47",
+        "KPR": "0.51",
+        "APR": "0.38",
+        "FKPR": "0.02",
+        "KMAX": "14"
+    },
+    {
+        "Player": "neptune\nTWT",
+        "RND": "70",
+        "KPR": "0.57",
+        "APR": "0.47",
+        "FKPR": "0.09",
+        "KMAX": "15"
+    },
+    {
+        "Player": "Kntz\nMITH",
+        "RND": "30",
+        "KPR": "0.57",
+        "APR": "0.23",
+        "FKPR": "0.03",
+        "KMAX": "17"
+    },
+    {
+        "Player": "Quick\nLOUD",
+        "RND": "68",
+        "KPR": "0.65",
+        "APR": "0.07",
+        "FKPR": "0.19",
+        "KMAX": "18"
+    },
+    {
+        "Player": "senyorcarl\n1MS",
+        "RND": "24",
+        "KPR": "0.46",
+        "APR": "0.17",
+        "FKPR": "0.04",
+        "KMAX": "11"
+    },
+    {
+        "Player": "Whimp\nCG",
+        "RND": "32",
+        "KPR": "0.63",
+        "APR": "0.03",
+        "FKPR": "0.03",
+        "KMAX": "13"
+    },
+    {
+        "Player": "tess\nMLT.GC",
+        "RND": "24",
+        "KPR": "0.42",
+        "APR": "0.17",
+        "FKPR": "0.08",
+        "KMAX": "10"
+    },
+    {
+        "Player": "JoBa\nTAMU",
+        "RND": "24",
+        "KPR": "0.50",
+        "APR": "0.29",
+        "FKPR": "0.04",
+        "KMAX": "12"
+    },
+    {
+        "Player": "Kheops\nOXR",
+        "RND": "41",
+        "KPR": "0.56",
+        "APR": "0.15",
+        "FKPR": "0.05",
+        "KMAX": "12"
+    },
+    {
+        "Player": "limitado\nTHE",
+        "RND": "37",
+        "KPR": "0.59",
+        "APR": "0.24",
+        "FKPR": "0.00",
+        "KMAX": "12"
+    },
+    {
+        "Player": "xuss\nMOUZ",
+        "RND": "26",
+        "KPR": "0.58",
+        "APR": "0.04",
+        "FKPR": "0.08",
+        "KMAX": "15"
+    },
+    {
+        "Player": "Haodong\nEDG",
+        "RND": "45",
+        "KPR": "0.49",
+        "APR": "0.18",
+        "FKPR": "0.11",
+        "KMAX": "13"
+    },
+    {
+        "Player": "Life\nFPX",
+        "RND": "93",
+        "KPR": "0.84",
+        "APR": "0.16",
+        "FKPR": "0.17",
+        "KMAX": "26"
+    },
+    {
+        "Player": "vina\nJFT",
+        "RND": "20",
+        "KPR": "0.55",
+        "APR": "0.20",
+        "FKPR": "0.05",
+        "KMAX": "11"
+    },
+    {
+        "Player": "mikeE\nBC",
+        "RND": "42",
+        "KPR": "0.43",
+        "APR": "0.24",
+        "FKPR": "0.02",
+        "KMAX": "12"
+    },
+    {
+        "Player": "raymen\nAZN",
+        "RND": "20",
+        "KPR": "0.55",
+        "APR": "0.25",
+        "FKPR": "0.05",
+        "KMAX": "11"
+    },
+    {
+        "Player": "Anoxai\ntras",
+        "RND": "19",
+        "KPR": "0.58",
+        "APR": "0.16",
+        "FKPR": "0.11",
+        "KMAX": "11"
+    },
+    {
+        "Player": "Limpe\nOF",
+        "RND": "19",
+        "KPR": "0.79",
+        "APR": "0.05",
+        "FKPR": "0.26",
+        "KMAX": "15"
+    },
+    {
+        "Player": "Tayz\nYDZ.I",
+        "RND": "19",
+        "KPR": "0.42",
+        "APR": "0.21",
+        "FKPR": "0.11",
+        "KMAX": "8"
+    },
+    {
+        "Player": "opTED\nBoom",
+        "RND": "30",
+        "KPR": "0.50",
+        "APR": "0.33",
+        "FKPR": "0.07",
+        "KMAX": "15"
+    },
+    {
+        "Player": "rezy\nUG",
+        "RND": "128",
+        "KPR": "0.49",
+        "APR": "0.23",
+        "FKPR": "0.05",
+        "KMAX": "17"
+    },
+    {
+        "Player": "no1syboy\nMBH",
+        "RND": "53",
+        "KPR": "0.51",
+        "APR": "0.26",
+        "FKPR": "0.11",
+        "KMAX": "18"
+    },
+    {
+        "Player": "moefcute\nUBT",
+        "RND": "18",
+        "KPR": "0.67",
+        "APR": "0.22",
+        "FKPR": "0.17",
+        "KMAX": "12"
+    },
+    {
+        "Player": "In0X\nWVU",
+        "RND": "19",
+        "KPR": "0.63",
+        "APR": "0.26",
+        "FKPR": "0.05",
+        "KMAX": "12"
+    },
+    {
+        "Player": "alannn\nNOVO",
+        "RND": "43",
+        "KPR": "0.67",
+        "APR": "0.16",
+        "FKPR": "0.09",
+        "KMAX": "23"
+    },
+    {
+        "Player": "Tengu",
+        "RND": "21",
+        "KPR": "0.29",
+        "APR": "0.29",
+        "FKPR": "0.00",
+        "KMAX": "6"
+    },
+    {
+        "Player": "jubs\nMIBR",
+        "RND": "38",
+        "KPR": "0.45",
+        "APR": "0.29",
+        "FKPR": "0.08",
+        "KMAX": "15"
+    },
+    {
+        "Player": "NSD\nORG",
+        "RND": "47",
+        "KPR": "0.53",
+        "APR": "0.13",
+        "FKPR": "0.06",
+        "KMAX": "13"
+    },
+    {
+        "Player": "eva\nFLCV",
+        "RND": "38",
+        "KPR": "0.58",
+        "APR": "0.21",
+        "FKPR": "0.05",
+        "KMAX": "14"
+    },
+    {
+        "Player": "Kuro\nUNT",
+        "RND": "43",
+        "KPR": "0.37",
+        "APR": "0.30",
+        "FKPR": "0.02",
+        "KMAX": "9"
+    },
+    {
+        "Player": "k3ni\nSEN",
+        "RND": "17",
+        "KPR": "0.47",
+        "APR": "0.24",
+        "FKPR": "0.00",
+        "KMAX": "8"
+    },
+    {
+        "Player": "Chrome\nDG",
+        "RND": "17",
+        "KPR": "0.71",
+        "APR": "0.06",
+        "FKPR": "0.12",
+        "KMAX": "12"
+    },
+    {
+        "Player": "ceno",
+        "RND": "17",
+        "KPR": "0.59",
+        "APR": "0.24",
+        "FKPR": "0.18",
+        "KMAX": "10"
+    },
+    {
+        "Player": "Killu\n3D",
+        "RND": "23",
+        "KPR": "0.57",
+        "APR": "0.09",
+        "FKPR": "0.00",
+        "KMAX": "13"
+    },
+    {
+        "Player": "Calvrix\nGENG",
+        "RND": "16",
+        "KPR": "0.50",
+        "APR": "0.13",
+        "FKPR": "0.19",
+        "KMAX": "8"
+    },
+    {
+        "Player": "infiltrator\nWU",
+        "RND": "17",
+        "KPR": "0.59",
+        "APR": "0.12",
+        "FKPR": "0.12",
+        "KMAX": "10"
+    },
+    {
+        "Player": "Hoax\nGRY",
+        "RND": "24",
+        "KPR": "0.46",
+        "APR": "0.21",
+        "FKPR": "0.04",
+        "KMAX": "11"
+    },
+    {
+        "Player": "Dreamas\nMZP",
+        "RND": "23",
+        "KPR": "0.48",
+        "APR": "0.17",
+        "FKPR": "0.04",
+        "KMAX": "11"
+    },
+    {
+        "Player": "BONCE\nPDF",
+        "RND": "40",
+        "KPR": "0.58",
+        "APR": "0.18",
+        "FKPR": "0.10",
+        "KMAX": "14"
+    },
+    {
+        "Player": "Paedy\nMorJ",
+        "RND": "23",
+        "KPR": "0.52",
+        "APR": "0.52",
+        "FKPR": "0.17",
+        "KMAX": "12"
+    },
+    {
+        "Player": "Mabuchi\nUG",
+        "RND": "68",
+        "KPR": "0.65",
+        "APR": "0.21",
+        "FKPR": "0.15",
+        "KMAX": "21"
+    },
+    {
+        "Player": "JA\nNAOS",
+        "RND": "22",
+        "KPR": "0.64",
+        "APR": "0.14",
+        "FKPR": "0.14",
+        "KMAX": "14"
+    },
+    {
+        "Player": "Xan\nLZE",
+        "RND": "85",
+        "KPR": "0.66",
+        "APR": "0.24",
+        "FKPR": "0.15",
+        "KMAX": "18"
+    },
+    {
+        "Player": "Mizern",
+        "RND": "40",
+        "KPR": "0.65",
+        "APR": "0.18",
+        "FKPR": "0.08",
+        "KMAX": "15"
+    },
+    {
+        "Player": "Danda\nDEMU",
+        "RND": "19",
+        "KPR": "0.53",
+        "APR": "0.32",
+        "FKPR": "0.00",
+        "KMAX": "10"
+    },
+    {
+        "Player": "inf\nTM",
+        "RND": "46",
+        "KPR": "0.59",
+        "APR": "0.11",
+        "FKPR": "0.07",
+        "KMAX": "15"
+    },
+    {
+        "Player": "Reverie\nKZ",
+        "RND": "46",
+        "KPR": "0.48",
+        "APR": "0.17",
+        "FKPR": "0.09",
+        "KMAX": "12"
+    },
+    {
+        "Player": "sherb\nCrow",
+        "RND": "15",
+        "KPR": "0.53",
+        "APR": "0.13",
+        "FKPR": "0.00",
+        "KMAX": "8"
+    },
+    {
+        "Player": "Rayzey\nARC",
+        "RND": "51",
+        "KPR": "0.37",
+        "APR": "0.33",
+        "FKPR": "0.08",
+        "KMAX": "11"
+    },
+    {
+        "Player": "Derialy\nFL",
+        "RND": "88",
+        "KPR": "0.50",
+        "APR": "0.11",
+        "FKPR": "0.05",
+        "KMAX": "15"
+    },
+    {
+        "Player": "muto\nRC",
+        "RND": "60",
+        "KPR": "0.58",
+        "APR": "0.25",
+        "FKPR": "0.10",
+        "KMAX": "21"
+    },
+    {
+        "Player": "eugeneS\nSKYE",
+        "RND": "18",
+        "KPR": "0.72",
+        "APR": "0.17",
+        "FKPR": "0.11",
+        "KMAX": "13"
+    },
+    {
+        "Player": "million\nBB",
+        "RND": "28",
+        "KPR": "0.54",
+        "APR": "0.32",
+        "FKPR": "0.07",
+        "KMAX": "15"
+    },
+    {
+        "Player": "Luzuh\nOVA",
+        "RND": "23",
+        "KPR": "0.65",
+        "APR": "0.13",
+        "FKPR": "0.09",
+        "KMAX": "15"
+    },
+    {
+        "Player": "Emman\nNAOS",
+        "RND": "22",
+        "KPR": "0.55",
+        "APR": "0.09",
+        "FKPR": "0.09",
+        "KMAX": "12"
+    },
+    {
+        "Player": "forbanz\nXLD",
+        "RND": "68",
+        "KPR": "0.63",
+        "APR": "0.12",
+        "FKPR": "0.13",
+        "KMAX": "22"
+    },
+    {
+        "Player": "Leen",
+        "RND": "24",
+        "KPR": "0.83",
+        "APR": "0.08",
+        "FKPR": "0.21",
+        "KMAX": "20"
+    },
+    {
+        "Player": "MateliaN\nAKR",
+        "RND": "23",
+        "KPR": "0.65",
+        "APR": "0.17",
+        "FKPR": "0.04",
+        "KMAX": "15"
+    },
+    {
+        "Player": "gabiT\u00ea\nTeam",
+        "RND": "16",
+        "KPR": "0.69",
+        "APR": "0.25",
+        "FKPR": "0.06",
+        "KMAX": "11"
+    },
+    {
+        "Player": "Pa1ze\nDIA",
+        "RND": "44",
+        "KPR": "0.59",
+        "APR": "0.18",
+        "FKPR": "0.11",
+        "KMAX": "17"
+    },
+    {
+        "Player": "shy\nESC",
+        "RND": "23",
+        "KPR": "0.70",
+        "APR": "0.26",
+        "FKPR": "0.00",
+        "KMAX": "16"
+    },
+    {
+        "Player": "LeoZ\nN5R",
+        "RND": "20",
+        "KPR": "0.50",
+        "APR": "0.20",
+        "FKPR": "0.05",
+        "KMAX": "10"
+    },
+    {
+        "Player": "Anashi\n0Zer",
+        "RND": "33",
+        "KPR": "0.42",
+        "APR": "0.24",
+        "FKPR": "0.03",
+        "KMAX": "9"
+    },
+    {
+        "Player": "gucc107\nWU",
+        "RND": "17",
+        "KPR": "0.59",
+        "APR": "0.65",
+        "FKPR": "0.00",
+        "KMAX": "10"
+    },
+    {
+        "Player": "BerLIN\nFPX",
+        "RND": "93",
+        "KPR": "0.73",
+        "APR": "0.27",
+        "FKPR": "0.08",
+        "KMAX": "26"
+    },
+    {
+        "Player": "johms\nVAL",
+        "RND": "16",
+        "KPR": "0.50",
+        "APR": "0.13",
+        "FKPR": "0.13",
+        "KMAX": "8"
+    },
+    {
+        "Player": "Truu",
+        "RND": "20",
+        "KPR": "0.60",
+        "APR": "0.35",
+        "FKPR": "0.20",
+        "KMAX": "12"
+    },
+    {
+        "Player": "Nawaf\nDRGN",
+        "RND": "38",
+        "KPR": "0.61",
+        "APR": "0.32",
+        "FKPR": "0.11",
+        "KMAX": "13"
+    },
+    {
+        "Player": "hyjinx\nHU",
+        "RND": "39",
+        "KPR": "0.54",
+        "APR": "0.33",
+        "FKPR": "0.08",
+        "KMAX": "12"
+    },
+    {
+        "Player": "Archery",
+        "RND": "22",
+        "KPR": "0.50",
+        "APR": "0.14",
+        "FKPR": "0.05",
+        "KMAX": "11"
+    },
+    {
+        "Player": "mica",
+        "RND": "22",
+        "KPR": "0.68",
+        "APR": "0.00",
+        "FKPR": "0.05",
+        "KMAX": "15"
+    },
+    {
+        "Player": "Ender\nKZ",
+        "RND": "40",
+        "KPR": "0.68",
+        "APR": "0.13",
+        "FKPR": "0.08",
+        "KMAX": "15"
+    },
+    {
+        "Player": "Mojo\nBRU",
+        "RND": "20",
+        "KPR": "0.40",
+        "APR": "0.50",
+        "FKPR": "0.00",
+        "KMAX": "8"
+    },
+    {
+        "Player": "blaZek1ng\nGE",
+        "RND": "26",
+        "KPR": "0.50",
+        "APR": "0.15",
+        "FKPR": "0.12",
+        "KMAX": "13"
+    },
+    {
+        "Player": "JuW\nAKV.GC",
+        "RND": "28",
+        "KPR": "0.61",
+        "APR": "0.21",
+        "FKPR": "0.14",
+        "KMAX": "17"
+    },
+    {
+        "Player": "Pain\nIluZ",
+        "RND": "42",
+        "KPR": "0.55",
+        "APR": "0.14",
+        "FKPR": "0.02",
+        "KMAX": "14"
+    },
+    {
+        "Player": "EJAY\nVAL",
+        "RND": "16",
+        "KPR": "0.50",
+        "APR": "0.13",
+        "FKPR": "0.13",
+        "KMAX": "8"
+    },
+    {
+        "Player": "RgLMeister\nMIBR",
+        "RND": "39",
+        "KPR": "0.56",
+        "APR": "0.28",
+        "FKPR": "0.00",
+        "KMAX": "17"
+    },
+    {
+        "Player": "kadiri\nARC",
+        "RND": "51",
+        "KPR": "0.63",
+        "APR": "0.16",
+        "FKPR": "0.14",
+        "KMAX": "18"
+    },
+    {
+        "Player": "deigara\n9z",
+        "RND": "60",
+        "KPR": "0.52",
+        "APR": "0.45",
+        "FKPR": "0.05",
+        "KMAX": "13"
+    },
+    {
+        "Player": "valyn\nG2",
+        "RND": "64",
+        "KPR": "0.55",
+        "APR": "0.23",
+        "FKPR": "0.05",
+        "KMAX": "14"
+    },
+    {
+        "Player": "chrollo\nGMX",
+        "RND": "17",
+        "KPR": "0.53",
+        "APR": "0.24",
+        "FKPR": "0.06",
+        "KMAX": "9"
+    },
+    {
+        "Player": "Mojer\nNAOS",
+        "RND": "22",
+        "KPR": "0.50",
+        "APR": "0.32",
+        "FKPR": "0.09",
+        "KMAX": "11"
+    },
+    {
+        "Player": "jid",
+        "RND": "19",
+        "KPR": "0.53",
+        "APR": "0.00",
+        "FKPR": "0.00",
+        "KMAX": "10"
+    },
+    {
+        "Player": "Ames\nC4C",
+        "RND": "19",
+        "KPR": "0.63",
+        "APR": "0.26",
+        "FKPR": "0.11",
+        "KMAX": "12"
+    },
+    {
+        "Player": "vlt\nDRGN",
+        "RND": "38",
+        "KPR": "0.55",
+        "APR": "0.03",
+        "FKPR": "0.08",
+        "KMAX": "13"
+    },
+    {
+        "Player": "severiNe\nRVNT",
+        "RND": "28",
+        "KPR": "0.50",
+        "APR": "0.36",
+        "FKPR": "0.11",
+        "KMAX": "14"
+    },
+    {
+        "Player": "Anq\nRGES",
+        "RND": "28",
+        "KPR": "0.50",
+        "APR": "0.18",
+        "FKPR": "0.14",
+        "KMAX": "14"
+    },
+    {
+        "Player": "Block",
+        "RND": "17",
+        "KPR": "0.53",
+        "APR": "0.12",
+        "FKPR": "0.00",
+        "KMAX": "9"
+    },
+    {
+        "Player": "ariola\nYDZ.GC",
+        "RND": "16",
+        "KPR": "0.56",
+        "APR": "0.50",
+        "FKPR": "0.06",
+        "KMAX": "9"
+    },
+    {
+        "Player": "Rendra\n90 K",
+        "RND": "37",
+        "KPR": "0.78",
+        "APR": "0.05",
+        "FKPR": "0.08",
+        "KMAX": "16"
+    },
+    {
+        "Player": "Haneul\nRIG.L",
+        "RND": "17",
+        "KPR": "0.59",
+        "APR": "0.18",
+        "FKPR": "0.24",
+        "KMAX": "10"
+    },
+    {
+        "Player": "Rossy\nT1",
+        "RND": "22",
+        "KPR": "0.41",
+        "APR": "0.27",
+        "FKPR": "0.09",
+        "KMAX": "9"
+    },
+    {
+        "Player": "Smoggy\nEDG",
+        "RND": "45",
+        "KPR": "0.53",
+        "APR": "0.49",
+        "FKPR": "0.05",
+        "KMAX": "14"
+    },
+    {
+        "Player": "Cem\nGHR",
+        "RND": "18",
+        "KPR": "0.39",
+        "APR": "0.33",
+        "FKPR": "0.11",
+        "KMAX": "7"
+    },
+    {
+        "Player": "Haxtrax\nSila",
+        "RND": "24",
+        "KPR": "0.63",
+        "APR": "0.17",
+        "FKPR": "0.21",
+        "KMAX": "15"
+    },
+    {
+        "Player": "sunshine\nWHO",
+        "RND": "38",
+        "KPR": "0.63",
+        "APR": "0.16",
+        "FKPR": "0.05",
+        "KMAX": "24"
+    },
+    {
+        "Player": "Kenji\nLZE",
+        "RND": "85",
+        "KPR": "0.66",
+        "APR": "0.04",
+        "FKPR": "0.13",
+        "KMAX": "21"
+    },
+    {
+        "Player": "luiza\nBD.FEM",
+        "RND": "50",
+        "KPR": "0.50",
+        "APR": "0.18",
+        "FKPR": "0.04",
+        "KMAX": "13"
+    },
+    {
+        "Player": "szimpli\nNOM",
+        "RND": "16",
+        "KPR": "0.75",
+        "APR": "0.06",
+        "FKPR": "0.13",
+        "KMAX": "12"
+    },
+    {
+        "Player": "IkE\nAEX",
+        "RND": "28",
+        "KPR": "0.61",
+        "APR": "0.32",
+        "FKPR": "0.07",
+        "KMAX": "17"
+    },
+    {
+        "Player": "Movi\nPMT",
+        "RND": "51",
+        "KPR": "0.53",
+        "APR": "0.20",
+        "FKPR": "0.06",
+        "KMAX": "16"
+    },
+    {
+        "Player": "zarak\n Swa",
+        "RND": "17",
+        "KPR": "0.47",
+        "APR": "0.29",
+        "FKPR": "0.12",
+        "KMAX": "8"
+    },
+    {
+        "Player": "MCD\nEQZ",
+        "RND": "22",
+        "KPR": "0.68",
+        "APR": "0.23",
+        "FKPR": "0.05",
+        "KMAX": "15"
+    },
+    {
+        "Player": "nicksz",
+        "RND": "91",
+        "KPR": "0.51",
+        "APR": "0.45",
+        "FKPR": "0.11",
+        "KMAX": "14"
+    },
+    {
+        "Player": "Chulaa",
+        "RND": "18",
+        "KPR": "0.50",
+        "APR": "0.22",
+        "FKPR": "0.11",
+        "KMAX": "9"
+    },
+    {
+        "Player": "Sane\n99th",
+        "RND": "115",
+        "KPR": "0.56",
+        "APR": "0.25",
+        "FKPR": "0.06",
+        "KMAX": "20"
+    },
+    {
+        "Player": "haltix",
+        "RND": "49",
+        "KPR": "0.55",
+        "APR": "0.14",
+        "FKPR": "0.02",
+        "KMAX": "15"
+    },
+    {
+        "Player": "Aryu\nTRS",
+        "RND": "24",
+        "KPR": "0.33",
+        "APR": "0.04",
+        "FKPR": "0.00",
+        "KMAX": "8"
+    },
+    {
+        "Player": "Cloudy\nSLT",
+        "RND": "16",
+        "KPR": "0.56",
+        "APR": "0.19",
+        "FKPR": "0.00",
+        "KMAX": "9"
+    },
+    {
+        "Player": "hoody\nGX",
+        "RND": "55",
+        "KPR": "0.53",
+        "APR": "0.20",
+        "FKPR": "0.11",
+        "KMAX": "13"
+    },
+    {
+        "Player": "jeffie\nHU",
+        "RND": "39",
+        "KPR": "0.62",
+        "APR": "0.36",
+        "FKPR": "0.08",
+        "KMAX": "13"
+    },
+    {
+        "Player": "Reformed\nEX-E",
+        "RND": "18",
+        "KPR": "0.44",
+        "APR": "0.33",
+        "FKPR": "0.00",
+        "KMAX": "8"
+    },
+    {
+        "Player": "NicoMachine\nAK",
+        "RND": "40",
+        "KPR": "0.48",
+        "APR": "0.33",
+        "FKPR": "0.08",
+        "KMAX": "12"
+    },
+    {
+        "Player": "yelf\nAMT",
+        "RND": "24",
+        "KPR": "0.58",
+        "APR": "0.17",
+        "FKPR": "0.08",
+        "KMAX": "14"
+    },
+    {
+        "Player": "tsalad",
+        "RND": "17",
+        "KPR": "0.47",
+        "APR": "0.24",
+        "FKPR": "0.00",
+        "KMAX": "8"
+    },
+    {
+        "Player": "zMART\nOXR",
+        "RND": "41",
+        "KPR": "0.54",
+        "APR": "0.12",
+        "FKPR": "0.20",
+        "KMAX": "12"
+    },
+    {
+        "Player": "Raquinuki\nFSX",
+        "RND": "52",
+        "KPR": "0.54",
+        "APR": "0.12",
+        "FKPR": "0.12",
+        "KMAX": "14"
+    },
+    {
+        "Player": "beliplay\nBCK",
+        "RND": "17",
+        "KPR": "0.65",
+        "APR": "0.06",
+        "FKPR": "0.18",
+        "KMAX": "11"
+    },
+    {
+        "Player": "basya\nVX3",
+        "RND": "36",
+        "KPR": "0.61",
+        "APR": "0.17",
+        "FKPR": "0.06",
+        "KMAX": "14"
+    },
+    {
+        "Player": "hypathor\nOF",
+        "RND": "23",
+        "KPR": "0.39",
+        "APR": "0.39",
+        "FKPR": "0.09",
+        "KMAX": "9"
+    },
+    {
+        "Player": "jademwah\nNB",
+        "RND": "24",
+        "KPR": "0.63",
+        "APR": "0.17",
+        "FKPR": "0.17",
+        "KMAX": "15"
+    },
+    {
+        "Player": "Druff\nIU",
+        "RND": "30",
+        "KPR": "0.43",
+        "APR": "0.40",
+        "FKPR": "0.03",
+        "KMAX": "13"
+    },
+    {
+        "Player": "starki\nMOUZ",
+        "RND": "26",
+        "KPR": "0.38",
+        "APR": "0.31",
+        "FKPR": "0.00",
+        "KMAX": "10"
+    },
+    {
+        "Player": "LessSeungho",
+        "RND": "20",
+        "KPR": "0.30",
+        "APR": "0.25",
+        "FKPR": "0.05",
+        "KMAX": "6"
+    },
+    {
+        "Player": "GunterR",
+        "RND": "26",
+        "KPR": "0.35",
+        "APR": "0.42",
+        "FKPR": "0.08",
+        "KMAX": "9"
+    },
+    {
+        "Player": "beyAz\nM8",
+        "RND": "19",
+        "KPR": "0.42",
+        "APR": "0.21",
+        "FKPR": "0.05",
+        "KMAX": "8"
+    },
+    {
+        "Player": "sixelaoen\nNWJ",
+        "RND": "37",
+        "KPR": "0.51",
+        "APR": "0.11",
+        "FKPR": "0.05",
+        "KMAX": "13"
+    },
+    {
+        "Player": "Carpe\nT1",
+        "RND": "22",
+        "KPR": "0.36",
+        "APR": "0.45",
+        "FKPR": "0.00",
+        "KMAX": "8"
+    },
+    {
+        "Player": "Katashio\nCVU.NBG",
+        "RND": "23",
+        "KPR": "0.26",
+        "APR": "0.39",
+        "FKPR": "0.04",
+        "KMAX": "6"
+    },
+    {
+        "Player": "cait\nBRK.GC",
+        "RND": "16",
+        "KPR": "0.56",
+        "APR": "0.19",
+        "FKPR": "0.00",
+        "KMAX": "9"
+    },
+    {
+        "Player": "panchill\nUC.Fem",
+        "RND": "24",
+        "KPR": "0.42",
+        "APR": "0.04",
+        "FKPR": "0.17",
+        "KMAX": "10"
+    },
+    {
+        "Player": "Hotsauz\nJopa",
+        "RND": "16",
+        "KPR": "0.75",
+        "APR": "0.19",
+        "FKPR": "0.00",
+        "KMAX": "12"
+    },
+    {
+        "Player": "Felce\nNE",
+        "RND": "21",
+        "KPR": "0.62",
+        "APR": "0.14",
+        "FKPR": "0.05",
+        "KMAX": "13"
+    },
+    {
+        "Player": "Jesmu\nOF",
+        "RND": "19",
+        "KPR": "0.58",
+        "APR": "0.32",
+        "FKPR": "0.11",
+        "KMAX": "11"
+    },
+    {
+        "Player": "Noor",
+        "RND": "24",
+        "KPR": "0.33",
+        "APR": "0.33",
+        "FKPR": "0.00",
+        "KMAX": "8"
+    },
+    {
+        "Player": "DcRulz\nOGS",
+        "RND": "45",
+        "KPR": "0.38",
+        "APR": "0.13",
+        "FKPR": "0.13",
+        "KMAX": "10"
+    },
+    {
+        "Player": "R4M",
+        "RND": "17",
+        "KPR": "0.35",
+        "APR": "0.47",
+        "FKPR": "0.00",
+        "KMAX": "6"
+    },
+    {
+        "Player": "d0rf\nFPT",
+        "RND": "34",
+        "KPR": "0.47",
+        "APR": "0.15",
+        "FKPR": "0.00",
+        "KMAX": "9"
+    },
+    {
+        "Player": "ting2k5\nFPT",
+        "RND": "34",
+        "KPR": "0.53",
+        "APR": "0.21",
+        "FKPR": "0.09",
+        "KMAX": "10"
+    },
+    {
+        "Player": "cheK\nUNT",
+        "RND": "16",
+        "KPR": "0.56",
+        "APR": "0.19",
+        "FKPR": "0.13",
+        "KMAX": "9"
+    },
+    {
+        "Player": "adenqt\nARF",
+        "RND": "53",
+        "KPR": "0.51",
+        "APR": "0.32",
+        "FKPR": "0.04",
+        "KMAX": "24"
+    },
+    {
+        "Player": "ALCAZAR\nUAFS",
+        "RND": "21",
+        "KPR": "0.52",
+        "APR": "0.05",
+        "FKPR": "0.10",
+        "KMAX": "11"
+    },
+    {
+        "Player": "Ivory\nRH",
+        "RND": "16",
+        "KPR": "0.69",
+        "APR": "0.38",
+        "FKPR": "0.19",
+        "KMAX": "11"
+    },
+    {
+        "Player": "babykiwii\nHype",
+        "RND": "17",
+        "KPR": "0.59",
+        "APR": "0.24",
+        "FKPR": "0.06",
+        "KMAX": "10"
+    },
+    {
+        "Player": "sheydos\nKOI",
+        "RND": "17",
+        "KPR": "0.41",
+        "APR": "0.24",
+        "FKPR": "0.06",
+        "KMAX": "7"
+    },
+    {
+        "Player": "benaf\nT30",
+        "RND": "32",
+        "KPR": "0.66",
+        "APR": "0.16",
+        "FKPR": "0.16",
+        "KMAX": "11"
+    },
+    {
+        "Player": "shiba\nEND",
+        "RND": "47",
+        "KPR": "0.60",
+        "APR": "0.21",
+        "FKPR": "0.04",
+        "KMAX": "11"
+    },
+    {
+        "Player": "DominiK\nASTR",
+        "RND": "43",
+        "KPR": "0.56",
+        "APR": "0.26",
+        "FKPR": "0.02",
+        "KMAX": "17"
+    },
+    {
+        "Player": "Excali\nMDL",
+        "RND": "43",
+        "KPR": "0.51",
+        "APR": "0.28",
+        "FKPR": "0.02",
+        "KMAX": "17"
+    },
+    {
+        "Player": "arbie\nNOM",
+        "RND": "16",
+        "KPR": "0.25",
+        "APR": "0.44",
+        "FKPR": "0.00",
+        "KMAX": "4"
+    },
+    {
+        "Player": "GeneralSteak\n6K",
+        "RND": "47",
+        "KPR": "0.53",
+        "APR": "0.11",
+        "FKPR": "0.06",
+        "KMAX": "21"
+    },
+    {
+        "Player": "Smoom",
+        "RND": "44",
+        "KPR": "0.39",
+        "APR": "0.23",
+        "FKPR": "0.00",
+        "KMAX": "12"
+    },
+    {
+        "Player": "zini\n4Fun",
+        "RND": "16",
+        "KPR": "0.50",
+        "APR": "0.25",
+        "FKPR": "0.00",
+        "KMAX": "8"
+    },
+    {
+        "Player": "Foxy9\nDRX",
+        "RND": "22",
+        "KPR": "0.45",
+        "APR": "0.09",
+        "FKPR": "0.14",
+        "KMAX": "10"
+    },
+    {
+        "Player": "jawgemo\nEG",
+        "RND": "22",
+        "KPR": "0.45",
+        "APR": "0.18",
+        "FKPR": "0.05",
+        "KMAX": "10"
+    },
+    {
+        "Player": "Ash",
+        "RND": "22",
+        "KPR": "0.45",
+        "APR": "0.18",
+        "FKPR": "0.09",
+        "KMAX": "10"
+    },
+    {
+        "Player": "hannah\nC4C",
+        "RND": "19",
+        "KPR": "0.47",
+        "APR": "0.05",
+        "FKPR": "0.00",
+        "KMAX": "9"
+    },
+    {
+        "Player": "ZK\nMU",
+        "RND": "16",
+        "KPR": "0.63",
+        "APR": "0.38",
+        "FKPR": "0.00",
+        "KMAX": "10"
+    },
+    {
+        "Player": "nero\nNOM",
+        "RND": "16",
+        "KPR": "0.44",
+        "APR": "0.19",
+        "FKPR": "0.06",
+        "KMAX": "7"
+    },
+    {
+        "Player": "Yanni\nRIMA",
+        "RND": "45",
+        "KPR": "0.56",
+        "APR": "0.22",
+        "FKPR": "0.07",
+        "KMAX": "18"
+    },
+    {
+        "Player": "gabo",
+        "RND": "18",
+        "KPR": "0.44",
+        "APR": "0.33",
+        "FKPR": "0.06",
+        "KMAX": "8"
+    },
+    {
+        "Player": "BENECIA\nSLT",
+        "RND": "16",
+        "KPR": "0.50",
+        "APR": "0.19",
+        "FKPR": "0.13",
+        "KMAX": "8"
+    },
+    {
+        "Player": "SUPERMOTION",
+        "RND": "17",
+        "KPR": "0.53",
+        "APR": "0.18",
+        "FKPR": "0.18",
+        "KMAX": "9"
+    },
+    {
+        "Player": "Pigruto\nX Te",
+        "RND": "30",
+        "KPR": "0.43",
+        "APR": "0.17",
+        "FKPR": "0.03",
+        "KMAX": "13"
+    },
+    {
+        "Player": "Noxy\nNE",
+        "RND": "22",
+        "KPR": "0.55",
+        "APR": "0.18",
+        "FKPR": "0.18",
+        "KMAX": "12"
+    },
+    {
+        "Player": "HANLING\nNOTT",
+        "RND": "20",
+        "KPR": "0.50",
+        "APR": "0.30",
+        "FKPR": "0.00",
+        "KMAX": "10"
+    },
+    {
+        "Player": "ardiis\nNAVI",
+        "RND": "17",
+        "KPR": "0.59",
+        "APR": "0.41",
+        "FKPR": "0.12",
+        "KMAX": "10"
+    },
+    {
+        "Player": "Cloy\nONS",
+        "RND": "20",
+        "KPR": "0.60",
+        "APR": "0.00",
+        "FKPR": "0.15",
+        "KMAX": "12"
+    },
+    {
+        "Player": "Taryn",
+        "RND": "23",
+        "KPR": "0.48",
+        "APR": "0.30",
+        "FKPR": "0.04",
+        "KMAX": "11"
+    },
+    {
+        "Player": "Krysme\nLOUD.GC",
+        "RND": "16",
+        "KPR": "0.56",
+        "APR": "0.06",
+        "FKPR": "0.00",
+        "KMAX": "9"
+    },
+    {
+        "Player": "rDeeW\nJJH",
+        "RND": "23",
+        "KPR": "0.39",
+        "APR": "0.13",
+        "FKPR": "0.00",
+        "KMAX": "9"
+    },
+    {
+        "Player": "suther\nRETA",
+        "RND": "22",
+        "KPR": "0.36",
+        "APR": "0.59",
+        "FKPR": "0.09",
+        "KMAX": "8"
+    },
+    {
+        "Player": "Georggyyy\nVAL",
+        "RND": "16",
+        "KPR": "0.63",
+        "APR": "0.06",
+        "FKPR": "0.06",
+        "KMAX": "10"
+    },
+    {
+        "Player": "kayle\nNDG",
+        "RND": "20",
+        "KPR": "0.60",
+        "APR": "0.25",
+        "FKPR": "0.10",
+        "KMAX": "12"
+    },
+    {
+        "Player": "Electus",
+        "RND": "24",
+        "KPR": "0.54",
+        "APR": "0.08",
+        "FKPR": "0.08",
+        "KMAX": "13"
+    },
+    {
+        "Player": "scarn\nSAD",
+        "RND": "19",
+        "KPR": "0.63",
+        "APR": "0.11",
+        "FKPR": "0.16",
+        "KMAX": "12"
+    },
+    {
+        "Player": "Banh Bao",
+        "RND": "22",
+        "KPR": "0.36",
+        "APR": "0.14",
+        "FKPR": "0.18",
+        "KMAX": "8"
+    },
+    {
+        "Player": "yoonited\nDG",
+        "RND": "17",
+        "KPR": "0.35",
+        "APR": "0.35",
+        "FKPR": "0.06",
+        "KMAX": "6"
+    },
+    {
+        "Player": "Wailers\nM8",
+        "RND": "19",
+        "KPR": "0.32",
+        "APR": "0.21",
+        "FKPR": "0.05",
+        "KMAX": "6"
+    },
+    {
+        "Player": "madv\nFLCV",
+        "RND": "38",
+        "KPR": "0.47",
+        "APR": "0.39",
+        "FKPR": "0.05",
+        "KMAX": "12"
+    },
+    {
+        "Player": "Toki\nFLCV",
+        "RND": "38",
+        "KPR": "0.63",
+        "APR": "0.05",
+        "FKPR": "0.24",
+        "KMAX": "19"
+    },
+    {
+        "Player": "ease\nOXR",
+        "RND": "41",
+        "KPR": "0.46",
+        "APR": "0.22",
+        "FKPR": "0.05",
+        "KMAX": "13"
+    },
+    {
+        "Player": "Ch\u00e9\nExal",
+        "RND": "17",
+        "KPR": "0.59",
+        "APR": "0.06",
+        "FKPR": "0.00",
+        "KMAX": "10"
+    },
+    {
+        "Player": "W1nner\nGFN",
+        "RND": "23",
+        "KPR": "0.43",
+        "APR": "0.39",
+        "FKPR": "0.13",
+        "KMAX": "10"
+    },
+    {
+        "Player": "Apoth\nEG",
+        "RND": "22",
+        "KPR": "0.27",
+        "APR": "0.09",
+        "FKPR": "0.14",
+        "KMAX": "6"
+    },
+    {
+        "Player": "Toodles",
+        "RND": "21",
+        "KPR": "0.48",
+        "APR": "0.24",
+        "FKPR": "0.05",
+        "KMAX": "10"
+    },
+    {
+        "Player": "fausTao\nARF",
+        "RND": "18",
+        "KPR": "0.39",
+        "APR": "0.22",
+        "FKPR": "0.11",
+        "KMAX": "7"
+    },
+    {
+        "Player": "ShelbyLynn",
+        "RND": "14",
+        "KPR": "0.57",
+        "APR": "0.14",
+        "FKPR": "0.00",
+        "KMAX": "8"
+    },
+    {
+        "Player": "ArinJi",
+        "RND": "17",
+        "KPR": "0.47",
+        "APR": "0.47",
+        "FKPR": "0.12",
+        "KMAX": "8"
+    },
+    {
+        "Player": "Bobbert\nSEN",
+        "RND": "17",
+        "KPR": "0.47",
+        "APR": "0.12",
+        "FKPR": "0.06",
+        "KMAX": "8"
+    },
+    {
+        "Player": "r1zvaN\nESC",
+        "RND": "23",
+        "KPR": "0.43",
+        "APR": "0.17",
+        "FKPR": "0.17",
+        "KMAX": "10"
+    },
+    {
+        "Player": "nAvarro\nBM",
+        "RND": "47",
+        "KPR": "0.43",
+        "APR": "0.19",
+        "FKPR": "0.09",
+        "KMAX": "10"
+    },
+    {
+        "Player": "seph1roth\nMITH",
+        "RND": "30",
+        "KPR": "0.33",
+        "APR": "0.17",
+        "FKPR": "0.03",
+        "KMAX": "10"
+    },
+    {
+        "Player": "Chosen",
+        "RND": "20",
+        "KPR": "0.55",
+        "APR": "0.10",
+        "FKPR": "0.05",
+        "KMAX": "11"
+    },
+    {
+        "Player": "M4RINE\nAI",
+        "RND": "23",
+        "KPR": "0.48",
+        "APR": "0.17",
+        "FKPR": "0.04",
+        "KMAX": "11"
+    },
+    {
+        "Player": "Envious\nMLT.GC",
+        "RND": "30",
+        "KPR": "0.43",
+        "APR": "0.43",
+        "FKPR": "0.10",
+        "KMAX": "13"
+    },
+    {
+        "Player": "LEW\nJJH",
+        "RND": "23",
+        "KPR": "0.48",
+        "APR": "0.00",
+        "FKPR": "0.17",
+        "KMAX": "11"
+    },
+    {
+        "Player": "rkz\nCE",
+        "RND": "18",
+        "KPR": "0.33",
+        "APR": "0.22",
+        "FKPR": "0.00",
+        "KMAX": "6"
+    },
+    {
+        "Player": "ducT\nVIE",
+        "RND": "18",
+        "KPR": "0.39",
+        "APR": "0.44",
+        "FKPR": "0.11",
+        "KMAX": "7"
+    },
+    {
+        "Player": "Shao\nNAVI",
+        "RND": "17",
+        "KPR": "0.41",
+        "APR": "0.41",
+        "FKPR": "0.00",
+        "KMAX": "7"
+    },
+    {
+        "Player": "Noix\nGHR",
+        "RND": "18",
+        "KPR": "0.39",
+        "APR": "0.11",
+        "FKPR": "0.00",
+        "KMAX": "7"
+    },
+    {
+        "Player": "tweethy\nINCO",
+        "RND": "18",
+        "KPR": "0.28",
+        "APR": "0.06",
+        "FKPR": "0.11",
+        "KMAX": "5"
+    },
+    {
+        "Player": "CHICHOO\nEDG",
+        "RND": "45",
+        "KPR": "0.71",
+        "APR": "0.11",
+        "FKPR": "0.00",
+        "KMAX": "24"
+    },
+    {
+        "Player": "spidey\nDipl",
+        "RND": "17",
+        "KPR": "0.47",
+        "APR": "0.24",
+        "FKPR": "0.12",
+        "KMAX": "8"
+    },
+    {
+        "Player": "awpi\nC4C",
+        "RND": "19",
+        "KPR": "0.63",
+        "APR": "0.11",
+        "FKPR": "0.05",
+        "KMAX": "12"
+    },
+    {
+        "Player": "Desi\nFKS.S",
+        "RND": "23",
+        "KPR": "0.43",
+        "APR": "0.26",
+        "FKPR": "0.00",
+        "KMAX": "10"
+    },
+    {
+        "Player": "Bara\nVX3",
+        "RND": "36",
+        "KPR": "0.44",
+        "APR": "0.19",
+        "FKPR": "0.06",
+        "KMAX": "9"
+    },
+    {
+        "Player": "Javelin\nLGE",
+        "RND": "42",
+        "KPR": "0.52",
+        "APR": "0.07",
+        "FKPR": "0.07",
+        "KMAX": "11"
+    },
+    {
+        "Player": "emp404\nEVOP",
+        "RND": "18",
+        "KPR": "0.50",
+        "APR": "0.28",
+        "FKPR": "0.22",
+        "KMAX": "9"
+    },
+    {
+        "Player": "alvar\nGMX",
+        "RND": "17",
+        "KPR": "0.59",
+        "APR": "0.06",
+        "FKPR": "0.12",
+        "KMAX": "10"
+    },
+    {
+        "Player": "Nunu\nEQZ",
+        "RND": "22",
+        "KPR": "0.41",
+        "APR": "0.18",
+        "FKPR": "0.05",
+        "KMAX": "9"
+    },
+    {
+        "Player": "BLOD",
+        "RND": "17",
+        "KPR": "0.53",
+        "APR": "0.35",
+        "FKPR": "0.06",
+        "KMAX": "9"
+    },
+    {
+        "Player": "Tmy\nDRGN",
+        "RND": "38",
+        "KPR": "0.58",
+        "APR": "0.16",
+        "FKPR": "0.13",
+        "KMAX": "14"
+    },
+    {
+        "Player": "YaBoiLewis\nFKS",
+        "RND": "26",
+        "KPR": "0.62",
+        "APR": "0.19",
+        "FKPR": "0.12",
+        "KMAX": "16"
+    },
+    {
+        "Player": "FrizzNatsz\nCLWN",
+        "RND": "37",
+        "KPR": "0.30",
+        "APR": "0.35",
+        "FKPR": "0.03",
+        "KMAX": "6"
+    },
+    {
+        "Player": "Closer\nFG",
+        "RND": "20",
+        "KPR": "0.40",
+        "APR": "0.15",
+        "FKPR": "0.05",
+        "KMAX": "8"
+    },
+    {
+        "Player": "leo loves moxy",
+        "RND": "17",
+        "KPR": "0.41",
+        "APR": "0.06",
+        "FKPR": "0.06",
+        "KMAX": "7"
+    },
+    {
+        "Player": "let\nLOUD.GC",
+        "RND": "14",
+        "KPR": "0.50",
+        "APR": "0.29",
+        "FKPR": "0.14",
+        "KMAX": "7"
+    },
+    {
+        "Player": "AAAAY\nFPX",
+        "RND": "93",
+        "KPR": "0.67",
+        "APR": "0.24",
+        "FKPR": "0.00",
+        "KMAX": "19"
+    },
+    {
+        "Player": "mazin\nMIBR",
+        "RND": "39",
+        "KPR": "0.36",
+        "APR": "0.38",
+        "FKPR": "0.08",
+        "KMAX": "12"
+    },
+    {
+        "Player": "Zodiac",
+        "RND": "17",
+        "KPR": "0.41",
+        "APR": "0.35",
+        "FKPR": "0.06",
+        "KMAX": "7"
+    },
+    {
+        "Player": "Ronin\nNew",
+        "RND": "14",
+        "KPR": "0.57",
+        "APR": "0.00",
+        "FKPR": "0.21",
+        "KMAX": "8"
+    },
+    {
+        "Player": "Prti\nDIA",
+        "RND": "44",
+        "KPR": "0.43",
+        "APR": "0.23",
+        "FKPR": "0.07",
+        "KMAX": "12"
+    },
+    {
+        "Player": "Drone\nMAD",
+        "RND": "28",
+        "KPR": "0.43",
+        "APR": "0.21",
+        "FKPR": "0.00",
+        "KMAX": "12"
+    },
+    {
+        "Player": "Intu",
+        "RND": "20",
+        "KPR": "0.40",
+        "APR": "0.30",
+        "FKPR": "0.05",
+        "KMAX": "8"
+    },
+    {
+        "Player": "Zoue\nHype",
+        "RND": "16",
+        "KPR": "0.31",
+        "APR": "0.13",
+        "FKPR": "0.00",
+        "KMAX": "5"
+    },
+    {
+        "Player": "antonio\nSila",
+        "RND": "18",
+        "KPR": "0.33",
+        "APR": "0.06",
+        "FKPR": "0.00",
+        "KMAX": "6"
+    },
+    {
+        "Player": "Pa1nt\nFCN",
+        "RND": "18",
+        "KPR": "0.44",
+        "APR": "0.17",
+        "FKPR": "0.11",
+        "KMAX": "8"
+    },
+    {
+        "Player": "cohs",
+        "RND": "17",
+        "KPR": "0.53",
+        "APR": "0.00",
+        "FKPR": "0.12",
+        "KMAX": "9"
+    },
+    {
+        "Player": "dziewa",
+        "RND": "18",
+        "KPR": "0.50",
+        "APR": "0.06",
+        "FKPR": "0.11",
+        "KMAX": "9"
+    },
+    {
+        "Player": "sw\nCOOP",
+        "RND": "14",
+        "KPR": "0.50",
+        "APR": "0.07",
+        "FKPR": "0.00",
+        "KMAX": "7"
+    },
+    {
+        "Player": "Luj\nFLCV",
+        "RND": "38",
+        "KPR": "0.47",
+        "APR": "0.21",
+        "FKPR": "0.00",
+        "KMAX": "11"
+    },
+    {
+        "Player": "isaa\nEcli",
+        "RND": "19",
+        "KPR": "0.37",
+        "APR": "0.11",
+        "FKPR": "0.00",
+        "KMAX": "7"
+    },
+    {
+        "Player": "erin\nERIN",
+        "RND": "16",
+        "KPR": "0.31",
+        "APR": "0.31",
+        "FKPR": "0.31",
+        "KMAX": "5"
+    },
+    {
+        "Player": "Depyro\nGMX",
+        "RND": "17",
+        "KPR": "0.41",
+        "APR": "0.18",
+        "FKPR": "0.00",
+        "KMAX": "7"
+    },
+    {
+        "Player": "Harmonee",
+        "RND": "17",
+        "KPR": "0.59",
+        "APR": "0.06",
+        "FKPR": "0.00",
+        "KMAX": "10"
+    },
+    {
+        "Player": "King\nDRGN",
+        "RND": "38",
+        "KPR": "0.53",
+        "APR": "0.37",
+        "FKPR": "0.05",
+        "KMAX": "12"
+    },
+    {
+        "Player": "karam1l\nRGES",
+        "RND": "28",
+        "KPR": "0.46",
+        "APR": "0.14",
+        "FKPR": "0.14",
+        "KMAX": "13"
+    },
+    {
+        "Player": "Akashi\n3T",
+        "RND": "18",
+        "KPR": "0.28",
+        "APR": "0.33",
+        "FKPR": "0.00",
+        "KMAX": "5"
+    },
+    {
+        "Player": "Azure\nERIN",
+        "RND": "16",
+        "KPR": "0.38",
+        "APR": "0.88",
+        "FKPR": "0.00",
+        "KMAX": "6"
+    },
+    {
+        "Player": "skies\nBSU",
+        "RND": "17",
+        "KPR": "0.53",
+        "APR": "0.06",
+        "FKPR": "0.18",
+        "KMAX": "9"
+    },
+    {
+        "Player": "wodahS",
+        "RND": "39",
+        "KPR": "0.41",
+        "APR": "0.28",
+        "FKPR": "0.05",
+        "KMAX": "10"
+    },
+    {
+        "Player": "mizzy\nHMMR",
+        "RND": "14",
+        "KPR": "0.57",
+        "APR": "0.14",
+        "FKPR": "0.00",
+        "KMAX": "8"
+    },
+    {
+        "Player": "gloom\nEZKI",
+        "RND": "20",
+        "KPR": "0.30",
+        "APR": "0.55",
+        "FKPR": "0.05",
+        "KMAX": "6"
+    },
+    {
+        "Player": "Hotaru\nLEV.GC",
+        "RND": "17",
+        "KPR": "0.47",
+        "APR": "0.12",
+        "FKPR": "0.12",
+        "KMAX": "8"
+    },
+    {
+        "Player": "wow\nLVI",
+        "RND": "15",
+        "KPR": "0.33",
+        "APR": "0.33",
+        "FKPR": "0.07",
+        "KMAX": "5"
+    },
+    {
+        "Player": "Impact\nSLT",
+        "RND": "16",
+        "KPR": "0.50",
+        "APR": "0.13",
+        "FKPR": "0.13",
+        "KMAX": "8"
+    },
+    {
+        "Player": "trinxty\nOGS",
+        "RND": "45",
+        "KPR": "0.56",
+        "APR": "0.20",
+        "FKPR": "0.11",
+        "KMAX": "20"
+    },
+    {
+        "Player": "woddy\nXLD",
+        "RND": "68",
+        "KPR": "0.32",
+        "APR": "0.28",
+        "FKPR": "0.07",
+        "KMAX": "10"
+    },
+    {
+        "Player": "yatoro\nETH",
+        "RND": "37",
+        "KPR": "0.54",
+        "APR": "0.14",
+        "FKPR": "0.08",
+        "KMAX": "10"
+    },
+    {
+        "Player": "June\nCG.GC",
+        "RND": "30",
+        "KPR": "0.60",
+        "APR": "0.07",
+        "FKPR": "0.03",
+        "KMAX": "18"
+    },
+    {
+        "Player": "joshh\nKZ",
+        "RND": "47",
+        "KPR": "0.45",
+        "APR": "0.06",
+        "FKPR": "0.02",
+        "KMAX": "9"
+    },
+    {
+        "Player": "HakuNa\nRIG.L",
+        "RND": "17",
+        "KPR": "0.41",
+        "APR": "0.18",
+        "FKPR": "0.06",
+        "KMAX": "7"
+    },
+    {
+        "Player": "Awkua\nMFC",
+        "RND": "16",
+        "KPR": "0.63",
+        "APR": "0.31",
+        "FKPR": "0.00",
+        "KMAX": "10"
+    },
+    {
+        "Player": "caroly",
+        "RND": "17",
+        "KPR": "0.35",
+        "APR": "0.06",
+        "FKPR": "0.00",
+        "KMAX": "6"
+    },
+    {
+        "Player": "DrastZ\nVX3",
+        "RND": "36",
+        "KPR": "0.33",
+        "APR": "0.19",
+        "FKPR": "0.03",
+        "KMAX": "8"
+    },
+    {
+        "Player": "ZesBeeW\nEND",
+        "RND": "47",
+        "KPR": "0.43",
+        "APR": "0.15",
+        "FKPR": "0.13",
+        "KMAX": "8"
+    },
+    {
+        "Player": "azul\nFIRE",
+        "RND": "43",
+        "KPR": "0.42",
+        "APR": "0.19",
+        "FKPR": "0.05",
+        "KMAX": "13"
+    },
+    {
+        "Player": "havoc\nFUR",
+        "RND": "41",
+        "KPR": "0.51",
+        "APR": "0.12",
+        "FKPR": "0.17",
+        "KMAX": "11"
+    },
+    {
+        "Player": "delas\nONS",
+        "RND": "20",
+        "KPR": "0.25",
+        "APR": "0.20",
+        "FKPR": "0.05",
+        "KMAX": "5"
+    },
+    {
+        "Player": "moobs\nWU",
+        "RND": "17",
+        "KPR": "0.47",
+        "APR": "0.06",
+        "FKPR": "0.18",
+        "KMAX": "8"
+    },
+    {
+        "Player": "Skelesis\n86th",
+        "RND": "17",
+        "KPR": "0.29",
+        "APR": "0.24",
+        "FKPR": "0.00",
+        "KMAX": "5"
+    },
+    {
+        "Player": "Seif\nYG",
+        "RND": "18",
+        "KPR": "0.44",
+        "APR": "0.39",
+        "FKPR": "0.11",
+        "KMAX": "8"
+    },
+    {
+        "Player": "nugget\nGMX.L",
+        "RND": "34",
+        "KPR": "0.38",
+        "APR": "0.15",
+        "FKPR": "0.06",
+        "KMAX": "13"
+    },
+    {
+        "Player": "Nahsie\nWU",
+        "RND": "17",
+        "KPR": "0.29",
+        "APR": "0.29",
+        "FKPR": "0.12",
+        "KMAX": "5"
+    },
+    {
+        "Player": "mirai",
+        "RND": "16",
+        "KPR": "0.31",
+        "APR": "0.19",
+        "FKPR": "0.00",
+        "KMAX": "5"
+    },
+    {
+        "Player": "Jade",
+        "RND": "17",
+        "KPR": "0.47",
+        "APR": "0.18",
+        "FKPR": "0.00",
+        "KMAX": "8"
+    },
+    {
+        "Player": "kve",
+        "RND": "21",
+        "KPR": "0.43",
+        "APR": "0.05",
+        "FKPR": "0.10",
+        "KMAX": "9"
+    },
+    {
+        "Player": "glxy\nYach",
+        "RND": "15",
+        "KPR": "0.20",
+        "APR": "0.13",
+        "FKPR": "0.00",
+        "KMAX": "3"
+    },
+    {
+        "Player": "blackhawk\nCG",
+        "RND": "32",
+        "KPR": "0.41",
+        "APR": "0.13",
+        "FKPR": "0.06",
+        "KMAX": "9"
+    },
+    {
+        "Player": "RARE\nNOM",
+        "RND": "16",
+        "KPR": "0.31",
+        "APR": "0.44",
+        "FKPR": "0.00",
+        "KMAX": "5"
+    },
+    {
+        "Player": "Aya\u00e8rna\nCG.GC",
+        "RND": "30",
+        "KPR": "0.37",
+        "APR": "0.20",
+        "FKPR": "0.03",
+        "KMAX": "11"
+    },
+    {
+        "Player": "Jazzy\nLEV.GC",
+        "RND": "17",
+        "KPR": "0.18",
+        "APR": "0.12",
+        "FKPR": "0.00",
+        "KMAX": "3"
+    },
+    {
+        "Player": "mari",
+        "RND": "17",
+        "KPR": "0.29",
+        "APR": "0.18",
+        "FKPR": "0.06",
+        "KMAX": "5"
+    },
+    {
+        "Player": "Zyppan\nNAVI",
+        "RND": "17",
+        "KPR": "0.47",
+        "APR": "0.06",
+        "FKPR": "0.06",
+        "KMAX": "8"
+    },
+    {
+        "Player": "Kel\n1MS",
+        "RND": "24",
+        "KPR": "0.42",
+        "APR": "0.25",
+        "FKPR": "0.00",
+        "KMAX": "10"
+    },
+    {
+        "Player": "r1seN\nCG",
+        "RND": "32",
+        "KPR": "0.47",
+        "APR": "0.03",
+        "FKPR": "0.13",
+        "KMAX": "12"
+    },
+    {
+        "Player": "TakaS\nM8",
+        "RND": "19",
+        "KPR": "0.37",
+        "APR": "0.11",
+        "FKPR": "0.11",
+        "KMAX": "7"
+    },
+    {
+        "Player": "Chrissy\naTTaX",
+        "RND": "17",
+        "KPR": "0.41",
+        "APR": "0.24",
+        "FKPR": "0.24",
+        "KMAX": "7"
+    },
+    {
+        "Player": "yiinel\nFish",
+        "RND": "18",
+        "KPR": "0.28",
+        "APR": "0.17",
+        "FKPR": "0.00",
+        "KMAX": "5"
+    },
+    {
+        "Player": "b3ta\nAAA",
+        "RND": "18",
+        "KPR": "0.39",
+        "APR": "0.17",
+        "FKPR": "0.11",
+        "KMAX": "7"
+    },
+    {
+        "Player": "pannyx\nBMG",
+        "RND": "17",
+        "KPR": "0.35",
+        "APR": "0.06",
+        "FKPR": "0.00",
+        "KMAX": "6"
+    },
+    {
+        "Player": "ataraxia\nLEV.GC",
+        "RND": "17",
+        "KPR": "0.24",
+        "APR": "0.41",
+        "FKPR": "0.00",
+        "KMAX": "4"
+    },
+    {
+        "Player": "jEEE\nMDL",
+        "RND": "16",
+        "KPR": "0.38",
+        "APR": "0.31",
+        "FKPR": "0.00",
+        "KMAX": "6"
+    },
+    {
+        "Player": "Aliikay",
+        "RND": "13",
+        "KPR": "0.62",
+        "APR": "0.15",
+        "FKPR": "0.00",
+        "KMAX": "8"
+    },
+    {
+        "Player": "ion2x\nTOR",
+        "RND": "16",
+        "KPR": "0.38",
+        "APR": "0.13",
+        "FKPR": "0.13",
+        "KMAX": "6"
+    },
+    {
+        "Player": "nixoon\nOF",
+        "RND": "19",
+        "KPR": "0.26",
+        "APR": "0.21",
+        "FKPR": "0.00",
+        "KMAX": "5"
+    },
+    {
+        "Player": "caMz\nWSU",
+        "RND": "22",
+        "KPR": "0.27",
+        "APR": "0.14",
+        "FKPR": "0.05",
+        "KMAX": "6"
+    },
+    {
+        "Player": "euphaze",
+        "RND": "21",
+        "KPR": "0.29",
+        "APR": "0.10",
+        "FKPR": "0.05",
+        "KMAX": "6"
+    },
+    {
+        "Player": "OniBy\nAKR",
+        "RND": "23",
+        "KPR": "0.35",
+        "APR": "0.39",
+        "FKPR": "0.04",
+        "KMAX": "8"
+    },
+    {
+        "Player": "Mega\nOPY",
+        "RND": "24",
+        "KPR": "0.08",
+        "APR": "0.08",
+        "FKPR": "0.04",
+        "KMAX": "2"
+    },
+    {
+        "Player": "Mythica\nNemo",
+        "RND": "16",
+        "KPR": "0.31",
+        "APR": "0.06",
+        "FKPR": "0.06",
+        "KMAX": "5"
+    },
+    {
+        "Player": "Kira\nSLT",
+        "RND": "16",
+        "KPR": "0.44",
+        "APR": "0.06",
+        "FKPR": "0.06",
+        "KMAX": "7"
+    },
+    {
+        "Player": "Duo",
+        "RND": "17",
+        "KPR": "0.29",
+        "APR": "0.06",
+        "FKPR": "0.00",
+        "KMAX": "5"
+    },
+    {
+        "Player": "Uros\nWVU",
+        "RND": "19",
+        "KPR": "0.21",
+        "APR": "0.21",
+        "FKPR": "0.05",
+        "KMAX": "4"
+    },
+    {
+        "Player": "ANGE1\nNAVI",
+        "RND": "17",
+        "KPR": "0.41",
+        "APR": "0.06",
+        "FKPR": "0.06",
+        "KMAX": "7"
+    },
+    {
+        "Player": "Zee\nXO.V",
+        "RND": "16",
+        "KPR": "0.25",
+        "APR": "0.19",
+        "FKPR": "0.00",
+        "KMAX": "4"
+    },
+    {
+        "Player": "miz",
+        "RND": "19",
+        "KPR": "0.42",
+        "APR": "0.11",
+        "FKPR": "0.00",
+        "KMAX": "8"
+    },
+    {
+        "Player": "anninha\nASTRO.F",
+        "RND": "14",
+        "KPR": "0.36",
+        "APR": "0.07",
+        "FKPR": "0.07",
+        "KMAX": "5"
+    },
+    {
+        "Player": "Sadeem",
+        "RND": "17",
+        "KPR": "0.41",
+        "APR": "0.06",
+        "FKPR": "0.00",
+        "KMAX": "7"
+    },
+    {
+        "Player": "jas0n\nRyZe",
+        "RND": "15",
+        "KPR": "0.53",
+        "APR": "0.00",
+        "FKPR": "0.20",
+        "KMAX": "8"
+    },
+    {
+        "Player": "icy\nG2",
+        "RND": "19",
+        "KPR": "0.37",
+        "APR": "0.05",
+        "FKPR": "0.16",
+        "KMAX": "7"
+    },
+    {
+        "Player": "Albert1ks",
+        "RND": "18",
+        "KPR": "0.33",
+        "APR": "0.17",
+        "FKPR": "0.06",
+        "KMAX": "6"
+    },
+    {
+        "Player": "luckyMrJ\n325",
+        "RND": "19",
+        "KPR": "0.16",
+        "APR": "0.11",
+        "FKPR": "0.00",
+        "KMAX": "3"
+    },
+    {
+        "Player": "Black\nOPY",
+        "RND": "24",
+        "KPR": "0.29",
+        "APR": "0.21",
+        "FKPR": "0.04",
+        "KMAX": "7"
+    },
+    {
+        "Player": "Dylan",
+        "RND": "14",
+        "KPR": "0.36",
+        "APR": "0.14",
+        "FKPR": "0.00",
+        "KMAX": "5"
+    },
+    {
+        "Player": "LuffysaN\nCG",
+        "RND": "32",
+        "KPR": "0.38",
+        "APR": "0.16",
+        "FKPR": "0.00",
+        "KMAX": "6"
+    },
+    {
+        "Player": "ezzy\nCG",
+        "RND": "32",
+        "KPR": "0.44",
+        "APR": "0.13",
+        "FKPR": "0.13",
+        "KMAX": "12"
+    },
+    {
+        "Player": "niffy\nAAA",
+        "RND": "18",
+        "KPR": "0.22",
+        "APR": "0.11",
+        "FKPR": "0.11",
+        "KMAX": "4"
+    },
+    {
+        "Player": "falfalfal\nSMG.GC",
+        "RND": "32",
+        "KPR": "0.34",
+        "APR": "0.09",
+        "FKPR": "0.06",
+        "KMAX": "9"
+    },
+    {
+        "Player": "Gianni\nNOMA",
+        "RND": "17",
+        "KPR": "0.29",
+        "APR": "0.06",
+        "FKPR": "0.12",
+        "KMAX": "5"
+    },
+    {
+        "Player": "Quick\nUCAM",
+        "RND": "19",
+        "KPR": "0.37",
+        "APR": "0.05",
+        "FKPR": "0.05",
+        "KMAX": "7"
+    },
+    {
+        "Player": "Famsii\nUCAM",
+        "RND": "19",
+        "KPR": "0.37",
+        "APR": "0.11",
+        "FKPR": "0.11",
+        "KMAX": "7"
+    },
+    {
+        "Player": "Blueming\nONS",
+        "RND": "20",
+        "KPR": "0.30",
+        "APR": "0.40",
+        "FKPR": "0.00",
+        "KMAX": "6"
+    },
+    {
+        "Player": "Tisora\nCOOP",
+        "RND": "14",
+        "KPR": "0.29",
+        "APR": "0.00",
+        "FKPR": "0.07",
+        "KMAX": "4"
+    },
+    {
+        "Player": "Kezyyaa",
+        "RND": "18",
+        "KPR": "0.33",
+        "APR": "0.28",
+        "FKPR": "0.00",
+        "KMAX": "6"
+    },
+    {
+        "Player": "COCOYEAHNAH",
+        "RND": "18",
+        "KPR": "0.28",
+        "APR": "0.28",
+        "FKPR": "0.00",
+        "KMAX": "5"
+    },
+    {
+        "Player": "miner",
+        "RND": "16",
+        "KPR": "0.44",
+        "APR": "0.31",
+        "FKPR": "0.00",
+        "KMAX": "7"
+    },
+    {
+        "Player": "cro3N\nLR",
+        "RND": "17",
+        "KPR": "0.35",
+        "APR": "0.18",
+        "FKPR": "0.06",
+        "KMAX": "6"
+    },
+    {
+        "Player": "Ronofar",
+        "RND": "18",
+        "KPR": "0.44",
+        "APR": "0.06",
+        "FKPR": "0.11",
+        "KMAX": "8"
+    },
+    {
+        "Player": "Blossi\naTTaX",
+        "RND": "17",
+        "KPR": "0.24",
+        "APR": "0.35",
+        "FKPR": "0.00",
+        "KMAX": "4"
+    },
+    {
+        "Player": "kamo\nKOI",
+        "RND": "17",
+        "KPR": "0.24",
+        "APR": "0.06",
+        "FKPR": "0.06",
+        "KMAX": "4"
+    },
+    {
+        "Player": "AlphaQ",
+        "RND": "17",
+        "KPR": "0.24",
+        "APR": "0.12",
+        "FKPR": "0.00",
+        "KMAX": "4"
+    },
+    {
+        "Player": "Anubis",
+        "RND": "16",
+        "KPR": "0.19",
+        "APR": "0.31",
+        "FKPR": "0.00",
+        "KMAX": "3"
+    },
+    {
+        "Player": "gabee\nODK",
+        "RND": "14",
+        "KPR": "0.14",
+        "APR": "0.21",
+        "FKPR": "0.00",
+        "KMAX": "2"
+    },
+    {
+        "Player": "Shizue\nB4",
+        "RND": "14",
+        "KPR": "0.43",
+        "APR": "0.07",
+        "FKPR": "0.00",
+        "KMAX": "6"
+    },
+    {
+        "Player": "adm1k\nINCO",
+        "RND": "18",
+        "KPR": "0.33",
+        "APR": "0.33",
+        "FKPR": "0.00",
+        "KMAX": "6"
+    },
+    {
+        "Player": "heartless\nwows",
+        "RND": "15",
+        "KPR": "0.20",
+        "APR": "0.07",
+        "FKPR": "0.13",
+        "KMAX": "3"
+    },
+    {
+        "Player": "zezi",
+        "RND": "13",
+        "KPR": "0.31",
+        "APR": "0.00",
+        "FKPR": "0.08",
+        "KMAX": "4"
+    },
+    {
+        "Player": "Hackstie",
+        "RND": "18",
+        "KPR": "0.17",
+        "APR": "0.06",
+        "FKPR": "0.11",
+        "KMAX": "3"
+    },
+    {
+        "Player": "Daimyo\nAOE",
+        "RND": "17",
+        "KPR": "0.29",
+        "APR": "0.00",
+        "FKPR": "0.12",
+        "KMAX": "5"
+    },
+    {
+        "Player": "Tia",
+        "RND": "14",
+        "KPR": "0.21",
+        "APR": "0.14",
+        "FKPR": "0.07",
+        "KMAX": "3"
+    },
+    {
+        "Player": "ZenSan1ty",
+        "RND": "14",
+        "KPR": "0.29",
+        "APR": "0.29",
+        "FKPR": "0.00",
+        "KMAX": "4"
+    },
+    {
+        "Player": "MrChair\nR8 B",
+        "RND": "17",
+        "KPR": "0.29",
+        "APR": "0.12",
+        "FKPR": "0.06",
+        "KMAX": "5"
+    },
+    {
+        "Player": "Lear\nTHNK",
+        "RND": "18",
+        "KPR": "0.22",
+        "APR": "0.00",
+        "FKPR": "0.00",
+        "KMAX": "4"
+    },
+    {
+        "Player": "Exequies\nFA",
+        "RND": "16",
+        "KPR": "0.25",
+        "APR": "0.25",
+        "FKPR": "0.00",
+        "KMAX": "4"
+    },
+    {
+        "Player": "Ruby",
+        "RND": "16",
+        "KPR": "0.25",
+        "APR": "0.00",
+        "FKPR": "0.00",
+        "KMAX": "4"
+    },
+    {
+        "Player": "Nanners\nZMM.B",
+        "RND": "18",
+        "KPR": "0.28",
+        "APR": "0.06",
+        "FKPR": "0.11",
+        "KMAX": "5"
+    },
+    {
+        "Player": "fame\nCOOP",
+        "RND": "14",
+        "KPR": "0.21",
+        "APR": "0.07",
+        "FKPR": "0.00",
+        "KMAX": "3"
+    },
+    {
+        "Player": "ntk\nCOOP",
+        "RND": "14",
+        "KPR": "0.36",
+        "APR": "0.00",
+        "FKPR": "0.00",
+        "KMAX": "5"
+    },
+    {
+        "Player": "panique\nCOOP",
+        "RND": "14",
+        "KPR": "0.21",
+        "APR": "0.07",
+        "FKPR": "0.07",
+        "KMAX": "3"
+    },
+    {
+        "Player": "YssisMercy",
+        "RND": "13",
+        "KPR": "0.15",
+        "APR": "0.00",
+        "FKPR": "0.00",
+        "KMAX": "2"
+    },
+    {
+        "Player": "Zeke\nSEN",
+        "RND": "17",
+        "KPR": "0.18",
+        "APR": "0.24",
+        "FKPR": "0.00",
+        "KMAX": "3"
+    },
+    {
+        "Player": "shayellow",
+        "RND": "14",
+        "KPR": "0.21",
+        "APR": "0.07",
+        "FKPR": "0.07",
+        "KMAX": "3"
+    },
+    {
+        "Player": "SexyChristian\nthe",
+        "RND": "15",
+        "KPR": "0.13",
+        "APR": "0.40",
+        "FKPR": "0.00",
+        "KMAX": "2"
+    },
+    {
+        "Player": "Obskury",
+        "RND": "14",
+        "KPR": "0.29",
+        "APR": "0.00",
+        "FKPR": "0.00",
+        "KMAX": "4"
+    },
+    {
+        "Player": "ennui",
+        "RND": "16",
+        "KPR": "0.19",
+        "APR": "0.06",
+        "FKPR": "0.13",
+        "KMAX": "3"
+    },
+    {
+        "Player": "Mor3na",
+        "RND": "13",
+        "KPR": "0.15",
+        "APR": "0.15",
+        "FKPR": "0.00",
+        "KMAX": "2"
+    },
+    {
+        "Player": "StrwbryBagel",
+        "RND": "16",
+        "KPR": "0.13",
+        "APR": "0.06",
+        "FKPR": "0.00",
+        "KMAX": "2"
+    },
+    {
+        "Player": "pandd",
+        "RND": "13",
+        "KPR": "0.15",
+        "APR": "0.00",
+        "FKPR": "0.00",
+        "KMAX": "2"
+    },
+    {
+        "Player": "RockeT\nGMX",
+        "RND": "17",
+        "KPR": "0.06",
+        "APR": "0.06",
+        "FKPR": "0.00",
+        "KMAX": "1"
+    },
+    {
+        "Player": "FengF\nTE",
+        "RND": "74",
+        "KPR": "0.86",
+        "APR": "0.38",
+        "FKPR": "",
+        "KMAX": "40"
+    },
+    {
+        "Player": "LuoK1ng\nTE",
+        "RND": "40",
+        "KPR": "0.58",
+        "APR": "0.40",
+        "FKPR": "",
+        "KMAX": "15"
+    },
+    {
+        "Player": "Abo\nTYL",
+        "RND": "51",
+        "KPR": "0.80",
+        "APR": "0.18",
+        "FKPR": "",
+        "KMAX": "23"
+    },
+    {
+        "Player": "B3ar\nBLG",
+        "RND": "20",
+        "KPR": "0.50",
+        "APR": "0.15",
+        "FKPR": "",
+        "KMAX": "10"
+    },
+    {
+        "Player": "Rb\nTEC",
+        "RND": "51",
+        "KPR": "0.78",
+        "APR": "0.35",
+        "FKPR": "",
+        "KMAX": "29"
+    },
+    {
+        "Player": "QiuYe\niNv",
+        "RND": "34",
+        "KPR": "0.53",
+        "APR": "0.50",
+        "FKPR": "",
+        "KMAX": "18"
+    },
+    {
+        "Player": "LockM\nTEC",
+        "RND": "51",
+        "KPR": "0.71",
+        "APR": "0.20",
+        "FKPR": "",
+        "KMAX": "25"
+    },
+    {
+        "Player": "Flex1n\nTYL",
+        "RND": "34",
+        "KPR": "0.44",
+        "APR": "0.38",
+        "FKPR": "",
+        "KMAX": "15"
+    },
+    {
+        "Player": "whzy\nToe",
+        "RND": "20",
+        "KPR": "0.75",
+        "APR": "0.20",
+        "FKPR": "",
+        "KMAX": "15"
+    },
+    {
+        "Player": "Yosemite\nBLG",
+        "RND": "20",
+        "KPR": "0.45",
+        "APR": "0.15",
+        "FKPR": "",
+        "KMAX": "9"
+    },
+    {
+        "Player": "Biank\nBLG",
+        "RND": "20",
+        "KPR": "0.50",
+        "APR": "0.20",
+        "FKPR": "",
+        "KMAX": "10"
+    },
+    {
+        "Player": "heybay\nTE",
+        "RND": "74",
+        "KPR": "0.58",
+        "APR": "0.32",
+        "FKPR": "",
+        "KMAX": "20"
+    },
+    {
+        "Player": "YOU\nTE",
+        "RND": "74",
+        "KPR": "0.68",
+        "APR": "0.28",
+        "FKPR": "",
+        "KMAX": "19"
+    },
+    {
+        "Player": "Knight\nBLG",
+        "RND": "20",
+        "KPR": "0.80",
+        "APR": "0.10",
+        "FKPR": "",
+        "KMAX": "16"
+    },
+    {
+        "Player": "Kai\nTE",
+        "RND": "74",
+        "KPR": "0.89",
+        "APR": "0.08",
+        "FKPR": "",
+        "KMAX": "31"
+    },
+    {
+        "Player": "monk\nAG",
+        "RND": "21",
+        "KPR": "0.71",
+        "APR": "0.05",
+        "FKPR": "",
+        "KMAX": "15"
+    },
+    {
+        "Player": "vo0kashu\nDRG",
+        "RND": "100",
+        "KPR": "0.81",
+        "APR": "0.19",
+        "FKPR": "",
+        "KMAX": "22"
+    },
+    {
+        "Player": "deLb\nAG",
+        "RND": "21",
+        "KPR": "0.86",
+        "APR": "0.10",
+        "FKPR": "",
+        "KMAX": "18"
+    },
+    {
+        "Player": "sword9\nAG",
+        "RND": "21",
+        "KPR": "0.38",
+        "APR": "0.52",
+        "FKPR": "",
+        "KMAX": "8"
+    },
+    {
+        "Player": "nizhaoTZH\nDRG",
+        "RND": "100",
+        "KPR": "0.64",
+        "APR": "0.31",
+        "FKPR": "",
+        "KMAX": "17"
+    },
+    {
+        "Player": "TvirusLuke\nDRG",
+        "RND": "100",
+        "KPR": "0.59",
+        "APR": "0.17",
+        "FKPR": "",
+        "KMAX": "18"
+    },
+    {
+        "Player": "Nicc\nDRG",
+        "RND": "100",
+        "KPR": "0.78",
+        "APR": "0.43",
+        "FKPR": "",
+        "KMAX": "20"
+    },
+    {
+        "Player": "Dingwei\nDRG",
+        "RND": "19",
+        "KPR": "0.26",
+        "APR": "0.21",
+        "FKPR": "",
+        "KMAX": "5"
+    },
+    {
+        "Player": "AC\nTEC",
+        "RND": "17",
+        "KPR": "1.06",
+        "APR": "0.65",
+        "FKPR": "",
+        "KMAX": "18"
+    },
+    {
+        "Player": "Spitfires\nAG",
+        "RND": "21",
+        "KPR": "1.00",
+        "APR": "0.29",
+        "FKPR": "",
+        "KMAX": "21"
+    },
+    {
+        "Player": "kawaii\niNv",
+        "RND": "51",
+        "KPR": "0.98",
+        "APR": "0.35",
+        "FKPR": "",
+        "KMAX": "30"
+    },
+    {
+        "Player": "MarT1n\nJDG",
+        "RND": "20",
+        "KPR": "0.35",
+        "APR": "0.30",
+        "FKPR": "",
+        "KMAX": "7"
+    },
+    {
+        "Player": "YHchen\nJDG",
+        "RND": "20",
+        "KPR": "0.75",
+        "APR": "0.35",
+        "FKPR": "",
+        "KMAX": "15"
+    },
+    {
+        "Player": "jkuro\nJDG",
+        "RND": "20",
+        "KPR": "0.80",
+        "APR": "0.15",
+        "FKPR": "",
+        "KMAX": "16"
+    },
+    {
+        "Player": "Viva\nJDG",
+        "RND": "20",
+        "KPR": "0.70",
+        "APR": "0.30",
+        "FKPR": "",
+        "KMAX": "14"
+    },
+    {
+        "Player": "stew\nJDG",
+        "RND": "20",
+        "KPR": "0.45",
+        "APR": "0.15",
+        "FKPR": "",
+        "KMAX": "9"
+    },
+    {
+        "Player": "bunt\nAG",
+        "RND": "21",
+        "KPR": "0.57",
+        "APR": "0.43",
+        "FKPR": "",
+        "KMAX": "12"
+    },
+    {
+        "Player": "Shion7\nDRG",
+        "RND": "81",
+        "KPR": "0.57",
+        "APR": "0.19",
+        "FKPR": "",
+        "KMAX": "14"
+    }
+]

@@ -1,0 +1,967 @@
+[
+    {
+        "id": "11001",
+        "name": "M80",
+        "country": "Canada"
+    },
+    {
+        "id": "2",
+        "name": "Sentinels",
+        "country": "United States"
+    },
+    {
+        "id": "1034",
+        "name": "NRG Esports",
+        "country": "United States"
+    },
+    {
+        "id": "10725",
+        "name": "Oxygen Esports",
+        "country": "United States"
+    },
+    {
+        "id": "11836",
+        "name": "Turtle Troop",
+        "country": "United States"
+    },
+    {
+        "id": "13188",
+        "name": "Moist x Shopify",
+        "country": "United States"
+    },
+    {
+        "id": "11058",
+        "name": "G2 Esports",
+        "country": "United States"
+    },
+    {
+        "id": "120",
+        "name": "100 Thieves",
+        "country": "United States"
+    },
+    {
+        "id": "188",
+        "name": "Cloud9",
+        "country": "United States"
+    },
+    {
+        "id": "13920",
+        "name": "SaD Esports",
+        "country": "United States"
+    },
+    {
+        "id": "6985",
+        "name": "QoR",
+        "country": "United States"
+    },
+    {
+        "id": "106",
+        "name": "TSM",
+        "country": "United States"
+    },
+    {
+        "id": "11455",
+        "name": "Van Lyn ",
+        "country": "Canada"
+    },
+    {
+        "id": "9613",
+        "name": "Blinn Esports",
+        "country": "United States"
+    },
+    {
+        "id": "14822",
+        "name": "Thinking Men",
+        "country": "United States"
+    },
+    {
+        "id": "5832",
+        "name": "Zero MarksMen Black",
+        "country": "United States"
+    },
+    {
+        "id": "14826",
+        "name": "Ions Day Care",
+        "country": "United States"
+    },
+    {
+        "id": "6422",
+        "name": "Resonate",
+        "country": "United States"
+    },
+    {
+        "id": "10448",
+        "name": "Winthrop University",
+        "country": "United States"
+    },
+    {
+        "id": "13847",
+        "name": "SaD Purple",
+        "country": "United States"
+    },
+    {
+        "id": "12756",
+        "name": "Let Us Cook",
+        "country": "United States"
+    },
+    {
+        "id": "9975",
+        "name": "St. Clair Saints",
+        "country": "Canada"
+    },
+    {
+        "id": "5038",
+        "name": "YFP Gaming",
+        "country": "United States"
+    },
+    {
+        "id": "14662",
+        "name": "1337",
+        "country": "United States"
+    },
+    {
+        "id": "13232",
+        "name": "The Glazers",
+        "country": "United States"
+    },
+    {
+        "id": "14278",
+        "name": "Shopify Rebellion",
+        "country": "Canada"
+    },
+    {
+        "id": "13979",
+        "name": "special grade",
+        "country": "International"
+    },
+    {
+        "id": "15539",
+        "name": "Tootsie Pop's",
+        "country": "International"
+    },
+    {
+        "id": "5248",
+        "name": "Evil Geniuses",
+        "country": "United States"
+    },
+    {
+        "id": "13277",
+        "name": "Lemonade Stand",
+        "country": "United States"
+    },
+    {
+        "id": "14660",
+        "name": "Burgerville",
+        "country": "United States"
+    },
+    {
+        "id": "15250",
+        "name": "Burger Boyz",
+        "country": "United States"
+    },
+    {
+        "id": "14829",
+        "name": "RyZe Esports ",
+        "country": "United States"
+    },
+    {
+        "id": "15011",
+        "name": "Together We Are Terrific",
+        "country": "United States"
+    },
+    {
+        "id": "13505",
+        "name": "MBU Spartans",
+        "country": "United States"
+    },
+    {
+        "id": "13682",
+        "name": "Fisher White",
+        "country": "United States"
+    },
+    {
+        "id": "5601",
+        "name": "Nightblood Gaming",
+        "country": "United States"
+    },
+    {
+        "id": "12781",
+        "name": "Last Resistance",
+        "country": "United States"
+    },
+    {
+        "id": "14661",
+        "name": "the basement",
+        "country": "United States"
+    },
+    {
+        "id": "12900",
+        "name": "Maryville University",
+        "country": "United States"
+    },
+    {
+        "id": "15533",
+        "name": "Organization 13 ",
+        "country": "International"
+    },
+    {
+        "id": "10482",
+        "name": "West Virginia University",
+        "country": "United States"
+    },
+    {
+        "id": "15000",
+        "name": "AWAKEN",
+        "country": "United States"
+    },
+    {
+        "id": "15234",
+        "name": "1553pork",
+        "country": "International"
+    },
+    {
+        "id": "15305",
+        "name": "ASTANE",
+        "country": "United States"
+    },
+    {
+        "id": "15229",
+        "name": "evil genies",
+        "country": "International"
+    },
+    {
+        "id": "10456",
+        "name": "FIU Varsity",
+        "country": "United States"
+    },
+    {
+        "id": "14663",
+        "name": "Cookin Papas",
+        "country": "United States"
+    },
+    {
+        "id": "15232",
+        "name": "Culturized",
+        "country": "International"
+    },
+    {
+        "id": "13834",
+        "name": "SEN Shahzam",
+        "country": "Canada"
+    },
+    {
+        "id": "14159",
+        "name": "Wook's Academy",
+        "country": "United States"
+    },
+    {
+        "id": "9679",
+        "name": "WTP",
+        "country": "United States"
+    },
+    {
+        "id": "14828",
+        "name": "Retake Mid",
+        "country": "International"
+    },
+    {
+        "id": "13078",
+        "name": "CC Premier",
+        "country": "United States"
+    },
+    {
+        "id": "11658",
+        "name": "Boomer Bandits",
+        "country": "International"
+    },
+    {
+        "id": "14086",
+        "name": "Glue Huffers",
+        "country": "International"
+    },
+    {
+        "id": "12769",
+        "name": "Life's a Game",
+        "country": "United States"
+    },
+    {
+        "id": "13091",
+        "name": "Luminous",
+        "country": "International"
+    },
+    {
+        "id": "14960",
+        "name": "Shifty505",
+        "country": "United States"
+    },
+    {
+        "id": "14265",
+        "name": "be like mike",
+        "country": "International"
+    },
+    {
+        "id": "14820",
+        "name": "the process",
+        "country": "International"
+    },
+    {
+        "id": "13191",
+        "name": "Spate Esports",
+        "country": "United States"
+    },
+    {
+        "id": "14830",
+        "name": "Refugee Camp",
+        "country": "International"
+    },
+    {
+        "id": "14364",
+        "name": "Six Figures",
+        "country": "United States"
+    },
+    {
+        "id": "13657",
+        "name": "chicago project",
+        "country": "International"
+    },
+    {
+        "id": "12001",
+        "name": "Goth Girl Sanctuary",
+        "country": "International"
+    },
+    {
+        "id": "11648",
+        "name": "ROSE",
+        "country": "United States"
+    },
+    {
+        "id": "14824",
+        "name": "boomertin",
+        "country": "International"
+    },
+    {
+        "id": "13636",
+        "name": "Harrisburg University",
+        "country": "United States"
+    },
+    {
+        "id": "12475",
+        "name": "UCF Gold",
+        "country": "United States"
+    },
+    {
+        "id": "14994",
+        "name": "les piments",
+        "country": "Canada"
+    },
+    {
+        "id": "15348",
+        "name": "Prospects",
+        "country": "International"
+    },
+    {
+        "id": "14160",
+        "name": "Notorious",
+        "country": "International"
+    },
+    {
+        "id": "10086",
+        "name": "Converse Purple",
+        "country": "United States"
+    },
+    {
+        "id": "13527",
+        "name": "Cumberland Varsity",
+        "country": "United States"
+    },
+    {
+        "id": "14293",
+        "name": "Cookie Monster Fanclub",
+        "country": "International"
+    },
+    {
+        "id": "13143",
+        "name": "Why So Serious",
+        "country": "International"
+    },
+    {
+        "id": "13273",
+        "name": "Equinox",
+        "country": "International"
+    },
+    {
+        "id": "13271",
+        "name": "Colgate EP",
+        "country": "International"
+    },
+    {
+        "id": "14821",
+        "name": "Ouroboros",
+        "country": "International"
+    },
+    {
+        "id": "8614",
+        "name": "Mizzou Esports",
+        "country": "United States"
+    },
+    {
+        "id": "14833",
+        "name": "Blue Rose",
+        "country": "International"
+    },
+    {
+        "id": "15003",
+        "name": "Out the mud",
+        "country": "International"
+    },
+    {
+        "id": "12994",
+        "name": "Box Of Kittens",
+        "country": "United States"
+    },
+    {
+        "id": "12799",
+        "name": "Polarity",
+        "country": "International"
+    },
+    {
+        "id": "11272",
+        "name": "Disciples",
+        "country": "United States"
+    },
+    {
+        "id": "14144",
+        "name": "Yordle Lovers",
+        "country": "International"
+    },
+    {
+        "id": "12750",
+        "name": "bandzmoneyblickygat",
+        "country": "International"
+    },
+    {
+        "id": "13512",
+        "name": "CCG Esports",
+        "country": "United States"
+    },
+    {
+        "id": "14827",
+        "name": "Gunter's Goons ",
+        "country": "United States"
+    },
+    {
+        "id": "13146",
+        "name": "NextGenEsports",
+        "country": "United States"
+    },
+    {
+        "id": "12933",
+        "name": "Tussin Esports",
+        "country": "United States"
+    },
+    {
+        "id": "13004",
+        "name": "96 Bulls",
+        "country": "International"
+    },
+    {
+        "id": "11840",
+        "name": "Handsome Jit",
+        "country": "United States"
+    },
+    {
+        "id": "12970",
+        "name": "fun guys fun times",
+        "country": "International"
+    },
+    {
+        "id": "13842",
+        "name": "Dexterity Gaming",
+        "country": "United States"
+    },
+    {
+        "id": "13076",
+        "name": "Ra Strength",
+        "country": "International"
+    },
+    {
+        "id": "12926",
+        "name": "AKA",
+        "country": "International"
+    },
+    {
+        "id": "13190",
+        "name": "LC",
+        "country": "International"
+    },
+    {
+        "id": "12316",
+        "name": "Styx's Sticky Salamanders",
+        "country": "International"
+    },
+    {
+        "id": "1248",
+        "name": "TradeLikePros",
+        "country": "United States"
+    },
+    {
+        "id": "14023",
+        "name": "Night Raid",
+        "country": "International"
+    },
+    {
+        "id": "12440",
+        "name": "Sovereign Esports",
+        "country": "United States"
+    },
+    {
+        "id": "14145",
+        "name": "Bambys Boys",
+        "country": "International"
+    },
+    {
+        "id": "1669",
+        "name": "Able Esports",
+        "country": "Canada"
+    },
+    {
+        "id": "2785",
+        "name": "TAMU Maroon",
+        "country": "United States"
+    },
+    {
+        "id": "13411",
+        "name": "Predator X Gaming",
+        "country": "United States"
+    },
+    {
+        "id": "13012",
+        "name": "VizUprising Mafia",
+        "country": "United States"
+    },
+    {
+        "id": "11436",
+        "name": "UW Madison Red",
+        "country": "United States"
+    },
+    {
+        "id": "12838",
+        "name": "Premier Esports Red",
+        "country": "International"
+    },
+    {
+        "id": "11949",
+        "name": "dZOriginals",
+        "country": "United States"
+    },
+    {
+        "id": "13193",
+        "name": "Banana Flippers",
+        "country": "International"
+    },
+    {
+        "id": "11358",
+        "name": "Yacht Club",
+        "country": "United States"
+    },
+    {
+        "id": "14219",
+        "name": "WASTED TALENT",
+        "country": "International"
+    },
+    {
+        "id": "13086",
+        "name": "Mango Munchers",
+        "country": "International"
+    },
+    {
+        "id": "10359",
+        "name": "Ottawa Braves",
+        "country": "United States"
+    },
+    {
+        "id": "13528",
+        "name": "Silly Little Guys",
+        "country": "International"
+    },
+    {
+        "id": "7711",
+        "name": "Berzerkers",
+        "country": "United States"
+    },
+    {
+        "id": "12738",
+        "name": "ThriveHQ",
+        "country": "International"
+    },
+    {
+        "id": "12020",
+        "name": "Unexpected Victory",
+        "country": "Canada"
+    },
+    {
+        "id": "14832",
+        "name": "diversity",
+        "country": "International"
+    },
+    {
+        "id": "12737",
+        "name": "LazerrFreeks8",
+        "country": "United States"
+    },
+    {
+        "id": "8357",
+        "name": "Zer0 Latency",
+        "country": "United States"
+    },
+    {
+        "id": "13838",
+        "name": "Team Equinox",
+        "country": "International"
+    },
+    {
+        "id": "11666",
+        "name": "Think Again",
+        "country": "International"
+    },
+    {
+        "id": "14162",
+        "name": "Neo",
+        "country": "International"
+    },
+    {
+        "id": "12843",
+        "name": "we are pugging",
+        "country": "International"
+    },
+    {
+        "id": "13199",
+        "name": "Defiant",
+        "country": "International"
+    },
+    {
+        "id": "13007",
+        "name": "Thrive 2 Greatness",
+        "country": "International"
+    },
+    {
+        "id": "9361",
+        "name": "Harmony",
+        "country": "United States"
+    },
+    {
+        "id": "14993",
+        "name": "Luxoria",
+        "country": "United States"
+    },
+    {
+        "id": "13092",
+        "name": "SOS",
+        "country": "International"
+    },
+    {
+        "id": "4260",
+        "name": "afterMath Esports",
+        "country": "United States"
+    },
+    {
+        "id": "12932",
+        "name": "Matcha Tea Red",
+        "country": "International"
+    },
+    {
+        "id": "13014",
+        "name": "Furious Five",
+        "country": "International"
+    },
+    {
+        "id": "14140",
+        "name": "RDM",
+        "country": "International"
+    },
+    {
+        "id": "12779",
+        "name": "Valor United",
+        "country": "United States"
+    },
+    {
+        "id": "12431",
+        "name": "Orlando Hurricanes",
+        "country": "United States"
+    },
+    {
+        "id": "11424",
+        "name": "Koalanoob Fan Club",
+        "country": "United States"
+    },
+    {
+        "id": "11202",
+        "name": "Wobbegongs",
+        "country": "United States"
+    },
+    {
+        "id": "12801",
+        "name": "VizUprising",
+        "country": "International"
+    },
+    {
+        "id": "14838",
+        "name": "1T",
+        "country": "United States"
+    },
+    {
+        "id": "2760",
+        "name": "Valkyrie",
+        "country": "United States"
+    },
+    {
+        "id": "12808",
+        "name": "86th District",
+        "country": "United States"
+    },
+    {
+        "id": "13077",
+        "name": "Team 7",
+        "country": "United States"
+    },
+    {
+        "id": "15092",
+        "name": "Van Lyn Black",
+        "country": "United States"
+    },
+    {
+        "id": "9533",
+        "name": "Georgia Tech Gold",
+        "country": "United States"
+    },
+    {
+        "id": "9021",
+        "name": "BHOP Esports",
+        "country": "International"
+    },
+    {
+        "id": "13094",
+        "name": "Hybrid Authority",
+        "country": "International"
+    },
+    {
+        "id": "12321",
+        "name": "call it Luck",
+        "country": "United States"
+    },
+    {
+        "id": "13844",
+        "name": "Stay Hard",
+        "country": "United States"
+    },
+    {
+        "id": "12840",
+        "name": "Wolf Pack",
+        "country": "International"
+    },
+    {
+        "id": "12434",
+        "name": "Team Bakery",
+        "country": "International"
+    },
+    {
+        "id": "12744",
+        "name": "Team Kodiak",
+        "country": "International"
+    },
+    {
+        "id": "13494",
+        "name": "Berzerkers Night",
+        "country": "United States"
+    },
+    {
+        "id": "13987",
+        "name": "Take Back Control",
+        "country": "International"
+    },
+    {
+        "id": "13511",
+        "name": "ImPerium Vancuverii",
+        "country": "International"
+    },
+    {
+        "id": "10971",
+        "name": "RyZ Knights",
+        "country": "United States"
+    },
+    {
+        "id": "14965",
+        "name": "good luck",
+        "country": "International"
+    },
+    {
+        "id": "10370",
+        "name": "Chosen 1s",
+        "country": "United States"
+    },
+    {
+        "id": "14835",
+        "name": "goodfellas",
+        "country": "International"
+    },
+    {
+        "id": "8038",
+        "name": "SNHU Blue",
+        "country": "United States"
+    },
+    {
+        "id": "13144",
+        "name": "The Oversleepers",
+        "country": "International"
+    },
+    {
+        "id": "12980",
+        "name": "5K Imperials",
+        "country": "United States"
+    },
+    {
+        "id": "7716",
+        "name": "EDO TENSEI",
+        "country": "Canada"
+    },
+    {
+        "id": "13668",
+        "name": "Tedward Gaming",
+        "country": "Canada"
+    },
+    {
+        "id": "13524",
+        "name": "Asian and Co",
+        "country": "International"
+    },
+    {
+        "id": "12749",
+        "name": "Team NSGE",
+        "country": "International"
+    },
+    {
+        "id": "11687",
+        "name": " Sway eSports",
+        "country": "United States"
+    },
+    {
+        "id": "14266",
+        "name": "Bucky Bandits",
+        "country": "International"
+    },
+    {
+        "id": "12795",
+        "name": "Neons",
+        "country": "International"
+    },
+    {
+        "id": "12802",
+        "name": "KAWAII AIMERZ",
+        "country": "International"
+    },
+    {
+        "id": "9214",
+        "name": "Tea Mates",
+        "country": "International"
+    },
+    {
+        "id": "10087",
+        "name": "Team Digital",
+        "country": "Canada"
+    },
+    {
+        "id": "14271",
+        "name": "First Class",
+        "country": "International"
+    },
+    {
+        "id": "11956",
+        "name": "Excane",
+        "country": "International"
+    },
+    {
+        "id": "12016",
+        "name": "Miracle",
+        "country": "Canada"
+    },
+    {
+        "id": "10580",
+        "name": "Boise State University",
+        "country": "United States"
+    },
+    {
+        "id": "10536",
+        "name": "Rochester University Esports",
+        "country": "United States"
+    },
+    {
+        "id": "13006",
+        "name": "Red Flag",
+        "country": "International"
+    },
+    {
+        "id": "11357",
+        "name": "Dead Orbit",
+        "country": "Canada"
+    },
+    {
+        "id": "11199",
+        "name": "Zero Tolerance",
+        "country": "International"
+    },
+    {
+        "id": "11355",
+        "name": "Nonnegative",
+        "country": "United States"
+    },
+    {
+        "id": "12931",
+        "name": "TopLine Esports",
+        "country": "United States"
+    },
+    {
+        "id": "6866",
+        "name": "RIT Orange",
+        "country": "United States"
+    },
+    {
+        "id": "8471",
+        "name": "Omnipotent Gaming",
+        "country": "International"
+    },
+    {
+        "id": "4317",
+        "name": "Event Horizon",
+        "country": "International"
+    },
+    {
+        "id": "12755",
+        "name": "High Roller Esports",
+        "country": "International"
+    },
+    {
+        "id": "13652",
+        "name": "Army of Five",
+        "country": "United States"
+    },
+    {
+        "id": "14141",
+        "name": " Imposter's Bank Robbers",
+        "country": "International"
+    },
+    {
+        "id": "12841",
+        "name": "YDZ Infinity",
+        "country": "United States"
+    },
+    {
+        "id": "9483",
+        "name": "Ast\u00e9ri 7",
+        "country": "United States"
+    },
+    {
+        "id": "11200",
+        "name": "Cataclysm Gaming",
+        "country": "United States"
+    }
+]
