@@ -1,125 +1,5 @@
 [
     {
-        "id": "319783",
-        "teams": [
-            {
-                "name": "Titan Esports Club"
-            },
-            {
-                "name": "Bilibili Gaming"
-            }
-        ],
-        "status": "LIVE"
-    },
-    {
-        "id": "324724",
-        "teams": [
-            {
-                "name": "MLT Esports"
-            },
-            {
-                "name": "True Rippers"
-            }
-        ],
-        "status": "LIVE"
-    },
-    {
-        "id": "319784",
-        "teams": [
-            {
-                "name": "Trace Esports"
-            },
-            {
-                "name": "Dragon Ranger Gaming"
-            }
-        ],
-        "status": "Upcoming"
-    },
-    {
-        "id": "324725",
-        "teams": [
-            {
-                "name": "Carnival Gaming"
-            },
-            {
-                "name": "Grayfox Esports"
-            }
-        ],
-        "status": "Upcoming"
-    },
-    {
-        "id": "318934",
-        "teams": [
-            {
-                "name": "Team Vitality"
-            },
-            {
-                "name": "GIANTX"
-            }
-        ],
-        "status": "Upcoming"
-    },
-    {
-        "id": "318935",
-        "teams": [
-            {
-                "name": "Karmine Corp"
-            },
-            {
-                "name": "KOI"
-            }
-        ],
-        "status": "Upcoming"
-    },
-    {
-        "id": "326559",
-        "teams": [
-            {
-                "name": "LOUD GC"
-            },
-            {
-                "name": "Team Leveling"
-            }
-        ],
-        "status": "Upcoming"
-    },
-    {
-        "id": "326888",
-        "teams": [
-            {
-                "name": "Cruzados Esports Fem"
-            },
-            {
-                "name": "FiRePOWER"
-            }
-        ],
-        "status": "Upcoming"
-    },
-    {
-        "id": "326560",
-        "teams": [
-            {
-                "name": "Team Brave Soldiers GC"
-            },
-            {
-                "name": "revoada"
-            }
-        ],
-        "status": "Upcoming"
-    },
-    {
-        "id": "324811",
-        "teams": [
-            {
-                "name": "Barcelona eSports GC"
-            },
-            {
-                "name": "MYVRA"
-            }
-        ],
-        "status": "Upcoming"
-    },
-    {
         "id": "314325",
         "teams": [
             {
@@ -511,6 +391,78 @@
             },
             {
                 "name": "KOI"
+            }
+        ],
+        "status": "Upcoming"
+    },
+    {
+        "id": "318939",
+        "teams": [
+            {
+                "name": "Natus Vincere"
+            },
+            {
+                "name": "FNATIC"
+            }
+        ],
+        "status": "Upcoming"
+    },
+    {
+        "id": "319790",
+        "teams": [
+            {
+                "name": "Wolves Esports"
+            },
+            {
+                "name": "JD Gaming"
+            }
+        ],
+        "status": "Upcoming"
+    },
+    {
+        "id": "318940",
+        "teams": [
+            {
+                "name": "Team Liquid"
+            },
+            {
+                "name": "Gentle Mates"
+            }
+        ],
+        "status": "Upcoming"
+    },
+    {
+        "id": "318941",
+        "teams": [
+            {
+                "name": "BBL Esports"
+            },
+            {
+                "name": "FUT Esports"
+            }
+        ],
+        "status": "Upcoming"
+    },
+    {
+        "id": "314650",
+        "teams": [
+            {
+                "name": "Sentinels"
+            },
+            {
+                "name": "FURIA"
+            }
+        ],
+        "status": "Upcoming"
+    },
+    {
+        "id": "319791",
+        "teams": [
+            {
+                "name": "Dragon Ranger Gaming"
+            },
+            {
+                "name": "TYLOO"
             }
         ],
         "status": "Upcoming"

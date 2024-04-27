@@ -16,11 +16,12 @@ def run_script(script_path):
 
 def main():
     scripts_to_run = [
-        'C:/Users/soren/Projects/ValAlgo/scripts/upcoming_matches.py',
-        'C:/Users/soren/Projects/ValAlgo/scripts/upcoming_players.py',
-        'C:/Users/soren/Projects/ValAlgo/scripts/all_map_stats.py',
-        'C:/Users/soren/Projects/ValAlgo/scripts/upcoming_stats.py',
-        'C:/Users/soren/Projects/ValAlgo/scripts/matches.py'
+        'C:/Users/soren/Projects/ValAlgo/scripts/functions/delete.py',
+        'C:/Users/soren/Projects/ValAlgo/scripts/functions/upcoming_matches.py',
+        'C:/Users/soren/Projects/ValAlgo/scripts/functions/upcoming_players.py',
+        'C:/Users/soren/Projects/ValAlgo/scripts/functions/all_map_stats.py',
+        'C:/Users/soren/Projects/ValAlgo/scripts/functions/upcoming_stats.py',
+        'C:/Users/soren/Projects/ValAlgo/scripts/functions/matches.py'
     ]
 
     for script in scripts_to_run:

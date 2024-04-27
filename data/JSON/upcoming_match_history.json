@@ -1,0 +1,2633 @@
+{
+    "314325": [
+        {
+            "id": "6387",
+            "name": "BLEED",
+            "details": {
+                "results": [
+                    {
+                        "match_id": "314318",
+                        "match_url": "https://www.vlr.gg/314318/bleed-vs-detonation-focusme-champions-tour-2024-pacific-stage-1-w3"
+                    },
+                    {
+                        "match_id": "314316",
+                        "match_url": "https://www.vlr.gg/314316/bleed-vs-zeta-division-champions-tour-2024-pacific-stage-1-w2"
+                    },
+                    {
+                        "match_id": "314312",
+                        "match_url": "https://www.vlr.gg/314312/bleed-vs-rex-regum-qeon-champions-tour-2024-pacific-stage-1-w2"
+                    },
+                    {
+                        "match_id": "314303",
+                        "match_url": "https://www.vlr.gg/314303/bleed-vs-talon-esports-champions-tour-2024-pacific-stage-1-w1"
+                    },
+                    {
+                        "match_id": "296738",
+                        "match_url": "https://www.vlr.gg/296738/bleed-vs-global-esports-champions-tour-2024-pacific-kickoff-elim-a"
+                    },
+                    {
+                        "match_id": "296735",
+                        "match_url": "https://www.vlr.gg/296735/t1-vs-bleed-champions-tour-2024-pacific-kickoff-opening-a"
+                    },
+                    {
+                        "match_id": "287762",
+                        "match_url": "https://www.vlr.gg/287762/detonation-focusme-vs-bleed-riot-games-one-2023-d2"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "624",
+            "name": "Paper Rex",
+            "details": {
+                "results": [
+                    {
+                        "match_id": "314324",
+                        "match_url": "https://www.vlr.gg/314324/global-esports-vs-paper-rex-champions-tour-2024-pacific-stage-1-w3"
+                    },
+                    {
+                        "match_id": "314320",
+                        "match_url": "https://www.vlr.gg/314320/team-secret-vs-paper-rex-champions-tour-2024-pacific-stage-1-w3"
+                    },
+                    {
+                        "match_id": "314309",
+                        "match_url": "https://www.vlr.gg/314309/gen-g-vs-paper-rex-champions-tour-2024-pacific-stage-1-w2"
+                    },
+                    {
+                        "match_id": "314304",
+                        "match_url": "https://www.vlr.gg/314304/t1-vs-paper-rex-champions-tour-2024-pacific-stage-1-w1"
+                    },
+                    {
+                        "match_id": "312781",
+                        "match_url": "https://www.vlr.gg/312781/sentinels-vs-paper-rex-champions-tour-2024-masters-madrid-lbf"
+                    },
+                    {
+                        "match_id": "312780",
+                        "match_url": "https://www.vlr.gg/312780/paper-rex-vs-loud-champions-tour-2024-masters-madrid-lr1"
+                    },
+                    {
+                        "match_id": "312777",
+                        "match_url": "https://www.vlr.gg/312777/gen-g-vs-paper-rex-champions-tour-2024-masters-madrid-ubsf"
+                    }
+                ]
+            }
+        }
+    ],
+    "319785": [
+        {
+            "id": "731",
+            "name": "TYLOO",
+            "details": {
+                "results": [
+                    {
+                        "match_id": "319781",
+                        "match_url": "https://www.vlr.gg/319781/tyloo-vs-nova-esports-champions-tour-2024-china-stage-1-w3"
+                    },
+                    {
+                        "match_id": "319776",
+                        "match_url": "https://www.vlr.gg/319776/tyloo-vs-edward-gaming-champions-tour-2024-china-stage-1-w2"
+                    },
+                    {
+                        "match_id": "319765",
+                        "match_url": "https://www.vlr.gg/319765/bilibili-gaming-vs-tyloo-champions-tour-2024-china-stage-1-w1"
+                    },
+                    {
+                        "match_id": "298690",
+                        "match_url": "https://www.vlr.gg/298690/tyloo-vs-nova-esports-champions-tour-2024-china-kickoff-elim-a"
+                    },
+                    {
+                        "match_id": "298687",
+                        "match_url": "https://www.vlr.gg/298687/trace-esports-vs-tyloo-champions-tour-2024-china-kickoff-opening-a"
+                    },
+                    {
+                        "match_id": "283403",
+                        "match_url": "https://www.vlr.gg/283403/tyloo-vs-lgd-gaming-china-evolution-series-act-3-heriability-oq-h-sf"
+                    },
+                    {
+                        "match_id": "279103",
+                        "match_url": "https://www.vlr.gg/279103/tyloo-vs-funplus-phoenix-china-evolution-series-act-2-selection-elim-b"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "13790",
+            "name": "Wolves Esports",
+            "details": {
+                "results": [
+                    {
+                        "match_id": "319777",
+                        "match_url": "https://www.vlr.gg/319777/wolves-esports-vs-trace-esports-champions-tour-2024-china-stage-1-w3"
+                    },
+                    {
+                        "match_id": "319773",
+                        "match_url": "https://www.vlr.gg/319773/all-gamers-vs-wolves-esports-champions-tour-2024-china-stage-1-w2"
+                    },
+                    {
+                        "match_id": "319770",
+                        "match_url": "https://www.vlr.gg/319770/funplus-phoenix-vs-wolves-esports-champions-tour-2024-china-stage-1-w1"
+                    },
+                    {
+                        "match_id": "319766",
+                        "match_url": "https://www.vlr.gg/319766/wolves-esports-vs-titan-esports-club-champions-tour-2024-china-stage-1-w1"
+                    },
+                    {
+                        "match_id": "298699",
+                        "match_url": "https://www.vlr.gg/298699/wolves-esports-vs-bilibili-gaming-champions-tour-2024-china-kickoff-decider-c"
+                    },
+                    {
+                        "match_id": "298698",
+                        "match_url": "https://www.vlr.gg/298698/wolves-esports-vs-edward-gaming-champions-tour-2024-china-kickoff-winners-c"
+                    },
+                    {
+                        "match_id": "298697",
+                        "match_url": "https://www.vlr.gg/298697/bilibili-gaming-vs-wolves-esports-champions-tour-2024-china-kickoff-opening-c"
+                    }
+                ]
+            }
+        }
+    ],
+    "314326": [
+        {
+            "id": "918",
+            "name": "Global Esports",
+            "details": {
+                "results": [
+                    {
+                        "match_id": "314324",
+                        "match_url": "https://www.vlr.gg/314324/global-esports-vs-paper-rex-champions-tour-2024-pacific-stage-1-w3"
+                    },
+                    {
+                        "match_id": "314319",
+                        "match_url": "https://www.vlr.gg/314319/global-esports-vs-rex-regum-qeon-champions-tour-2024-pacific-stage-1-w3"
+                    },
+                    {
+                        "match_id": "314314",
+                        "match_url": "https://www.vlr.gg/314314/global-esports-vs-talon-esports-champions-tour-2024-pacific-stage-1-w2"
+                    },
+                    {
+                        "match_id": "314306",
+                        "match_url": "https://www.vlr.gg/314306/global-esports-vs-drx-champions-tour-2024-pacific-stage-1-w1"
+                    },
+                    {
+                        "match_id": "314301",
+                        "match_url": "https://www.vlr.gg/314301/global-esports-vs-zeta-division-champions-tour-2024-pacific-stage-1-w1"
+                    },
+                    {
+                        "match_id": "296739",
+                        "match_url": "https://www.vlr.gg/296739/zeta-division-vs-global-esports-champions-tour-2024-pacific-kickoff-decider-a"
+                    },
+                    {
+                        "match_id": "296738",
+                        "match_url": "https://www.vlr.gg/296738/bleed-vs-global-esports-champions-tour-2024-pacific-kickoff-elim-a"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "278",
+            "name": "DetonatioN FocusMe",
+            "details": {
+                "results": [
+                    {
+                        "match_id": "314323",
+                        "match_url": "https://www.vlr.gg/314323/team-secret-vs-detonation-focusme-champions-tour-2024-pacific-stage-1-w3"
+                    },
+                    {
+                        "match_id": "314318",
+                        "match_url": "https://www.vlr.gg/314318/bleed-vs-detonation-focusme-champions-tour-2024-pacific-stage-1-w3"
+                    },
+                    {
+                        "match_id": "314313",
+                        "match_url": "https://www.vlr.gg/314313/gen-g-vs-detonation-focusme-champions-tour-2024-pacific-stage-1-w2"
+                    },
+                    {
+                        "match_id": "314308",
+                        "match_url": "https://www.vlr.gg/314308/t1-vs-detonation-focusme-champions-tour-2024-pacific-stage-1-w1"
+                    },
+                    {
+                        "match_id": "296733",
+                        "match_url": "https://www.vlr.gg/296733/detonation-focusme-vs-team-secret-champions-tour-2024-pacific-kickoff-elim-b"
+                    },
+                    {
+                        "match_id": "296736",
+                        "match_url": "https://www.vlr.gg/296736/drx-vs-detonation-focusme-champions-tour-2024-pacific-kickoff-opening-b"
+                    },
+                    {
+                        "match_id": "287762",
+                        "match_url": "https://www.vlr.gg/287762/detonation-focusme-vs-bleed-riot-games-one-2023-d2"
+                    }
+                ]
+            }
+        }
+    ],
+    "319786": [
+        {
+            "id": "11328",
+            "name": "FunPlus Phoenix",
+            "details": {
+                "results": [
+                    {
+                        "match_id": "319778",
+                        "match_url": "https://www.vlr.gg/319778/nova-esports-vs-funplus-phoenix-champions-tour-2024-china-stage-1-w3"
+                    },
+                    {
+                        "match_id": "319772",
+                        "match_url": "https://www.vlr.gg/319772/funplus-phoenix-vs-dragon-ranger-gaming-champions-tour-2024-china-stage-1-w2"
+                    },
+                    {
+                        "match_id": "319770",
+                        "match_url": "https://www.vlr.gg/319770/funplus-phoenix-vs-wolves-esports-champions-tour-2024-china-stage-1-w1"
+                    },
+                    {
+                        "match_id": "312800",
+                        "match_url": "https://www.vlr.gg/312800/funplus-phoenix-vs-loud-champions-tour-2024-masters-madrid-swiss-stage-r2"
+                    },
+                    {
+                        "match_id": "312765",
+                        "match_url": "https://www.vlr.gg/312765/karmine-corp-vs-funplus-phoenix-champions-tour-2024-masters-madrid-swiss-stage-r1"
+                    },
+                    {
+                        "match_id": "298835",
+                        "match_url": "https://www.vlr.gg/298835/funplus-phoenix-vs-edward-gaming-champions-tour-2024-china-kickoff-gf"
+                    },
+                    {
+                        "match_id": "298833",
+                        "match_url": "https://www.vlr.gg/298833/funplus-phoenix-vs-dragon-ranger-gaming-champions-tour-2024-china-kickoff-sf"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "1120",
+            "name": "EDward Gaming",
+            "details": {
+                "results": [
+                    {
+                        "match_id": "319782",
+                        "match_url": "https://www.vlr.gg/319782/edward-gaming-vs-titan-esports-club-champions-tour-2024-china-stage-1-w3"
+                    },
+                    {
+                        "match_id": "319776",
+                        "match_url": "https://www.vlr.gg/319776/tyloo-vs-edward-gaming-champions-tour-2024-china-stage-1-w2"
+                    },
+                    {
+                        "match_id": "319768",
+                        "match_url": "https://www.vlr.gg/319768/edward-gaming-vs-jd-gaming-champions-tour-2024-china-stage-1-w1"
+                    },
+                    {
+                        "match_id": "312803",
+                        "match_url": "https://www.vlr.gg/312803/loud-vs-edward-gaming-champions-tour-2024-masters-madrid-swiss-stage-r3"
+                    },
+                    {
+                        "match_id": "312797",
+                        "match_url": "https://www.vlr.gg/312797/edward-gaming-vs-gen-g-champions-tour-2024-masters-madrid-swiss-stage-r2"
+                    },
+                    {
+                        "match_id": "312767",
+                        "match_url": "https://www.vlr.gg/312767/edward-gaming-vs-paper-rex-champions-tour-2024-masters-madrid-swiss-stage-r1"
+                    },
+                    {
+                        "match_id": "298835",
+                        "match_url": "https://www.vlr.gg/298835/funplus-phoenix-vs-edward-gaming-champions-tour-2024-china-kickoff-gf"
+                    }
+                ]
+            }
+        }
+    ],
+    "314644": [
+        {
+            "id": "11058",
+            "name": "G2 Esports",
+            "details": {
+                "results": [
+                    {
+                        "match_id": "314642",
+                        "match_url": "https://www.vlr.gg/314642/g2-esports-vs-leviat-n-champions-tour-2024-americas-stage-1-w3"
+                    },
+                    {
+                        "match_id": "314638",
+                        "match_url": "https://www.vlr.gg/314638/g2-esports-vs-furia-champions-tour-2024-americas-stage-1-w3"
+                    },
+                    {
+                        "match_id": "314628",
+                        "match_url": "https://www.vlr.gg/314628/g2-esports-vs-100-thieves-champions-tour-2024-americas-stage-1-w2"
+                    },
+                    {
+                        "match_id": "314624",
+                        "match_url": "https://www.vlr.gg/314624/g2-esports-vs-evil-geniuses-champions-tour-2024-americas-stage-1-w1"
+                    },
+                    {
+                        "match_id": "307574",
+                        "match_url": "https://www.vlr.gg/307574/sentinels-vs-g2-esports-champions-tour-2024-americas-kickoff-play-ins"
+                    },
+                    {
+                        "match_id": "307573",
+                        "match_url": "https://www.vlr.gg/307573/g2-esports-vs-mibr-champions-tour-2024-americas-kickoff-play-ins"
+                    },
+                    {
+                        "match_id": "295619",
+                        "match_url": "https://www.vlr.gg/295619/g2-esports-vs-kr-esports-champions-tour-2024-americas-kickoff-decider-c"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "7386",
+            "name": "MIBR",
+            "details": {
+                "results": [
+                    {
+                        "match_id": "314641",
+                        "match_url": "https://www.vlr.gg/314641/nrg-esports-vs-mibr-champions-tour-2024-americas-stage-1-w3"
+                    },
+                    {
+                        "match_id": "314634",
+                        "match_url": "https://www.vlr.gg/314634/sentinels-vs-mibr-champions-tour-2024-americas-stage-1-w3"
+                    },
+                    {
+                        "match_id": "314630",
+                        "match_url": "https://www.vlr.gg/314630/kr-esports-vs-mibr-champions-tour-2024-americas-stage-1-w2"
+                    },
+                    {
+                        "match_id": "307573",
+                        "match_url": "https://www.vlr.gg/307573/g2-esports-vs-mibr-champions-tour-2024-americas-kickoff-play-ins"
+                    },
+                    {
+                        "match_id": "307572",
+                        "match_url": "https://www.vlr.gg/307572/mibr-vs-sentinels-champions-tour-2024-americas-kickoff-play-ins"
+                    },
+                    {
+                        "match_id": "295609",
+                        "match_url": "https://www.vlr.gg/295609/cloud9-vs-mibr-champions-tour-2024-americas-kickoff-decider-a"
+                    },
+                    {
+                        "match_id": "295608",
+                        "match_url": "https://www.vlr.gg/295608/furia-vs-mibr-champions-tour-2024-americas-kickoff-elim-a"
+                    }
+                ]
+            }
+        }
+    ],
+    "314645": [
+        {
+            "id": "2",
+            "name": "Sentinels",
+            "details": {
+                "results": [
+                    {
+                        "match_id": "314640",
+                        "match_url": "https://www.vlr.gg/314640/sentinels-vs-evil-geniuses-champions-tour-2024-americas-stage-1-w3"
+                    },
+                    {
+                        "match_id": "314634",
+                        "match_url": "https://www.vlr.gg/314634/sentinels-vs-mibr-champions-tour-2024-americas-stage-1-w3"
+                    },
+                    {
+                        "match_id": "314629",
+                        "match_url": "https://www.vlr.gg/314629/sentinels-vs-leviat-n-champions-tour-2024-americas-stage-1-w2"
+                    },
+                    {
+                        "match_id": "314625",
+                        "match_url": "https://www.vlr.gg/314625/sentinels-vs-100-thieves-champions-tour-2024-americas-stage-1-w1"
+                    },
+                    {
+                        "match_id": "312779",
+                        "match_url": "https://www.vlr.gg/312779/gen-g-vs-sentinels-champions-tour-2024-masters-madrid-gf"
+                    },
+                    {
+                        "match_id": "312781",
+                        "match_url": "https://www.vlr.gg/312781/sentinels-vs-paper-rex-champions-tour-2024-masters-madrid-lbf"
+                    },
+                    {
+                        "match_id": "312778",
+                        "match_url": "https://www.vlr.gg/312778/gen-g-vs-sentinels-champions-tour-2024-masters-madrid-ubf"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "6961",
+            "name": "LOUD",
+            "details": {
+                "results": [
+                    {
+                        "match_id": "314643",
+                        "match_url": "https://www.vlr.gg/314643/kr-esports-vs-loud-champions-tour-2024-americas-stage-1-w3"
+                    },
+                    {
+                        "match_id": "314635",
+                        "match_url": "https://www.vlr.gg/314635/cloud9-vs-loud-champions-tour-2024-americas-stage-1-w3"
+                    },
+                    {
+                        "match_id": "314623",
+                        "match_url": "https://www.vlr.gg/314623/nrg-esports-vs-loud-champions-tour-2024-americas-stage-1-w1"
+                    },
+                    {
+                        "match_id": "312780",
+                        "match_url": "https://www.vlr.gg/312780/paper-rex-vs-loud-champions-tour-2024-masters-madrid-lr1"
+                    },
+                    {
+                        "match_id": "312776",
+                        "match_url": "https://www.vlr.gg/312776/sentinels-vs-loud-champions-tour-2024-masters-madrid-ubsf"
+                    },
+                    {
+                        "match_id": "312803",
+                        "match_url": "https://www.vlr.gg/312803/loud-vs-edward-gaming-champions-tour-2024-masters-madrid-swiss-stage-r3"
+                    },
+                    {
+                        "match_id": "312800",
+                        "match_url": "https://www.vlr.gg/312800/funplus-phoenix-vs-loud-champions-tour-2024-masters-madrid-swiss-stage-r2"
+                    }
+                ]
+            }
+        }
+    ],
+    "314327": [
+        {
+            "id": "14",
+            "name": "T1",
+            "details": {
+                "results": [
+                    {
+                        "match_id": "314321",
+                        "match_url": "https://www.vlr.gg/314321/t1-vs-talon-esports-champions-tour-2024-pacific-stage-1-w3"
+                    },
+                    {
+                        "match_id": "314315",
+                        "match_url": "https://www.vlr.gg/314315/t1-vs-rex-regum-qeon-champions-tour-2024-pacific-stage-1-w2"
+                    },
+                    {
+                        "match_id": "314310",
+                        "match_url": "https://www.vlr.gg/314310/t1-vs-drx-champions-tour-2024-pacific-stage-1-w2"
+                    },
+                    {
+                        "match_id": "314308",
+                        "match_url": "https://www.vlr.gg/314308/t1-vs-detonation-focusme-champions-tour-2024-pacific-stage-1-w1"
+                    },
+                    {
+                        "match_id": "314304",
+                        "match_url": "https://www.vlr.gg/314304/t1-vs-paper-rex-champions-tour-2024-pacific-stage-1-w1"
+                    },
+                    {
+                        "match_id": "297256",
+                        "match_url": "https://www.vlr.gg/297256/t1-vs-paper-rex-champions-tour-2024-pacific-kickoff-playoffs-sf"
+                    },
+                    {
+                        "match_id": "296737",
+                        "match_url": "https://www.vlr.gg/296737/t1-vs-zeta-division-champions-tour-2024-pacific-kickoff-winners-a"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "5448",
+            "name": "ZETA DIVISION",
+            "details": {
+                "results": [
+                    {
+                        "match_id": "314322",
+                        "match_url": "https://www.vlr.gg/314322/gen-g-vs-zeta-division-champions-tour-2024-pacific-stage-1-w3"
+                    },
+                    {
+                        "match_id": "314316",
+                        "match_url": "https://www.vlr.gg/314316/bleed-vs-zeta-division-champions-tour-2024-pacific-stage-1-w2"
+                    },
+                    {
+                        "match_id": "314311",
+                        "match_url": "https://www.vlr.gg/314311/team-secret-vs-zeta-division-champions-tour-2024-pacific-stage-1-w2"
+                    },
+                    {
+                        "match_id": "314301",
+                        "match_url": "https://www.vlr.gg/314301/global-esports-vs-zeta-division-champions-tour-2024-pacific-stage-1-w1"
+                    },
+                    {
+                        "match_id": "297255",
+                        "match_url": "https://www.vlr.gg/297255/gen-g-vs-zeta-division-champions-tour-2024-pacific-kickoff-play-ins"
+                    },
+                    {
+                        "match_id": "297253",
+                        "match_url": "https://www.vlr.gg/297253/zeta-division-vs-team-secret-champions-tour-2024-pacific-kickoff-play-ins"
+                    },
+                    {
+                        "match_id": "296739",
+                        "match_url": "https://www.vlr.gg/296739/zeta-division-vs-global-esports-champions-tour-2024-pacific-kickoff-decider-a"
+                    }
+                ]
+            }
+        }
+    ],
+    "319787": [
+        {
+            "id": "1119",
+            "name": "All Gamers",
+            "details": {
+                "results": [
+                    {
+                        "match_id": "319779",
+                        "match_url": "https://www.vlr.gg/319779/bilibili-gaming-vs-all-gamers-champions-tour-2024-china-stage-1-w3"
+                    },
+                    {
+                        "match_id": "319773",
+                        "match_url": "https://www.vlr.gg/319773/all-gamers-vs-wolves-esports-champions-tour-2024-china-stage-1-w2"
+                    },
+                    {
+                        "match_id": "319767",
+                        "match_url": "https://www.vlr.gg/319767/dragon-ranger-gaming-vs-all-gamers-champions-tour-2024-china-stage-1-w1"
+                    },
+                    {
+                        "match_id": "298695",
+                        "match_url": "https://www.vlr.gg/298695/jd-gaming-vs-all-gamers-champions-tour-2024-china-kickoff-elim-b"
+                    },
+                    {
+                        "match_id": "298693",
+                        "match_url": "https://www.vlr.gg/298693/dragon-ranger-gaming-vs-all-gamers-champions-tour-2024-china-kickoff-opening-b"
+                    },
+                    {
+                        "match_id": "284230",
+                        "match_url": "https://www.vlr.gg/284230/all-gamers-vs-lgd-gaming-china-evolution-series-act-3-heriability-decider-d"
+                    },
+                    {
+                        "match_id": "284228",
+                        "match_url": "https://www.vlr.gg/284228/funplus-phoenix-vs-all-gamers-china-evolution-series-act-3-heriability-winners-d"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "12064",
+            "name": "Nova Esports",
+            "details": {
+                "results": [
+                    {
+                        "match_id": "319781",
+                        "match_url": "https://www.vlr.gg/319781/tyloo-vs-nova-esports-champions-tour-2024-china-stage-1-w3"
+                    },
+                    {
+                        "match_id": "319778",
+                        "match_url": "https://www.vlr.gg/319778/nova-esports-vs-funplus-phoenix-champions-tour-2024-china-stage-1-w3"
+                    },
+                    {
+                        "match_id": "319771",
+                        "match_url": "https://www.vlr.gg/319771/jd-gaming-vs-nova-esports-champions-tour-2024-china-stage-1-w2"
+                    },
+                    {
+                        "match_id": "319769",
+                        "match_url": "https://www.vlr.gg/319769/nova-esports-vs-trace-esports-champions-tour-2024-china-stage-1-w1"
+                    },
+                    {
+                        "match_id": "298691",
+                        "match_url": "https://www.vlr.gg/298691/trace-esports-vs-nova-esports-champions-tour-2024-china-kickoff-decider-a"
+                    },
+                    {
+                        "match_id": "298690",
+                        "match_url": "https://www.vlr.gg/298690/tyloo-vs-nova-esports-champions-tour-2024-china-kickoff-elim-a"
+                    },
+                    {
+                        "match_id": "298688",
+                        "match_url": "https://www.vlr.gg/298688/funplus-phoenix-vs-nova-esports-champions-tour-2024-china-kickoff-opening-a"
+                    }
+                ]
+            }
+        }
+    ],
+    "314328": [
+        {
+            "id": "6199",
+            "name": "Team Secret",
+            "details": {
+                "results": [
+                    {
+                        "match_id": "314323",
+                        "match_url": "https://www.vlr.gg/314323/team-secret-vs-detonation-focusme-champions-tour-2024-pacific-stage-1-w3"
+                    },
+                    {
+                        "match_id": "314320",
+                        "match_url": "https://www.vlr.gg/314320/team-secret-vs-paper-rex-champions-tour-2024-pacific-stage-1-w3"
+                    },
+                    {
+                        "match_id": "314311",
+                        "match_url": "https://www.vlr.gg/314311/team-secret-vs-zeta-division-champions-tour-2024-pacific-stage-1-w2"
+                    },
+                    {
+                        "match_id": "314305",
+                        "match_url": "https://www.vlr.gg/314305/team-secret-vs-rex-regum-qeon-champions-tour-2024-pacific-stage-1-w1"
+                    },
+                    {
+                        "match_id": "314302",
+                        "match_url": "https://www.vlr.gg/314302/team-secret-vs-drx-champions-tour-2024-pacific-stage-1-w1"
+                    },
+                    {
+                        "match_id": "297253",
+                        "match_url": "https://www.vlr.gg/297253/zeta-division-vs-team-secret-champions-tour-2024-pacific-kickoff-play-ins"
+                    },
+                    {
+                        "match_id": "297254",
+                        "match_url": "https://www.vlr.gg/297254/team-secret-vs-gen-g-champions-tour-2024-pacific-kickoff-play-ins"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "8304",
+            "name": "Talon Esports",
+            "details": {
+                "results": [
+                    {
+                        "match_id": "314321",
+                        "match_url": "https://www.vlr.gg/314321/t1-vs-talon-esports-champions-tour-2024-pacific-stage-1-w3"
+                    },
+                    {
+                        "match_id": "314314",
+                        "match_url": "https://www.vlr.gg/314314/global-esports-vs-talon-esports-champions-tour-2024-pacific-stage-1-w2"
+                    },
+                    {
+                        "match_id": "314307",
+                        "match_url": "https://www.vlr.gg/314307/gen-g-vs-talon-esports-champions-tour-2024-pacific-stage-1-w1"
+                    },
+                    {
+                        "match_id": "314303",
+                        "match_url": "https://www.vlr.gg/314303/bleed-vs-talon-esports-champions-tour-2024-pacific-stage-1-w1"
+                    },
+                    {
+                        "match_id": "296734",
+                        "match_url": "https://www.vlr.gg/296734/talon-esports-vs-team-secret-champions-tour-2024-pacific-kickoff-decider-b"
+                    },
+                    {
+                        "match_id": "296732",
+                        "match_url": "https://www.vlr.gg/296732/drx-vs-talon-esports-champions-tour-2024-pacific-kickoff-winners-b"
+                    },
+                    {
+                        "match_id": "296731",
+                        "match_url": "https://www.vlr.gg/296731/team-secret-vs-talon-esports-champions-tour-2024-pacific-kickoff-opening-b"
+                    }
+                ]
+            }
+        }
+    ],
+    "319788": [
+        {
+            "id": "12010",
+            "name": "Bilibili Gaming",
+            "details": {
+                "results": [
+                    {
+                        "match_id": "319783",
+                        "match_url": "https://www.vlr.gg/319783/titan-esports-club-vs-bilibili-gaming-champions-tour-2024-china-stage-1-w4"
+                    },
+                    {
+                        "match_id": "319779",
+                        "match_url": "https://www.vlr.gg/319779/bilibili-gaming-vs-all-gamers-champions-tour-2024-china-stage-1-w3"
+                    },
+                    {
+                        "match_id": "319774",
+                        "match_url": "https://www.vlr.gg/319774/trace-esports-vs-bilibili-gaming-champions-tour-2024-china-stage-1-w2"
+                    },
+                    {
+                        "match_id": "319765",
+                        "match_url": "https://www.vlr.gg/319765/bilibili-gaming-vs-tyloo-champions-tour-2024-china-stage-1-w1"
+                    },
+                    {
+                        "match_id": "298832",
+                        "match_url": "https://www.vlr.gg/298832/bilibili-gaming-vs-trace-esports-champions-tour-2024-china-kickoff-round-robin"
+                    },
+                    {
+                        "match_id": "298831",
+                        "match_url": "https://www.vlr.gg/298831/bilibili-gaming-vs-titan-esports-club-champions-tour-2024-china-kickoff-round-robin"
+                    },
+                    {
+                        "match_id": "298699",
+                        "match_url": "https://www.vlr.gg/298699/wolves-esports-vs-bilibili-gaming-champions-tour-2024-china-kickoff-decider-c"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "13576",
+            "name": "JD Gaming",
+            "details": {
+                "results": [
+                    {
+                        "match_id": "319780",
+                        "match_url": "https://www.vlr.gg/319780/dragon-ranger-gaming-vs-jd-gaming-champions-tour-2024-china-stage-1-w3"
+                    },
+                    {
+                        "match_id": "319771",
+                        "match_url": "https://www.vlr.gg/319771/jd-gaming-vs-nova-esports-champions-tour-2024-china-stage-1-w2"
+                    },
+                    {
+                        "match_id": "319768",
+                        "match_url": "https://www.vlr.gg/319768/edward-gaming-vs-jd-gaming-champions-tour-2024-china-stage-1-w1"
+                    },
+                    {
+                        "match_id": "298696",
+                        "match_url": "https://www.vlr.gg/298696/titan-esports-club-vs-jd-gaming-champions-tour-2024-china-kickoff-decider-b"
+                    },
+                    {
+                        "match_id": "298695",
+                        "match_url": "https://www.vlr.gg/298695/jd-gaming-vs-all-gamers-champions-tour-2024-china-kickoff-elim-b"
+                    },
+                    {
+                        "match_id": "298692",
+                        "match_url": "https://www.vlr.gg/298692/jd-gaming-vs-titan-esports-club-champions-tour-2024-china-kickoff-opening-b"
+                    },
+                    {
+                        "match_id": "292033",
+                        "match_url": "https://www.vlr.gg/292033/rare-atom-vs-dragon-ranger-gaming-champions-tour-2023-china-ascension-gf"
+                    }
+                ]
+            }
+        }
+    ],
+    "314646": [
+        {
+            "id": "188",
+            "name": "Cloud9",
+            "details": {
+                "results": [
+                    {
+                        "match_id": "314639",
+                        "match_url": "https://www.vlr.gg/314639/cloud9-vs-100-thieves-champions-tour-2024-americas-stage-1-w3"
+                    },
+                    {
+                        "match_id": "314635",
+                        "match_url": "https://www.vlr.gg/314635/cloud9-vs-loud-champions-tour-2024-americas-stage-1-w3"
+                    },
+                    {
+                        "match_id": "314632",
+                        "match_url": "https://www.vlr.gg/314632/cloud9-vs-evil-geniuses-champions-tour-2024-americas-stage-1-w2"
+                    },
+                    {
+                        "match_id": "314622",
+                        "match_url": "https://www.vlr.gg/314622/cloud9-vs-leviat-n-champions-tour-2024-americas-stage-1-w1"
+                    },
+                    {
+                        "match_id": "295609",
+                        "match_url": "https://www.vlr.gg/295609/cloud9-vs-mibr-champions-tour-2024-americas-kickoff-decider-a"
+                    },
+                    {
+                        "match_id": "295607",
+                        "match_url": "https://www.vlr.gg/295607/nrg-esports-vs-cloud9-champions-tour-2024-americas-kickoff-winners-a"
+                    },
+                    {
+                        "match_id": "295606",
+                        "match_url": "https://www.vlr.gg/295606/cloud9-vs-mibr-champions-tour-2024-americas-kickoff-opening-a"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "2406",
+            "name": "FURIA",
+            "details": {
+                "results": [
+                    {
+                        "match_id": "314638",
+                        "match_url": "https://www.vlr.gg/314638/g2-esports-vs-furia-champions-tour-2024-americas-stage-1-w3"
+                    },
+                    {
+                        "match_id": "314631",
+                        "match_url": "https://www.vlr.gg/314631/nrg-esports-vs-furia-champions-tour-2024-americas-stage-1-w2"
+                    },
+                    {
+                        "match_id": "314626",
+                        "match_url": "https://www.vlr.gg/314626/kr-esports-vs-furia-champions-tour-2024-americas-stage-1-w1"
+                    },
+                    {
+                        "match_id": "295608",
+                        "match_url": "https://www.vlr.gg/295608/furia-vs-mibr-champions-tour-2024-americas-kickoff-elim-a"
+                    },
+                    {
+                        "match_id": "295605",
+                        "match_url": "https://www.vlr.gg/295605/nrg-esports-vs-furia-champions-tour-2024-americas-kickoff-opening-a"
+                    },
+                    {
+                        "match_id": "289452",
+                        "match_url": "https://www.vlr.gg/289452/global-esports-vs-furia-convergence-2023-d3"
+                    },
+                    {
+                        "match_id": "289450",
+                        "match_url": "https://www.vlr.gg/289450/furia-vs-team-vitality-convergence-2023-d2"
+                    }
+                ]
+            }
+        }
+    ],
+    "314647": [
+        {
+            "id": "1034",
+            "name": "NRG Esports",
+            "details": {
+                "results": [
+                    {
+                        "match_id": "314641",
+                        "match_url": "https://www.vlr.gg/314641/nrg-esports-vs-mibr-champions-tour-2024-americas-stage-1-w3"
+                    },
+                    {
+                        "match_id": "314637",
+                        "match_url": "https://www.vlr.gg/314637/nrg-esports-vs-leviat-n-champions-tour-2024-americas-stage-1-w3"
+                    },
+                    {
+                        "match_id": "314631",
+                        "match_url": "https://www.vlr.gg/314631/nrg-esports-vs-furia-champions-tour-2024-americas-stage-1-w2"
+                    },
+                    {
+                        "match_id": "314623",
+                        "match_url": "https://www.vlr.gg/314623/nrg-esports-vs-loud-champions-tour-2024-americas-stage-1-w1"
+                    },
+                    {
+                        "match_id": "303088",
+                        "match_url": "https://www.vlr.gg/303088/nrg-esports-vs-sentinels-champions-tour-2024-americas-kickoff-sf"
+                    },
+                    {
+                        "match_id": "295607",
+                        "match_url": "https://www.vlr.gg/295607/nrg-esports-vs-cloud9-champions-tour-2024-americas-kickoff-winners-a"
+                    },
+                    {
+                        "match_id": "295605",
+                        "match_url": "https://www.vlr.gg/295605/nrg-esports-vs-furia-champions-tour-2024-americas-kickoff-opening-a"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "5248",
+            "name": "Evil Geniuses",
+            "details": {
+                "results": [
+                    {
+                        "match_id": "314640",
+                        "match_url": "https://www.vlr.gg/314640/sentinels-vs-evil-geniuses-champions-tour-2024-americas-stage-1-w3"
+                    },
+                    {
+                        "match_id": "314636",
+                        "match_url": "https://www.vlr.gg/314636/kr-esports-vs-evil-geniuses-champions-tour-2024-americas-stage-1-w3"
+                    },
+                    {
+                        "match_id": "314632",
+                        "match_url": "https://www.vlr.gg/314632/cloud9-vs-evil-geniuses-champions-tour-2024-americas-stage-1-w2"
+                    },
+                    {
+                        "match_id": "314624",
+                        "match_url": "https://www.vlr.gg/314624/g2-esports-vs-evil-geniuses-champions-tour-2024-americas-stage-1-w1"
+                    },
+                    {
+                        "match_id": "303087",
+                        "match_url": "https://www.vlr.gg/303087/evil-geniuses-vs-loud-champions-tour-2024-americas-kickoff-sf"
+                    },
+                    {
+                        "match_id": "295617",
+                        "match_url": "https://www.vlr.gg/295617/g2-esports-vs-evil-geniuses-champions-tour-2024-americas-kickoff-winners-c"
+                    },
+                    {
+                        "match_id": "248277",
+                        "match_url": "https://www.vlr.gg/248277/paper-rex-vs-evil-geniuses-valorant-champions-2023-playoffs-gf"
+                    }
+                ]
+            }
+        }
+    ],
+    "314329": [
+        {
+            "id": "6387",
+            "name": "BLEED",
+            "details": {
+                "results": [
+                    {
+                        "match_id": "314318",
+                        "match_url": "https://www.vlr.gg/314318/bleed-vs-detonation-focusme-champions-tour-2024-pacific-stage-1-w3"
+                    },
+                    {
+                        "match_id": "314316",
+                        "match_url": "https://www.vlr.gg/314316/bleed-vs-zeta-division-champions-tour-2024-pacific-stage-1-w2"
+                    },
+                    {
+                        "match_id": "314312",
+                        "match_url": "https://www.vlr.gg/314312/bleed-vs-rex-regum-qeon-champions-tour-2024-pacific-stage-1-w2"
+                    },
+                    {
+                        "match_id": "314303",
+                        "match_url": "https://www.vlr.gg/314303/bleed-vs-talon-esports-champions-tour-2024-pacific-stage-1-w1"
+                    },
+                    {
+                        "match_id": "296738",
+                        "match_url": "https://www.vlr.gg/296738/bleed-vs-global-esports-champions-tour-2024-pacific-kickoff-elim-a"
+                    },
+                    {
+                        "match_id": "296735",
+                        "match_url": "https://www.vlr.gg/296735/t1-vs-bleed-champions-tour-2024-pacific-kickoff-opening-a"
+                    },
+                    {
+                        "match_id": "287762",
+                        "match_url": "https://www.vlr.gg/287762/detonation-focusme-vs-bleed-riot-games-one-2023-d2"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "8185",
+            "name": "DRX",
+            "details": {
+                "results": [
+                    {
+                        "match_id": "314317",
+                        "match_url": "https://www.vlr.gg/314317/gen-g-vs-drx-champions-tour-2024-pacific-stage-1-w3"
+                    },
+                    {
+                        "match_id": "314310",
+                        "match_url": "https://www.vlr.gg/314310/t1-vs-drx-champions-tour-2024-pacific-stage-1-w2"
+                    },
+                    {
+                        "match_id": "314306",
+                        "match_url": "https://www.vlr.gg/314306/global-esports-vs-drx-champions-tour-2024-pacific-stage-1-w1"
+                    },
+                    {
+                        "match_id": "314302",
+                        "match_url": "https://www.vlr.gg/314302/team-secret-vs-drx-champions-tour-2024-pacific-stage-1-w1"
+                    },
+                    {
+                        "match_id": "297257",
+                        "match_url": "https://www.vlr.gg/297257/drx-vs-gen-g-champions-tour-2024-pacific-kickoff-playoffs-sf"
+                    },
+                    {
+                        "match_id": "296732",
+                        "match_url": "https://www.vlr.gg/296732/drx-vs-talon-esports-champions-tour-2024-pacific-kickoff-winners-b"
+                    },
+                    {
+                        "match_id": "296736",
+                        "match_url": "https://www.vlr.gg/296736/drx-vs-detonation-focusme-champions-tour-2024-pacific-kickoff-opening-b"
+                    }
+                ]
+            }
+        }
+    ],
+    "314330": [
+        {
+            "id": "17",
+            "name": "Gen.G",
+            "details": {
+                "results": [
+                    {
+                        "match_id": "314322",
+                        "match_url": "https://www.vlr.gg/314322/gen-g-vs-zeta-division-champions-tour-2024-pacific-stage-1-w3"
+                    },
+                    {
+                        "match_id": "314317",
+                        "match_url": "https://www.vlr.gg/314317/gen-g-vs-drx-champions-tour-2024-pacific-stage-1-w3"
+                    },
+                    {
+                        "match_id": "314313",
+                        "match_url": "https://www.vlr.gg/314313/gen-g-vs-detonation-focusme-champions-tour-2024-pacific-stage-1-w2"
+                    },
+                    {
+                        "match_id": "314309",
+                        "match_url": "https://www.vlr.gg/314309/gen-g-vs-paper-rex-champions-tour-2024-pacific-stage-1-w2"
+                    },
+                    {
+                        "match_id": "314307",
+                        "match_url": "https://www.vlr.gg/314307/gen-g-vs-talon-esports-champions-tour-2024-pacific-stage-1-w1"
+                    },
+                    {
+                        "match_id": "312779",
+                        "match_url": "https://www.vlr.gg/312779/gen-g-vs-sentinels-champions-tour-2024-masters-madrid-gf"
+                    },
+                    {
+                        "match_id": "312778",
+                        "match_url": "https://www.vlr.gg/312778/gen-g-vs-sentinels-champions-tour-2024-masters-madrid-ubf"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "878",
+            "name": "Rex Regum Qeon",
+            "details": {
+                "results": [
+                    {
+                        "match_id": "314319",
+                        "match_url": "https://www.vlr.gg/314319/global-esports-vs-rex-regum-qeon-champions-tour-2024-pacific-stage-1-w3"
+                    },
+                    {
+                        "match_id": "314315",
+                        "match_url": "https://www.vlr.gg/314315/t1-vs-rex-regum-qeon-champions-tour-2024-pacific-stage-1-w2"
+                    },
+                    {
+                        "match_id": "314312",
+                        "match_url": "https://www.vlr.gg/314312/bleed-vs-rex-regum-qeon-champions-tour-2024-pacific-stage-1-w2"
+                    },
+                    {
+                        "match_id": "314305",
+                        "match_url": "https://www.vlr.gg/314305/team-secret-vs-rex-regum-qeon-champions-tour-2024-pacific-stage-1-w1"
+                    },
+                    {
+                        "match_id": "296749",
+                        "match_url": "https://www.vlr.gg/296749/gen-g-vs-rex-regum-qeon-champions-tour-2024-pacific-kickoff-decider-c"
+                    },
+                    {
+                        "match_id": "296745",
+                        "match_url": "https://www.vlr.gg/296745/gen-g-vs-rex-regum-qeon-champions-tour-2024-pacific-kickoff-opening-c"
+                    },
+                    {
+                        "match_id": "237272",
+                        "match_url": "https://www.vlr.gg/237272/rex-regum-qeon-vs-gen-g-champions-tour-2023-pacific-last-chance-qualifier-lr1"
+                    }
+                ]
+            }
+        }
+    ],
+    "314648": [
+        {
+            "id": "2355",
+            "name": "KR\u00dc Esports",
+            "details": {
+                "results": [
+                    {
+                        "match_id": "314643",
+                        "match_url": "https://www.vlr.gg/314643/kr-esports-vs-loud-champions-tour-2024-americas-stage-1-w3"
+                    },
+                    {
+                        "match_id": "314636",
+                        "match_url": "https://www.vlr.gg/314636/kr-esports-vs-evil-geniuses-champions-tour-2024-americas-stage-1-w3"
+                    },
+                    {
+                        "match_id": "314630",
+                        "match_url": "https://www.vlr.gg/314630/kr-esports-vs-mibr-champions-tour-2024-americas-stage-1-w2"
+                    },
+                    {
+                        "match_id": "314626",
+                        "match_url": "https://www.vlr.gg/314626/kr-esports-vs-furia-champions-tour-2024-americas-stage-1-w1"
+                    },
+                    {
+                        "match_id": "295619",
+                        "match_url": "https://www.vlr.gg/295619/g2-esports-vs-kr-esports-champions-tour-2024-americas-kickoff-decider-c"
+                    },
+                    {
+                        "match_id": "295615",
+                        "match_url": "https://www.vlr.gg/295615/kr-esports-vs-g2-esports-champions-tour-2024-americas-kickoff-opening-c"
+                    },
+                    {
+                        "match_id": "281030",
+                        "match_url": "https://www.vlr.gg/281030/kr-esports-vs-furia-superdome-2023-colombia-lr1"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "120",
+            "name": "100 Thieves",
+            "details": {
+                "results": [
+                    {
+                        "match_id": "314639",
+                        "match_url": "https://www.vlr.gg/314639/cloud9-vs-100-thieves-champions-tour-2024-americas-stage-1-w3"
+                    },
+                    {
+                        "match_id": "314628",
+                        "match_url": "https://www.vlr.gg/314628/g2-esports-vs-100-thieves-champions-tour-2024-americas-stage-1-w2"
+                    },
+                    {
+                        "match_id": "314625",
+                        "match_url": "https://www.vlr.gg/314625/sentinels-vs-100-thieves-champions-tour-2024-americas-stage-1-w1"
+                    },
+                    {
+                        "match_id": "295613",
+                        "match_url": "https://www.vlr.gg/295613/sentinels-vs-100-thieves-champions-tour-2024-americas-kickoff-elim-b"
+                    },
+                    {
+                        "match_id": "295611",
+                        "match_url": "https://www.vlr.gg/295611/leviat-n-vs-100-thieves-champions-tour-2024-americas-kickoff-opening-b"
+                    },
+                    {
+                        "match_id": "294186",
+                        "match_url": "https://www.vlr.gg/294186/cloud9-vs-100-thieves-ludwig-x-tarik-invitational-2-lr1"
+                    },
+                    {
+                        "match_id": "294183",
+                        "match_url": "https://www.vlr.gg/294183/100-thieves-vs-oxygen-esports-ludwig-x-tarik-invitational-2-ubsf"
+                    }
+                ]
+            }
+        }
+    ],
+    "334296": [
+        {
+            "id": "9315",
+            "name": "ZETA DIVISION GC",
+            "details": {
+                "results": [
+                    {
+                        "match_id": "328148",
+                        "match_url": "https://www.vlr.gg/328148/zeta-division-gc-vs-cyber-geek-game-changers-2024-japan-split-1-oq-a-gf"
+                    },
+                    {
+                        "match_id": "328147",
+                        "match_url": "https://www.vlr.gg/328147/zeta-division-gc-vs-cyber-geek-game-changers-2024-japan-split-1-oq-a-uf"
+                    },
+                    {
+                        "match_id": "328145",
+                        "match_url": "https://www.vlr.gg/328145/zeta-division-gc-vs-insomnia-gc-game-changers-2024-japan-split-1-oq-a-ubsf"
+                    },
+                    {
+                        "match_id": "280755",
+                        "match_url": "https://www.vlr.gg/280755/chao-hui-edward-gaming-vs-zeta-division-gc-game-changers-2023-east-asia-gf"
+                    },
+                    {
+                        "match_id": "280757",
+                        "match_url": "https://www.vlr.gg/280757/chosen-clique-gaming-gc-vs-zeta-division-gc-game-changers-2023-east-asia-lf"
+                    },
+                    {
+                        "match_id": "280756",
+                        "match_url": "https://www.vlr.gg/280756/zeta-division-gc-vs-fennel-gc-game-changers-2023-east-asia-lr1"
+                    },
+                    {
+                        "match_id": "280752",
+                        "match_url": "https://www.vlr.gg/280752/zeta-division-gc-vs-chao-hui-edward-gaming-game-changers-2023-east-asia-ubsf"
+                    }
+                ]
+            }
+        }
+    ],
+    "325996": [
+        {
+            "id": "13849",
+            "name": "JFT",
+            "details": {
+                "results": [
+                    {
+                        "match_id": "325994",
+                        "match_url": "https://www.vlr.gg/325994/focusgg-vs-jft-challengers-league-oceania-stage-1-lr2"
+                    },
+                    {
+                        "match_id": "325992",
+                        "match_url": "https://www.vlr.gg/325992/rub-n-pug-vs-jft-challengers-league-oceania-stage-1-lr1"
+                    },
+                    {
+                        "match_id": "325985",
+                        "match_url": "https://www.vlr.gg/325985/arena-internet-cafe-vs-jft-challengers-league-oceania-stage-1-ubqf"
+                    },
+                    {
+                        "match_id": "327022",
+                        "match_url": "https://www.vlr.gg/327022/jft-vs-xu-gang-lpl-pathfinder-season-1-gf"
+                    },
+                    {
+                        "match_id": "327018",
+                        "match_url": "https://www.vlr.gg/327018/jft-vs-built-for-greatness-lpl-pathfinder-season-1-sf"
+                    },
+                    {
+                        "match_id": "322656",
+                        "match_url": "https://www.vlr.gg/322656/ipgn-vs-jft-challengers-league-oceania-stage-1-ur4"
+                    },
+                    {
+                        "match_id": "322648",
+                        "match_url": "https://www.vlr.gg/322648/jft-vs-corn-dawgs-challengers-league-oceania-stage-1-r3-1-1"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "8448",
+            "name": "BOBO",
+            "details": {
+                "results": [
+                    {
+                        "match_id": "325995",
+                        "match_url": "https://www.vlr.gg/325995/edge-vs-bobo-challengers-league-oceania-stage-1-lr2"
+                    },
+                    {
+                        "match_id": "325993",
+                        "match_url": "https://www.vlr.gg/325993/ipgn-vs-bobo-challengers-league-oceania-stage-1-lr1"
+                    },
+                    {
+                        "match_id": "325987",
+                        "match_url": "https://www.vlr.gg/325987/bobo-vs-edge-challengers-league-oceania-stage-1-ubqf"
+                    },
+                    {
+                        "match_id": "322647",
+                        "match_url": "https://www.vlr.gg/322647/antic-esports-vs-arena-internet-cafe-challengers-league-oceania-stage-1-ur3"
+                    },
+                    {
+                        "match_id": "322640",
+                        "match_url": "https://www.vlr.gg/322640/antic-esports-vs-arcade-esports-challengers-league-oceania-stage-1-ur2"
+                    },
+                    {
+                        "match_id": "320776",
+                        "match_url": "https://www.vlr.gg/320776/antic-esports-vs-after-life-esports-challengers-league-oceania-stage-1-r1"
+                    },
+                    {
+                        "match_id": "313966",
+                        "match_url": "https://www.vlr.gg/313966/focusgg-vs-antic-esports-challengers-league-oceania-stage-1-ubsf"
+                    }
+                ]
+            }
+        }
+    ],
+    "324714": [
+        {
+            "id": "8030",
+            "name": "MLT Esports",
+            "details": {
+                "results": [
+                    {
+                        "match_id": "324724",
+                        "match_url": "https://www.vlr.gg/324724/mlt-esports-vs-true-rippers-omen-challengers-league-2024-south-asia-split-1-w4"
+                    },
+                    {
+                        "match_id": "324721",
+                        "match_url": "https://www.vlr.gg/324721/orangutan-vs-mlt-esports-omen-challengers-league-2024-south-asia-split-1-w4"
+                    },
+                    {
+                        "match_id": "324710",
+                        "match_url": "https://www.vlr.gg/324710/mlt-esports-vs-grayfox-esports-omen-challengers-league-2024-south-asia-split-1-w2"
+                    },
+                    {
+                        "match_id": "324704",
+                        "match_url": "https://www.vlr.gg/324704/carnival-gaming-vs-mlt-esports-omen-challengers-league-2024-south-asia-split-1-w1"
+                    },
+                    {
+                        "match_id": "324702",
+                        "match_url": "https://www.vlr.gg/324702/mlt-esports-vs-medal-esports-omen-challengers-league-2024-south-asia-split-1-w1"
+                    },
+                    {
+                        "match_id": "297058",
+                        "match_url": "https://www.vlr.gg/297058/mlt-esports-vs-revenant-esports-omen-challengers-league-2024-south-asia-split-1-w3"
+                    },
+                    {
+                        "match_id": "297054",
+                        "match_url": "https://www.vlr.gg/297054/mlt-esports-vs-carnival-gaming-omen-challengers-league-2024-south-asia-split-1-w3"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "1033",
+            "name": "Reckoning Esports",
+            "details": {
+                "results": [
+                    {
+                        "match_id": "324723",
+                        "match_url": "https://www.vlr.gg/324723/reckoning-esports-vs-medal-esports-omen-challengers-league-2024-south-asia-split-1-w4"
+                    },
+                    {
+                        "match_id": "324720",
+                        "match_url": "https://www.vlr.gg/324720/carnival-gaming-vs-reckoning-esports-omen-challengers-league-2024-south-asia-split-1-w4"
+                    },
+                    {
+                        "match_id": "324716",
+                        "match_url": "https://www.vlr.gg/324716/reckoning-esports-vs-true-rippers-omen-challengers-league-2024-south-asia-split-1-w3"
+                    },
+                    {
+                        "match_id": "324711",
+                        "match_url": "https://www.vlr.gg/324711/revenant-esports-vs-reckoning-esports-omen-challengers-league-2024-south-asia-split-1-w2"
+                    },
+                    {
+                        "match_id": "324708",
+                        "match_url": "https://www.vlr.gg/324708/orangutan-vs-reckoning-esports-omen-challengers-league-2024-south-asia-split-1-w2"
+                    },
+                    {
+                        "match_id": "297059",
+                        "match_url": "https://www.vlr.gg/297059/reckoning-esports-vs-grayfox-esports-omen-challengers-league-2024-south-asia-split-1-w3"
+                    },
+                    {
+                        "match_id": "297055",
+                        "match_url": "https://www.vlr.gg/297055/reckoning-esports-vs-medal-esports-omen-challengers-league-2024-south-asia-split-1-w3"
+                    }
+                ]
+            }
+        }
+    ],
+    "334297": [],
+    "325990": [
+        {
+            "id": "15289",
+            "name": "Arena Internet Cafe",
+            "details": {
+                "results": [
+                    {
+                        "match_id": "325988",
+                        "match_url": "https://www.vlr.gg/325988/focusgg-vs-arena-internet-cafe-challengers-league-oceania-stage-1-ubsf"
+                    },
+                    {
+                        "match_id": "325985",
+                        "match_url": "https://www.vlr.gg/325985/arena-internet-cafe-vs-jft-challengers-league-oceania-stage-1-ubqf"
+                    },
+                    {
+                        "match_id": "322655",
+                        "match_url": "https://www.vlr.gg/322655/arena-internet-cafe-vs-arcade-esports-challengers-league-oceania-stage-1-ur4"
+                    },
+                    {
+                        "match_id": "322647",
+                        "match_url": "https://www.vlr.gg/322647/antic-esports-vs-arena-internet-cafe-challengers-league-oceania-stage-1-ur3"
+                    },
+                    {
+                        "match_id": "322641",
+                        "match_url": "https://www.vlr.gg/322641/edge-vs-arena-internet-cafe-challengers-league-oceania-stage-1-ur2"
+                    },
+                    {
+                        "match_id": "320779",
+                        "match_url": "https://www.vlr.gg/320779/arena-internet-cafe-vs-corn-dawgs-challengers-league-oceania-stage-1-r1"
+                    },
+                    {
+                        "match_id": "240865",
+                        "match_url": "https://www.vlr.gg/240865/nerdpunt-vs-trident-esports-lpl-summer-cup-legends-2023-gf"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "14469",
+            "name": "JiJieHao",
+            "details": {
+                "results": [
+                    {
+                        "match_id": "325989",
+                        "match_url": "https://www.vlr.gg/325989/jijiehao-vs-edge-challengers-league-oceania-stage-1-ubsf"
+                    },
+                    {
+                        "match_id": "325986",
+                        "match_url": "https://www.vlr.gg/325986/jijiehao-vs-ipgn-challengers-league-oceania-stage-1-ubqf"
+                    },
+                    {
+                        "match_id": "322654",
+                        "match_url": "https://www.vlr.gg/322654/jijiehao-vs-edge-challengers-league-oceania-stage-1-ur4"
+                    },
+                    {
+                        "match_id": "322646",
+                        "match_url": "https://www.vlr.gg/322646/jijiehao-vs-focusgg-challengers-league-oceania-stage-1-ur3"
+                    },
+                    {
+                        "match_id": "322638",
+                        "match_url": "https://www.vlr.gg/322638/jijiehao-vs-jft-challengers-league-oceania-stage-1-ur2"
+                    },
+                    {
+                        "match_id": "320772",
+                        "match_url": "https://www.vlr.gg/320772/jijiehao-vs-xu-gang-challengers-league-oceania-stage-1-r1"
+                    },
+                    {
+                        "match_id": "220843",
+                        "match_url": "https://www.vlr.gg/220843/boom-esports-vs-bonkers-champions-tour-2023-pacific-ascension-playoffs-qf"
+                    }
+                ]
+            }
+        }
+    ],
+    "324715": [
+        {
+            "id": "8904",
+            "name": "Orangutan",
+            "details": {
+                "results": [
+                    {
+                        "match_id": "324722",
+                        "match_url": "https://www.vlr.gg/324722/orangutan-vs-revenant-esports-omen-challengers-league-2024-south-asia-split-1-w4"
+                    },
+                    {
+                        "match_id": "324721",
+                        "match_url": "https://www.vlr.gg/324721/orangutan-vs-mlt-esports-omen-challengers-league-2024-south-asia-split-1-w4"
+                    },
+                    {
+                        "match_id": "324708",
+                        "match_url": "https://www.vlr.gg/324708/orangutan-vs-reckoning-esports-omen-challengers-league-2024-south-asia-split-1-w2"
+                    },
+                    {
+                        "match_id": "324706",
+                        "match_url": "https://www.vlr.gg/324706/carnival-gaming-vs-orangutan-omen-challengers-league-2024-south-asia-split-1-w2"
+                    },
+                    {
+                        "match_id": "324705",
+                        "match_url": "https://www.vlr.gg/324705/orangutan-vs-true-rippers-omen-challengers-league-2024-south-asia-split-1-w1"
+                    },
+                    {
+                        "match_id": "324700",
+                        "match_url": "https://www.vlr.gg/324700/orangutan-vs-medal-esports-omen-challengers-league-2024-south-asia-split-1-w1"
+                    },
+                    {
+                        "match_id": "297056",
+                        "match_url": "https://www.vlr.gg/297056/orangutan-vs-grayfox-esports-omen-challengers-league-2024-south-asia-split-1-w3"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "13368",
+            "name": "Grayfox Esports",
+            "details": {
+                "results": [
+                    {
+                        "match_id": "324725",
+                        "match_url": "https://www.vlr.gg/324725/carnival-gaming-vs-grayfox-esports-omen-challengers-league-2024-south-asia-split-1-w4"
+                    },
+                    {
+                        "match_id": "324718",
+                        "match_url": "https://www.vlr.gg/324718/revenant-esports-vs-grayfox-esports-omen-challengers-league-2024-south-asia-split-1-w3"
+                    },
+                    {
+                        "match_id": "324710",
+                        "match_url": "https://www.vlr.gg/324710/mlt-esports-vs-grayfox-esports-omen-challengers-league-2024-south-asia-split-1-w2"
+                    },
+                    {
+                        "match_id": "324709",
+                        "match_url": "https://www.vlr.gg/324709/medal-esports-vs-grayfox-esports-omen-challengers-league-2024-south-asia-split-1-w2"
+                    },
+                    {
+                        "match_id": "324707",
+                        "match_url": "https://www.vlr.gg/324707/true-rippers-vs-grayfox-esports-omen-challengers-league-2024-south-asia-split-1-w2"
+                    },
+                    {
+                        "match_id": "314547",
+                        "match_url": "https://www.vlr.gg/314547/grayfox-esports-vs-true-rippers-omen-challengers-league-2024-south-asia-split-1-gf"
+                    },
+                    {
+                        "match_id": "314542",
+                        "match_url": "https://www.vlr.gg/314542/revenant-esports-vs-grayfox-esports-omen-challengers-league-2024-south-asia-split-1-ubf"
+                    }
+                ]
+            }
+        }
+    ],
+    "329331": [
+        {
+            "id": "15021",
+            "name": "Legacy",
+            "details": {
+                "results": [
+                    {
+                        "match_id": "329329",
+                        "match_url": "https://www.vlr.gg/329329/galorys-vs-legacy-gamers-club-challengers-league-2024-brazil-split-1-playoffs-lr1"
+                    },
+                    {
+                        "match_id": "329323",
+                        "match_url": "https://www.vlr.gg/329323/hero-base-vs-legacy-gamers-club-challengers-league-2024-brazil-split-1-playoffs-ur1"
+                    },
+                    {
+                        "match_id": "328546",
+                        "match_url": "https://www.vlr.gg/328546/tbk-esports-vs-legacy-gamers-club-challengers-league-2024-brazil-split-1-decider"
+                    },
+                    {
+                        "match_id": "328545",
+                        "match_url": "https://www.vlr.gg/328545/xld-gaming-vs-legacy-gamers-club-challengers-league-2024-brazil-split-1-elim"
+                    },
+                    {
+                        "match_id": "328543",
+                        "match_url": "https://www.vlr.gg/328543/legacy-vs-tbk-esports-gamers-club-challengers-league-2024-brazil-split-1-opening"
+                    },
+                    {
+                        "match_id": "299659",
+                        "match_url": "https://www.vlr.gg/299659/legacy-vs-co-op-gg-gamers-club-challengers-league-2024-brazil-split-1-regular-season-w9"
+                    },
+                    {
+                        "match_id": "299652",
+                        "match_url": "https://www.vlr.gg/299652/legacy-vs-galorys-gamers-club-challengers-league-2024-brazil-split-1-regular-season-w8"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "15117",
+            "name": "Hero Base",
+            "details": {
+                "results": [
+                    {
+                        "match_id": "329330",
+                        "match_url": "https://www.vlr.gg/329330/hero-base-vs-stellae-gaming-gamers-club-challengers-league-2024-brazil-split-1-playoffs-lr1"
+                    },
+                    {
+                        "match_id": "329325",
+                        "match_url": "https://www.vlr.gg/329325/2game-esports-vs-hero-base-gamers-club-challengers-league-2024-brazil-split-1-playoffs-ubsf"
+                    },
+                    {
+                        "match_id": "329323",
+                        "match_url": "https://www.vlr.gg/329323/hero-base-vs-legacy-gamers-club-challengers-league-2024-brazil-split-1-playoffs-ur1"
+                    },
+                    {
+                        "match_id": "299657",
+                        "match_url": "https://www.vlr.gg/299657/hero-base-vs-xld-gaming-gamers-club-challengers-league-2024-brazil-split-1-regular-season-w9"
+                    },
+                    {
+                        "match_id": "299650",
+                        "match_url": "https://www.vlr.gg/299650/hero-base-vs-co-op-gg-gamers-club-challengers-league-2024-brazil-split-1-regular-season-w8"
+                    },
+                    {
+                        "match_id": "299649",
+                        "match_url": "https://www.vlr.gg/299649/hero-base-vs-2game-esports-gamers-club-challengers-league-2024-brazil-split-1-regular-season-w7"
+                    },
+                    {
+                        "match_id": "299640",
+                        "match_url": "https://www.vlr.gg/299640/hero-base-vs-galorys-gamers-club-challengers-league-2024-brazil-split-1-regular-season-w6"
+                    }
+                ]
+            }
+        }
+    ],
+    "326889": [],
+    "329327": [
+        {
+            "id": "15072",
+            "name": "2Game Esports",
+            "details": {
+                "results": [
+                    {
+                        "match_id": "329325",
+                        "match_url": "https://www.vlr.gg/329325/2game-esports-vs-hero-base-gamers-club-challengers-league-2024-brazil-split-1-playoffs-ubsf"
+                    },
+                    {
+                        "match_id": "299658",
+                        "match_url": "https://www.vlr.gg/299658/olimpo-vs-2game-esports-gamers-club-challengers-league-2024-brazil-split-1-regular-season-w9"
+                    },
+                    {
+                        "match_id": "299651",
+                        "match_url": "https://www.vlr.gg/299651/2game-esports-vs-xld-gaming-gamers-club-challengers-league-2024-brazil-split-1-regular-season-w8"
+                    },
+                    {
+                        "match_id": "299649",
+                        "match_url": "https://www.vlr.gg/299649/hero-base-vs-2game-esports-gamers-club-challengers-league-2024-brazil-split-1-regular-season-w7"
+                    },
+                    {
+                        "match_id": "299642",
+                        "match_url": "https://www.vlr.gg/299642/tbk-esports-vs-2game-esports-gamers-club-challengers-league-2024-brazil-split-1-regular-season-w"
+                    },
+                    {
+                        "match_id": "299637",
+                        "match_url": "https://www.vlr.gg/299637/2game-esports-vs-stellae-gaming-gamers-club-challengers-league-2024-brazil-split-1-regular-seaso"
+                    },
+                    {
+                        "match_id": "299631",
+                        "match_url": "https://www.vlr.gg/299631/2game-esports-vs-legacy-gamers-club-challengers-league-2024-brazil-split-1-regular-season-w4"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "1124",
+            "name": "RED Canids",
+            "details": {
+                "results": [
+                    {
+                        "match_id": "329326",
+                        "match_url": "https://www.vlr.gg/329326/red-canids-vs-galorys-gamers-club-challengers-league-2024-brazil-split-1-playoffs-ubsf"
+                    },
+                    {
+                        "match_id": "299655",
+                        "match_url": "https://www.vlr.gg/299655/red-canids-vs-tbk-esports-gamers-club-challengers-league-2024-brazil-split-1-regular-season-w9"
+                    },
+                    {
+                        "match_id": "299653",
+                        "match_url": "https://www.vlr.gg/299653/stellae-gaming-vs-red-canids-gamers-club-challengers-league-2024-brazil-split-1-regular-season-w"
+                    },
+                    {
+                        "match_id": "299647",
+                        "match_url": "https://www.vlr.gg/299647/legacy-vs-red-canids-gamers-club-challengers-league-2024-brazil-split-1-regular-season-w7"
+                    },
+                    {
+                        "match_id": "299641",
+                        "match_url": "https://www.vlr.gg/299641/red-canids-vs-co-op-gg-gamers-club-challengers-league-2024-brazil-split-1-regular-season-w6"
+                    },
+                    {
+                        "match_id": "299636",
+                        "match_url": "https://www.vlr.gg/299636/red-canids-vs-galorys-gamers-club-challengers-league-2024-brazil-split-1-regular-season-w5"
+                    },
+                    {
+                        "match_id": "299633",
+                        "match_url": "https://www.vlr.gg/299633/hero-base-vs-red-canids-gamers-club-challengers-league-2024-brazil-split-1-regular-season-w4"
+                    }
+                ]
+            }
+        }
+    ],
+    "324812": [],
+    "324726": [
+        {
+            "id": "14819",
+            "name": "Carnival Gaming",
+            "details": {
+                "results": [
+                    {
+                        "match_id": "324725",
+                        "match_url": "https://www.vlr.gg/324725/carnival-gaming-vs-grayfox-esports-omen-challengers-league-2024-south-asia-split-1-w4"
+                    },
+                    {
+                        "match_id": "324720",
+                        "match_url": "https://www.vlr.gg/324720/carnival-gaming-vs-reckoning-esports-omen-challengers-league-2024-south-asia-split-1-w4"
+                    },
+                    {
+                        "match_id": "324706",
+                        "match_url": "https://www.vlr.gg/324706/carnival-gaming-vs-orangutan-omen-challengers-league-2024-south-asia-split-1-w2"
+                    },
+                    {
+                        "match_id": "324704",
+                        "match_url": "https://www.vlr.gg/324704/carnival-gaming-vs-mlt-esports-omen-challengers-league-2024-south-asia-split-1-w1"
+                    },
+                    {
+                        "match_id": "324701",
+                        "match_url": "https://www.vlr.gg/324701/carnival-gaming-vs-revenant-esports-omen-challengers-league-2024-south-asia-split-1-w1"
+                    },
+                    {
+                        "match_id": "297054",
+                        "match_url": "https://www.vlr.gg/297054/mlt-esports-vs-carnival-gaming-omen-challengers-league-2024-south-asia-split-1-w3"
+                    },
+                    {
+                        "match_id": "297052",
+                        "match_url": "https://www.vlr.gg/297052/carnival-gaming-vs-reckoning-esports-omen-challengers-league-2024-south-asia-split-1-w3"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "4733",
+            "name": "True Rippers",
+            "details": {
+                "results": [
+                    {
+                        "match_id": "324724",
+                        "match_url": "https://www.vlr.gg/324724/mlt-esports-vs-true-rippers-omen-challengers-league-2024-south-asia-split-1-w4"
+                    },
+                    {
+                        "match_id": "324719",
+                        "match_url": "https://www.vlr.gg/324719/true-rippers-vs-medal-esports-omen-challengers-league-2024-south-asia-split-1-w3"
+                    },
+                    {
+                        "match_id": "324716",
+                        "match_url": "https://www.vlr.gg/324716/reckoning-esports-vs-true-rippers-omen-challengers-league-2024-south-asia-split-1-w3"
+                    },
+                    {
+                        "match_id": "324707",
+                        "match_url": "https://www.vlr.gg/324707/true-rippers-vs-grayfox-esports-omen-challengers-league-2024-south-asia-split-1-w2"
+                    },
+                    {
+                        "match_id": "324705",
+                        "match_url": "https://www.vlr.gg/324705/orangutan-vs-true-rippers-omen-challengers-league-2024-south-asia-split-1-w1"
+                    },
+                    {
+                        "match_id": "324703",
+                        "match_url": "https://www.vlr.gg/324703/revenant-esports-vs-true-rippers-omen-challengers-league-2024-south-asia-split-1-w1"
+                    },
+                    {
+                        "match_id": "314547",
+                        "match_url": "https://www.vlr.gg/314547/grayfox-esports-vs-true-rippers-omen-challengers-league-2024-south-asia-split-1-gf"
+                    }
+                ]
+            }
+        }
+    ],
+    "324727": [
+        {
+            "id": "8030",
+            "name": "MLT Esports",
+            "details": {
+                "results": [
+                    {
+                        "match_id": "324724",
+                        "match_url": "https://www.vlr.gg/324724/mlt-esports-vs-true-rippers-omen-challengers-league-2024-south-asia-split-1-w4"
+                    },
+                    {
+                        "match_id": "324721",
+                        "match_url": "https://www.vlr.gg/324721/orangutan-vs-mlt-esports-omen-challengers-league-2024-south-asia-split-1-w4"
+                    },
+                    {
+                        "match_id": "324710",
+                        "match_url": "https://www.vlr.gg/324710/mlt-esports-vs-grayfox-esports-omen-challengers-league-2024-south-asia-split-1-w2"
+                    },
+                    {
+                        "match_id": "324704",
+                        "match_url": "https://www.vlr.gg/324704/carnival-gaming-vs-mlt-esports-omen-challengers-league-2024-south-asia-split-1-w1"
+                    },
+                    {
+                        "match_id": "324702",
+                        "match_url": "https://www.vlr.gg/324702/mlt-esports-vs-medal-esports-omen-challengers-league-2024-south-asia-split-1-w1"
+                    },
+                    {
+                        "match_id": "297058",
+                        "match_url": "https://www.vlr.gg/297058/mlt-esports-vs-revenant-esports-omen-challengers-league-2024-south-asia-split-1-w3"
+                    },
+                    {
+                        "match_id": "297054",
+                        "match_url": "https://www.vlr.gg/297054/mlt-esports-vs-carnival-gaming-omen-challengers-league-2024-south-asia-split-1-w3"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "8369",
+            "name": "Revenant Esports",
+            "details": {
+                "results": [
+                    {
+                        "match_id": "324722",
+                        "match_url": "https://www.vlr.gg/324722/orangutan-vs-revenant-esports-omen-challengers-league-2024-south-asia-split-1-w4"
+                    },
+                    {
+                        "match_id": "324718",
+                        "match_url": "https://www.vlr.gg/324718/revenant-esports-vs-grayfox-esports-omen-challengers-league-2024-south-asia-split-1-w3"
+                    },
+                    {
+                        "match_id": "324717",
+                        "match_url": "https://www.vlr.gg/324717/revenant-esports-vs-medal-esports-omen-challengers-league-2024-south-asia-split-1-w3"
+                    },
+                    {
+                        "match_id": "324711",
+                        "match_url": "https://www.vlr.gg/324711/revenant-esports-vs-reckoning-esports-omen-challengers-league-2024-south-asia-split-1-w2"
+                    },
+                    {
+                        "match_id": "324703",
+                        "match_url": "https://www.vlr.gg/324703/revenant-esports-vs-true-rippers-omen-challengers-league-2024-south-asia-split-1-w1"
+                    },
+                    {
+                        "match_id": "324701",
+                        "match_url": "https://www.vlr.gg/324701/carnival-gaming-vs-revenant-esports-omen-challengers-league-2024-south-asia-split-1-w1"
+                    },
+                    {
+                        "match_id": "314545",
+                        "match_url": "https://www.vlr.gg/314545/revenant-esports-vs-true-rippers-omen-challengers-league-2024-south-asia-split-1-lbf"
+                    }
+                ]
+            }
+        }
+    ],
+    "318936": [
+        {
+            "id": "397",
+            "name": "BBL Esports",
+            "details": {
+                "results": [
+                    {
+                        "match_id": "318933",
+                        "match_url": "https://www.vlr.gg/318933/bbl-esports-vs-natus-vincere-champions-tour-2024-emea-stage-1-w4"
+                    },
+                    {
+                        "match_id": "318926",
+                        "match_url": "https://www.vlr.gg/318926/bbl-esports-vs-team-heretics-champions-tour-2024-emea-stage-1-w3"
+                    },
+                    {
+                        "match_id": "318921",
+                        "match_url": "https://www.vlr.gg/318921/bbl-esports-vs-koi-champions-tour-2024-emea-stage-1-w2"
+                    },
+                    {
+                        "match_id": "318917",
+                        "match_url": "https://www.vlr.gg/318917/bbl-esports-vs-gentle-mates-champions-tour-2024-emea-stage-1-w1"
+                    },
+                    {
+                        "match_id": "297409",
+                        "match_url": "https://www.vlr.gg/297409/bbl-esports-vs-koi-champions-tour-2024-emea-kickoff-elim-b"
+                    },
+                    {
+                        "match_id": "297406",
+                        "match_url": "https://www.vlr.gg/297406/natus-vincere-vs-bbl-esports-champions-tour-2024-emea-kickoff-opening-b"
+                    },
+                    {
+                        "match_id": "294165",
+                        "match_url": "https://www.vlr.gg/294165/team-falcons-vs-bbl-esports-superdome-2023-egypt-main-event-gf"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "14419",
+            "name": "GIANTX",
+            "details": {
+                "results": [
+                    {
+                        "match_id": "318934",
+                        "match_url": "https://www.vlr.gg/318934/team-vitality-vs-giantx-champions-tour-2024-emea-stage-1-w4"
+                    },
+                    {
+                        "match_id": "318928",
+                        "match_url": "https://www.vlr.gg/318928/team-liquid-vs-giantx-champions-tour-2024-emea-stage-1-w3"
+                    },
+                    {
+                        "match_id": "318922",
+                        "match_url": "https://www.vlr.gg/318922/fnatic-vs-giantx-champions-tour-2024-emea-stage-1-w2"
+                    },
+                    {
+                        "match_id": "318911",
+                        "match_url": "https://www.vlr.gg/318911/karmine-corp-vs-giantx-champions-tour-2024-emea-stage-1-w1"
+                    },
+                    {
+                        "match_id": "297404",
+                        "match_url": "https://www.vlr.gg/297404/fut-esports-vs-giantx-champions-tour-2024-emea-kickoff-elim-a"
+                    },
+                    {
+                        "match_id": "297402",
+                        "match_url": "https://www.vlr.gg/297402/giantx-vs-karmine-corp-champions-tour-2024-emea-kickoff-opening-a"
+                    },
+                    {
+                        "match_id": "282839",
+                        "match_url": "https://www.vlr.gg/282839/giants-gaming-vs-ucam-tokiers-crossfire-cup-2023-finals-gf"
+                    }
+                ]
+            }
+        }
+    ],
+    "318937": [
+        {
+            "id": "8877",
+            "name": "Karmine Corp",
+            "details": {
+                "results": [
+                    {
+                        "match_id": "318935",
+                        "match_url": "https://www.vlr.gg/318935/karmine-corp-vs-koi-champions-tour-2024-emea-stage-1-w4"
+                    },
+                    {
+                        "match_id": "318925",
+                        "match_url": "https://www.vlr.gg/318925/karmine-corp-vs-natus-vincere-champions-tour-2024-emea-stage-1-w3"
+                    },
+                    {
+                        "match_id": "318923",
+                        "match_url": "https://www.vlr.gg/318923/karmine-corp-vs-gentle-mates-champions-tour-2024-emea-stage-1-w2"
+                    },
+                    {
+                        "match_id": "318918",
+                        "match_url": "https://www.vlr.gg/318918/karmine-corp-vs-fut-esports-champions-tour-2024-emea-stage-1-w2"
+                    },
+                    {
+                        "match_id": "318911",
+                        "match_url": "https://www.vlr.gg/318911/karmine-corp-vs-giantx-champions-tour-2024-emea-stage-1-w1"
+                    },
+                    {
+                        "match_id": "312802",
+                        "match_url": "https://www.vlr.gg/312802/karmine-corp-vs-paper-rex-champions-tour-2024-masters-madrid-swiss-stage-r3"
+                    },
+                    {
+                        "match_id": "312798",
+                        "match_url": "https://www.vlr.gg/312798/sentinels-vs-karmine-corp-champions-tour-2024-masters-madrid-swiss-stage-r2"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "1001",
+            "name": "Team Heretics",
+            "details": {
+                "results": [
+                    {
+                        "match_id": "318930",
+                        "match_url": "https://www.vlr.gg/318930/team-liquid-vs-team-heretics-champions-tour-2024-emea-stage-1-w4"
+                    },
+                    {
+                        "match_id": "318926",
+                        "match_url": "https://www.vlr.gg/318926/bbl-esports-vs-team-heretics-champions-tour-2024-emea-stage-1-w3"
+                    },
+                    {
+                        "match_id": "318919",
+                        "match_url": "https://www.vlr.gg/318919/team-vitality-vs-team-heretics-champions-tour-2024-emea-stage-1-w2"
+                    },
+                    {
+                        "match_id": "318915",
+                        "match_url": "https://www.vlr.gg/318915/fnatic-vs-team-heretics-champions-tour-2024-emea-stage-1-w1"
+                    },
+                    {
+                        "match_id": "312799",
+                        "match_url": "https://www.vlr.gg/312799/team-heretics-vs-paper-rex-champions-tour-2024-masters-madrid-swiss-stage-r2"
+                    },
+                    {
+                        "match_id": "312768",
+                        "match_url": "https://www.vlr.gg/312768/sentinels-vs-team-heretics-champions-tour-2024-masters-madrid-swiss-stage-r1"
+                    },
+                    {
+                        "match_id": "303095",
+                        "match_url": "https://www.vlr.gg/303095/team-heretics-vs-karmine-corp-champions-tour-2024-emea-kickoff-playoffs-gf"
+                    }
+                ]
+            }
+        }
+    ],
+    "324728": [
+        {
+            "id": "1033",
+            "name": "Reckoning Esports",
+            "details": {
+                "results": [
+                    {
+                        "match_id": "324723",
+                        "match_url": "https://www.vlr.gg/324723/reckoning-esports-vs-medal-esports-omen-challengers-league-2024-south-asia-split-1-w4"
+                    },
+                    {
+                        "match_id": "324720",
+                        "match_url": "https://www.vlr.gg/324720/carnival-gaming-vs-reckoning-esports-omen-challengers-league-2024-south-asia-split-1-w4"
+                    },
+                    {
+                        "match_id": "324716",
+                        "match_url": "https://www.vlr.gg/324716/reckoning-esports-vs-true-rippers-omen-challengers-league-2024-south-asia-split-1-w3"
+                    },
+                    {
+                        "match_id": "324711",
+                        "match_url": "https://www.vlr.gg/324711/revenant-esports-vs-reckoning-esports-omen-challengers-league-2024-south-asia-split-1-w2"
+                    },
+                    {
+                        "match_id": "324708",
+                        "match_url": "https://www.vlr.gg/324708/orangutan-vs-reckoning-esports-omen-challengers-league-2024-south-asia-split-1-w2"
+                    },
+                    {
+                        "match_id": "297059",
+                        "match_url": "https://www.vlr.gg/297059/reckoning-esports-vs-grayfox-esports-omen-challengers-league-2024-south-asia-split-1-w3"
+                    },
+                    {
+                        "match_id": "297055",
+                        "match_url": "https://www.vlr.gg/297055/reckoning-esports-vs-medal-esports-omen-challengers-league-2024-south-asia-split-1-w3"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "13368",
+            "name": "Grayfox Esports",
+            "details": {
+                "results": [
+                    {
+                        "match_id": "324725",
+                        "match_url": "https://www.vlr.gg/324725/carnival-gaming-vs-grayfox-esports-omen-challengers-league-2024-south-asia-split-1-w4"
+                    },
+                    {
+                        "match_id": "324718",
+                        "match_url": "https://www.vlr.gg/324718/revenant-esports-vs-grayfox-esports-omen-challengers-league-2024-south-asia-split-1-w3"
+                    },
+                    {
+                        "match_id": "324710",
+                        "match_url": "https://www.vlr.gg/324710/mlt-esports-vs-grayfox-esports-omen-challengers-league-2024-south-asia-split-1-w2"
+                    },
+                    {
+                        "match_id": "324709",
+                        "match_url": "https://www.vlr.gg/324709/medal-esports-vs-grayfox-esports-omen-challengers-league-2024-south-asia-split-1-w2"
+                    },
+                    {
+                        "match_id": "324707",
+                        "match_url": "https://www.vlr.gg/324707/true-rippers-vs-grayfox-esports-omen-challengers-league-2024-south-asia-split-1-w2"
+                    },
+                    {
+                        "match_id": "314547",
+                        "match_url": "https://www.vlr.gg/314547/grayfox-esports-vs-true-rippers-omen-challengers-league-2024-south-asia-split-1-gf"
+                    },
+                    {
+                        "match_id": "314542",
+                        "match_url": "https://www.vlr.gg/314542/revenant-esports-vs-grayfox-esports-omen-challengers-league-2024-south-asia-split-1-ubf"
+                    }
+                ]
+            }
+        }
+    ],
+    "319789": [
+        {
+            "id": "1120",
+            "name": "EDward Gaming",
+            "details": {
+                "results": [
+                    {
+                        "match_id": "319782",
+                        "match_url": "https://www.vlr.gg/319782/edward-gaming-vs-titan-esports-club-champions-tour-2024-china-stage-1-w3"
+                    },
+                    {
+                        "match_id": "319776",
+                        "match_url": "https://www.vlr.gg/319776/tyloo-vs-edward-gaming-champions-tour-2024-china-stage-1-w2"
+                    },
+                    {
+                        "match_id": "319768",
+                        "match_url": "https://www.vlr.gg/319768/edward-gaming-vs-jd-gaming-champions-tour-2024-china-stage-1-w1"
+                    },
+                    {
+                        "match_id": "312803",
+                        "match_url": "https://www.vlr.gg/312803/loud-vs-edward-gaming-champions-tour-2024-masters-madrid-swiss-stage-r3"
+                    },
+                    {
+                        "match_id": "312797",
+                        "match_url": "https://www.vlr.gg/312797/edward-gaming-vs-gen-g-champions-tour-2024-masters-madrid-swiss-stage-r2"
+                    },
+                    {
+                        "match_id": "312767",
+                        "match_url": "https://www.vlr.gg/312767/edward-gaming-vs-paper-rex-champions-tour-2024-masters-madrid-swiss-stage-r1"
+                    },
+                    {
+                        "match_id": "298835",
+                        "match_url": "https://www.vlr.gg/298835/funplus-phoenix-vs-edward-gaming-champions-tour-2024-china-kickoff-gf"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "1119",
+            "name": "All Gamers",
+            "details": {
+                "results": [
+                    {
+                        "match_id": "319779",
+                        "match_url": "https://www.vlr.gg/319779/bilibili-gaming-vs-all-gamers-champions-tour-2024-china-stage-1-w3"
+                    },
+                    {
+                        "match_id": "319773",
+                        "match_url": "https://www.vlr.gg/319773/all-gamers-vs-wolves-esports-champions-tour-2024-china-stage-1-w2"
+                    },
+                    {
+                        "match_id": "319767",
+                        "match_url": "https://www.vlr.gg/319767/dragon-ranger-gaming-vs-all-gamers-champions-tour-2024-china-stage-1-w1"
+                    },
+                    {
+                        "match_id": "298695",
+                        "match_url": "https://www.vlr.gg/298695/jd-gaming-vs-all-gamers-champions-tour-2024-china-kickoff-elim-b"
+                    },
+                    {
+                        "match_id": "298693",
+                        "match_url": "https://www.vlr.gg/298693/dragon-ranger-gaming-vs-all-gamers-champions-tour-2024-china-kickoff-opening-b"
+                    },
+                    {
+                        "match_id": "284230",
+                        "match_url": "https://www.vlr.gg/284230/all-gamers-vs-lgd-gaming-china-evolution-series-act-3-heriability-decider-d"
+                    },
+                    {
+                        "match_id": "284228",
+                        "match_url": "https://www.vlr.gg/284228/funplus-phoenix-vs-all-gamers-china-evolution-series-act-3-heriability-winners-d"
+                    }
+                ]
+            }
+        }
+    ],
+    "324729": [
+        {
+            "id": "14819",
+            "name": "Carnival Gaming",
+            "details": {
+                "results": [
+                    {
+                        "match_id": "324725",
+                        "match_url": "https://www.vlr.gg/324725/carnival-gaming-vs-grayfox-esports-omen-challengers-league-2024-south-asia-split-1-w4"
+                    },
+                    {
+                        "match_id": "324720",
+                        "match_url": "https://www.vlr.gg/324720/carnival-gaming-vs-reckoning-esports-omen-challengers-league-2024-south-asia-split-1-w4"
+                    },
+                    {
+                        "match_id": "324706",
+                        "match_url": "https://www.vlr.gg/324706/carnival-gaming-vs-orangutan-omen-challengers-league-2024-south-asia-split-1-w2"
+                    },
+                    {
+                        "match_id": "324704",
+                        "match_url": "https://www.vlr.gg/324704/carnival-gaming-vs-mlt-esports-omen-challengers-league-2024-south-asia-split-1-w1"
+                    },
+                    {
+                        "match_id": "324701",
+                        "match_url": "https://www.vlr.gg/324701/carnival-gaming-vs-revenant-esports-omen-challengers-league-2024-south-asia-split-1-w1"
+                    },
+                    {
+                        "match_id": "297054",
+                        "match_url": "https://www.vlr.gg/297054/mlt-esports-vs-carnival-gaming-omen-challengers-league-2024-south-asia-split-1-w3"
+                    },
+                    {
+                        "match_id": "297052",
+                        "match_url": "https://www.vlr.gg/297052/carnival-gaming-vs-reckoning-esports-omen-challengers-league-2024-south-asia-split-1-w3"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "8484",
+            "name": "Medal Esports",
+            "details": {
+                "results": [
+                    {
+                        "match_id": "324723",
+                        "match_url": "https://www.vlr.gg/324723/reckoning-esports-vs-medal-esports-omen-challengers-league-2024-south-asia-split-1-w4"
+                    },
+                    {
+                        "match_id": "324719",
+                        "match_url": "https://www.vlr.gg/324719/true-rippers-vs-medal-esports-omen-challengers-league-2024-south-asia-split-1-w3"
+                    },
+                    {
+                        "match_id": "324717",
+                        "match_url": "https://www.vlr.gg/324717/revenant-esports-vs-medal-esports-omen-challengers-league-2024-south-asia-split-1-w3"
+                    },
+                    {
+                        "match_id": "324709",
+                        "match_url": "https://www.vlr.gg/324709/medal-esports-vs-grayfox-esports-omen-challengers-league-2024-south-asia-split-1-w2"
+                    },
+                    {
+                        "match_id": "324702",
+                        "match_url": "https://www.vlr.gg/324702/mlt-esports-vs-medal-esports-omen-challengers-league-2024-south-asia-split-1-w1"
+                    },
+                    {
+                        "match_id": "324700",
+                        "match_url": "https://www.vlr.gg/324700/orangutan-vs-medal-esports-omen-challengers-league-2024-south-asia-split-1-w1"
+                    },
+                    {
+                        "match_id": "314543",
+                        "match_url": "https://www.vlr.gg/314543/true-rippers-vs-medal-esports-omen-challengers-league-2024-south-asia-split-1-lr1"
+                    }
+                ]
+            }
+        }
+    ],
+    "318938": [
+        {
+            "id": "2059",
+            "name": "Team Vitality",
+            "details": {
+                "results": [
+                    {
+                        "match_id": "318934",
+                        "match_url": "https://www.vlr.gg/318934/team-vitality-vs-giantx-champions-tour-2024-emea-stage-1-w4"
+                    },
+                    {
+                        "match_id": "318931",
+                        "match_url": "https://www.vlr.gg/318931/team-vitality-vs-gentle-mates-champions-tour-2024-emea-stage-1-w4"
+                    },
+                    {
+                        "match_id": "318927",
+                        "match_url": "https://www.vlr.gg/318927/team-vitality-vs-fut-esports-champions-tour-2024-emea-stage-1-w3"
+                    },
+                    {
+                        "match_id": "318919",
+                        "match_url": "https://www.vlr.gg/318919/team-vitality-vs-team-heretics-champions-tour-2024-emea-stage-1-w2"
+                    },
+                    {
+                        "match_id": "318914",
+                        "match_url": "https://www.vlr.gg/318914/team-vitality-vs-natus-vincere-champions-tour-2024-emea-stage-1-w1"
+                    },
+                    {
+                        "match_id": "307565",
+                        "match_url": "https://www.vlr.gg/307565/koi-vs-team-vitality-champions-tour-2024-emea-kickoff-play-in-stage-play-ins"
+                    },
+                    {
+                        "match_id": "307567",
+                        "match_url": "https://www.vlr.gg/307567/karmine-corp-vs-team-vitality-champions-tour-2024-emea-kickoff-play-in-stage-play-ins"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "7035",
+            "name": "KOI",
+            "details": {
+                "results": [
+                    {
+                        "match_id": "318935",
+                        "match_url": "https://www.vlr.gg/318935/karmine-corp-vs-koi-champions-tour-2024-emea-stage-1-w4"
+                    },
+                    {
+                        "match_id": "318929",
+                        "match_url": "https://www.vlr.gg/318929/fnatic-vs-koi-champions-tour-2024-emea-stage-1-w3"
+                    },
+                    {
+                        "match_id": "318921",
+                        "match_url": "https://www.vlr.gg/318921/bbl-esports-vs-koi-champions-tour-2024-emea-stage-1-w2"
+                    },
+                    {
+                        "match_id": "318913",
+                        "match_url": "https://www.vlr.gg/318913/koi-vs-team-liquid-champions-tour-2024-emea-stage-1-w1"
+                    },
+                    {
+                        "match_id": "307564",
+                        "match_url": "https://www.vlr.gg/307564/karmine-corp-vs-koi-champions-tour-2024-emea-kickoff-play-in-stage-play-ins"
+                    },
+                    {
+                        "match_id": "307565",
+                        "match_url": "https://www.vlr.gg/307565/koi-vs-team-vitality-champions-tour-2024-emea-kickoff-play-in-stage-play-ins"
+                    },
+                    {
+                        "match_id": "297410",
+                        "match_url": "https://www.vlr.gg/297410/team-liquid-vs-koi-champions-tour-2024-emea-kickoff-decider-b"
+                    }
+                ]
+            }
+        }
+    ],
+    "318939": [
+        {
+            "id": "4915",
+            "name": "Natus Vincere",
+            "details": {
+                "results": [
+                    {
+                        "match_id": "318933",
+                        "match_url": "https://www.vlr.gg/318933/bbl-esports-vs-natus-vincere-champions-tour-2024-emea-stage-1-w4"
+                    },
+                    {
+                        "match_id": "318925",
+                        "match_url": "https://www.vlr.gg/318925/karmine-corp-vs-natus-vincere-champions-tour-2024-emea-stage-1-w3"
+                    },
+                    {
+                        "match_id": "318920",
+                        "match_url": "https://www.vlr.gg/318920/team-liquid-vs-natus-vincere-champions-tour-2024-emea-stage-1-w2"
+                    },
+                    {
+                        "match_id": "318914",
+                        "match_url": "https://www.vlr.gg/318914/team-vitality-vs-natus-vincere-champions-tour-2024-emea-stage-1-w1"
+                    },
+                    {
+                        "match_id": "303093",
+                        "match_url": "https://www.vlr.gg/303093/team-heretics-vs-natus-vincere-champions-tour-2024-emea-kickoff-playoffs-sf"
+                    },
+                    {
+                        "match_id": "297408",
+                        "match_url": "https://www.vlr.gg/297408/natus-vincere-vs-team-liquid-champions-tour-2024-emea-kickoff-winners-b"
+                    },
+                    {
+                        "match_id": "297406",
+                        "match_url": "https://www.vlr.gg/297406/natus-vincere-vs-bbl-esports-champions-tour-2024-emea-kickoff-opening-b"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "2593",
+            "name": "FNATIC",
+            "details": {
+                "results": [
+                    {
+                        "match_id": "318932",
+                        "match_url": "https://www.vlr.gg/318932/fnatic-vs-fut-esports-champions-tour-2024-emea-stage-1-w4"
+                    },
+                    {
+                        "match_id": "318929",
+                        "match_url": "https://www.vlr.gg/318929/fnatic-vs-koi-champions-tour-2024-emea-stage-1-w3"
+                    },
+                    {
+                        "match_id": "318924",
+                        "match_url": "https://www.vlr.gg/318924/gentle-mates-vs-fnatic-champions-tour-2024-emea-stage-1-w3"
+                    },
+                    {
+                        "match_id": "318922",
+                        "match_url": "https://www.vlr.gg/318922/fnatic-vs-giantx-champions-tour-2024-emea-stage-1-w2"
+                    },
+                    {
+                        "match_id": "318915",
+                        "match_url": "https://www.vlr.gg/318915/fnatic-vs-team-heretics-champions-tour-2024-emea-stage-1-w1"
+                    },
+                    {
+                        "match_id": "303094",
+                        "match_url": "https://www.vlr.gg/303094/fnatic-vs-karmine-corp-champions-tour-2024-emea-kickoff-playoffs-sf"
+                    },
+                    {
+                        "match_id": "297414",
+                        "match_url": "https://www.vlr.gg/297414/team-vitality-vs-fnatic-champions-tour-2024-emea-kickoff-winners-c"
+                    }
+                ]
+            }
+        }
+    ],
+    "319790": [
+        {
+            "id": "13790",
+            "name": "Wolves Esports",
+            "details": {
+                "results": [
+                    {
+                        "match_id": "319777",
+                        "match_url": "https://www.vlr.gg/319777/wolves-esports-vs-trace-esports-champions-tour-2024-china-stage-1-w3"
+                    },
+                    {
+                        "match_id": "319773",
+                        "match_url": "https://www.vlr.gg/319773/all-gamers-vs-wolves-esports-champions-tour-2024-china-stage-1-w2"
+                    },
+                    {
+                        "match_id": "319770",
+                        "match_url": "https://www.vlr.gg/319770/funplus-phoenix-vs-wolves-esports-champions-tour-2024-china-stage-1-w1"
+                    },
+                    {
+                        "match_id": "319766",
+                        "match_url": "https://www.vlr.gg/319766/wolves-esports-vs-titan-esports-club-champions-tour-2024-china-stage-1-w1"
+                    },
+                    {
+                        "match_id": "298699",
+                        "match_url": "https://www.vlr.gg/298699/wolves-esports-vs-bilibili-gaming-champions-tour-2024-china-kickoff-decider-c"
+                    },
+                    {
+                        "match_id": "298698",
+                        "match_url": "https://www.vlr.gg/298698/wolves-esports-vs-edward-gaming-champions-tour-2024-china-kickoff-winners-c"
+                    },
+                    {
+                        "match_id": "298697",
+                        "match_url": "https://www.vlr.gg/298697/bilibili-gaming-vs-wolves-esports-champions-tour-2024-china-kickoff-opening-c"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "13576",
+            "name": "JD Gaming",
+            "details": {
+                "results": [
+                    {
+                        "match_id": "319780",
+                        "match_url": "https://www.vlr.gg/319780/dragon-ranger-gaming-vs-jd-gaming-champions-tour-2024-china-stage-1-w3"
+                    },
+                    {
+                        "match_id": "319771",
+                        "match_url": "https://www.vlr.gg/319771/jd-gaming-vs-nova-esports-champions-tour-2024-china-stage-1-w2"
+                    },
+                    {
+                        "match_id": "319768",
+                        "match_url": "https://www.vlr.gg/319768/edward-gaming-vs-jd-gaming-champions-tour-2024-china-stage-1-w1"
+                    },
+                    {
+                        "match_id": "298696",
+                        "match_url": "https://www.vlr.gg/298696/titan-esports-club-vs-jd-gaming-champions-tour-2024-china-kickoff-decider-b"
+                    },
+                    {
+                        "match_id": "298695",
+                        "match_url": "https://www.vlr.gg/298695/jd-gaming-vs-all-gamers-champions-tour-2024-china-kickoff-elim-b"
+                    },
+                    {
+                        "match_id": "298692",
+                        "match_url": "https://www.vlr.gg/298692/jd-gaming-vs-titan-esports-club-champions-tour-2024-china-kickoff-opening-b"
+                    },
+                    {
+                        "match_id": "292033",
+                        "match_url": "https://www.vlr.gg/292033/rare-atom-vs-dragon-ranger-gaming-champions-tour-2023-china-ascension-gf"
+                    }
+                ]
+            }
+        }
+    ],
+    "318940": [
+        {
+            "id": "474",
+            "name": "Team Liquid",
+            "details": {
+                "results": [
+                    {
+                        "match_id": "318930",
+                        "match_url": "https://www.vlr.gg/318930/team-liquid-vs-team-heretics-champions-tour-2024-emea-stage-1-w4"
+                    },
+                    {
+                        "match_id": "318928",
+                        "match_url": "https://www.vlr.gg/318928/team-liquid-vs-giantx-champions-tour-2024-emea-stage-1-w3"
+                    },
+                    {
+                        "match_id": "318920",
+                        "match_url": "https://www.vlr.gg/318920/team-liquid-vs-natus-vincere-champions-tour-2024-emea-stage-1-w2"
+                    },
+                    {
+                        "match_id": "318916",
+                        "match_url": "https://www.vlr.gg/318916/team-liquid-vs-fut-esports-champions-tour-2024-emea-stage-1-w1"
+                    },
+                    {
+                        "match_id": "318913",
+                        "match_url": "https://www.vlr.gg/318913/koi-vs-team-liquid-champions-tour-2024-emea-stage-1-w1"
+                    },
+                    {
+                        "match_id": "297410",
+                        "match_url": "https://www.vlr.gg/297410/team-liquid-vs-koi-champions-tour-2024-emea-kickoff-decider-b"
+                    },
+                    {
+                        "match_id": "297408",
+                        "match_url": "https://www.vlr.gg/297408/natus-vincere-vs-team-liquid-champions-tour-2024-emea-kickoff-winners-b"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "12694",
+            "name": "Gentle Mates",
+            "details": {
+                "results": [
+                    {
+                        "match_id": "318931",
+                        "match_url": "https://www.vlr.gg/318931/team-vitality-vs-gentle-mates-champions-tour-2024-emea-stage-1-w4"
+                    },
+                    {
+                        "match_id": "318924",
+                        "match_url": "https://www.vlr.gg/318924/gentle-mates-vs-fnatic-champions-tour-2024-emea-stage-1-w3"
+                    },
+                    {
+                        "match_id": "318923",
+                        "match_url": "https://www.vlr.gg/318923/karmine-corp-vs-gentle-mates-champions-tour-2024-emea-stage-1-w2"
+                    },
+                    {
+                        "match_id": "318917",
+                        "match_url": "https://www.vlr.gg/318917/bbl-esports-vs-gentle-mates-champions-tour-2024-emea-stage-1-w1"
+                    },
+                    {
+                        "match_id": "297416",
+                        "match_url": "https://www.vlr.gg/297416/team-vitality-vs-gentle-mates-champions-tour-2024-emea-kickoff-decider-c"
+                    },
+                    {
+                        "match_id": "297412",
+                        "match_url": "https://www.vlr.gg/297412/team-vitality-vs-gentle-mates-champions-tour-2024-emea-kickoff-opening-c"
+                    },
+                    {
+                        "match_id": "237652",
+                        "match_url": "https://www.vlr.gg/237652/apeks-vs-gentle-mates-champions-tour-2023-emea-ascension-gf"
+                    }
+                ]
+            }
+        }
+    ],
+    "318941": [
+        {
+            "id": "397",
+            "name": "BBL Esports",
+            "details": {
+                "results": [
+                    {
+                        "match_id": "318933",
+                        "match_url": "https://www.vlr.gg/318933/bbl-esports-vs-natus-vincere-champions-tour-2024-emea-stage-1-w4"
+                    },
+                    {
+                        "match_id": "318926",
+                        "match_url": "https://www.vlr.gg/318926/bbl-esports-vs-team-heretics-champions-tour-2024-emea-stage-1-w3"
+                    },
+                    {
+                        "match_id": "318921",
+                        "match_url": "https://www.vlr.gg/318921/bbl-esports-vs-koi-champions-tour-2024-emea-stage-1-w2"
+                    },
+                    {
+                        "match_id": "318917",
+                        "match_url": "https://www.vlr.gg/318917/bbl-esports-vs-gentle-mates-champions-tour-2024-emea-stage-1-w1"
+                    },
+                    {
+                        "match_id": "297409",
+                        "match_url": "https://www.vlr.gg/297409/bbl-esports-vs-koi-champions-tour-2024-emea-kickoff-elim-b"
+                    },
+                    {
+                        "match_id": "297406",
+                        "match_url": "https://www.vlr.gg/297406/natus-vincere-vs-bbl-esports-champions-tour-2024-emea-kickoff-opening-b"
+                    },
+                    {
+                        "match_id": "294165",
+                        "match_url": "https://www.vlr.gg/294165/team-falcons-vs-bbl-esports-superdome-2023-egypt-main-event-gf"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "1184",
+            "name": "FUT Esports",
+            "details": {
+                "results": [
+                    {
+                        "match_id": "318932",
+                        "match_url": "https://www.vlr.gg/318932/fnatic-vs-fut-esports-champions-tour-2024-emea-stage-1-w4"
+                    },
+                    {
+                        "match_id": "318927",
+                        "match_url": "https://www.vlr.gg/318927/team-vitality-vs-fut-esports-champions-tour-2024-emea-stage-1-w3"
+                    },
+                    {
+                        "match_id": "318918",
+                        "match_url": "https://www.vlr.gg/318918/karmine-corp-vs-fut-esports-champions-tour-2024-emea-stage-1-w2"
+                    },
+                    {
+                        "match_id": "318916",
+                        "match_url": "https://www.vlr.gg/318916/team-liquid-vs-fut-esports-champions-tour-2024-emea-stage-1-w1"
+                    },
+                    {
+                        "match_id": "297405",
+                        "match_url": "https://www.vlr.gg/297405/karmine-corp-vs-fut-esports-champions-tour-2024-emea-kickoff-decider-a"
+                    },
+                    {
+                        "match_id": "297404",
+                        "match_url": "https://www.vlr.gg/297404/fut-esports-vs-giantx-champions-tour-2024-emea-kickoff-elim-a"
+                    },
+                    {
+                        "match_id": "297401",
+                        "match_url": "https://www.vlr.gg/297401/fut-esports-vs-team-heretics-champions-tour-2024-emea-kickoff-opening-a"
+                    }
+                ]
+            }
+        }
+    ],
+    "314650": [
+        {
+            "id": "2",
+            "name": "Sentinels",
+            "details": {
+                "results": [
+                    {
+                        "match_id": "314640",
+                        "match_url": "https://www.vlr.gg/314640/sentinels-vs-evil-geniuses-champions-tour-2024-americas-stage-1-w3"
+                    },
+                    {
+                        "match_id": "314634",
+                        "match_url": "https://www.vlr.gg/314634/sentinels-vs-mibr-champions-tour-2024-americas-stage-1-w3"
+                    },
+                    {
+                        "match_id": "314629",
+                        "match_url": "https://www.vlr.gg/314629/sentinels-vs-leviat-n-champions-tour-2024-americas-stage-1-w2"
+                    },
+                    {
+                        "match_id": "314625",
+                        "match_url": "https://www.vlr.gg/314625/sentinels-vs-100-thieves-champions-tour-2024-americas-stage-1-w1"
+                    },
+                    {
+                        "match_id": "312779",
+                        "match_url": "https://www.vlr.gg/312779/gen-g-vs-sentinels-champions-tour-2024-masters-madrid-gf"
+                    },
+                    {
+                        "match_id": "312781",
+                        "match_url": "https://www.vlr.gg/312781/sentinels-vs-paper-rex-champions-tour-2024-masters-madrid-lbf"
+                    },
+                    {
+                        "match_id": "312778",
+                        "match_url": "https://www.vlr.gg/312778/gen-g-vs-sentinels-champions-tour-2024-masters-madrid-ubf"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "2406",
+            "name": "FURIA",
+            "details": {
+                "results": [
+                    {
+                        "match_id": "314638",
+                        "match_url": "https://www.vlr.gg/314638/g2-esports-vs-furia-champions-tour-2024-americas-stage-1-w3"
+                    },
+                    {
+                        "match_id": "314631",
+                        "match_url": "https://www.vlr.gg/314631/nrg-esports-vs-furia-champions-tour-2024-americas-stage-1-w2"
+                    },
+                    {
+                        "match_id": "314626",
+                        "match_url": "https://www.vlr.gg/314626/kr-esports-vs-furia-champions-tour-2024-americas-stage-1-w1"
+                    },
+                    {
+                        "match_id": "295608",
+                        "match_url": "https://www.vlr.gg/295608/furia-vs-mibr-champions-tour-2024-americas-kickoff-elim-a"
+                    },
+                    {
+                        "match_id": "295605",
+                        "match_url": "https://www.vlr.gg/295605/nrg-esports-vs-furia-champions-tour-2024-americas-kickoff-opening-a"
+                    },
+                    {
+                        "match_id": "289452",
+                        "match_url": "https://www.vlr.gg/289452/global-esports-vs-furia-convergence-2023-d3"
+                    },
+                    {
+                        "match_id": "289450",
+                        "match_url": "https://www.vlr.gg/289450/furia-vs-team-vitality-convergence-2023-d2"
+                    }
+                ]
+            }
+        }
+    ],
+    "319791": [
+        {
+            "id": "11981",
+            "name": "Dragon Ranger Gaming",
+            "details": {
+                "results": [
+                    {
+                        "match_id": "319784",
+                        "match_url": "https://www.vlr.gg/319784/trace-esports-vs-dragon-ranger-gaming-champions-tour-2024-china-stage-1-w4"
+                    },
+                    {
+                        "match_id": "319780",
+                        "match_url": "https://www.vlr.gg/319780/dragon-ranger-gaming-vs-jd-gaming-champions-tour-2024-china-stage-1-w3"
+                    },
+                    {
+                        "match_id": "319775",
+                        "match_url": "https://www.vlr.gg/319775/dragon-ranger-gaming-vs-titan-esports-club-champions-tour-2024-china-stage-1-w2"
+                    },
+                    {
+                        "match_id": "319772",
+                        "match_url": "https://www.vlr.gg/319772/funplus-phoenix-vs-dragon-ranger-gaming-champions-tour-2024-china-stage-1-w2"
+                    },
+                    {
+                        "match_id": "319767",
+                        "match_url": "https://www.vlr.gg/319767/dragon-ranger-gaming-vs-all-gamers-champions-tour-2024-china-stage-1-w1"
+                    },
+                    {
+                        "match_id": "298833",
+                        "match_url": "https://www.vlr.gg/298833/funplus-phoenix-vs-dragon-ranger-gaming-champions-tour-2024-china-kickoff-sf"
+                    },
+                    {
+                        "match_id": "298694",
+                        "match_url": "https://www.vlr.gg/298694/titan-esports-club-vs-dragon-ranger-gaming-champions-tour-2024-china-kickoff-winners-b"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "731",
+            "name": "TYLOO",
+            "details": {
+                "results": [
+                    {
+                        "match_id": "319781",
+                        "match_url": "https://www.vlr.gg/319781/tyloo-vs-nova-esports-champions-tour-2024-china-stage-1-w3"
+                    },
+                    {
+                        "match_id": "319776",
+                        "match_url": "https://www.vlr.gg/319776/tyloo-vs-edward-gaming-champions-tour-2024-china-stage-1-w2"
+                    },
+                    {
+                        "match_id": "319765",
+                        "match_url": "https://www.vlr.gg/319765/bilibili-gaming-vs-tyloo-champions-tour-2024-china-stage-1-w1"
+                    },
+                    {
+                        "match_id": "298690",
+                        "match_url": "https://www.vlr.gg/298690/tyloo-vs-nova-esports-champions-tour-2024-china-kickoff-elim-a"
+                    },
+                    {
+                        "match_id": "298687",
+                        "match_url": "https://www.vlr.gg/298687/trace-esports-vs-tyloo-champions-tour-2024-china-kickoff-opening-a"
+                    },
+                    {
+                        "match_id": "283403",
+                        "match_url": "https://www.vlr.gg/283403/tyloo-vs-lgd-gaming-china-evolution-series-act-3-heriability-oq-h-sf"
+                    },
+                    {
+                        "match_id": "279103",
+                        "match_url": "https://www.vlr.gg/279103/tyloo-vs-funplus-phoenix-china-evolution-series-act-2-selection-elim-b"
+                    }
+                ]
+            }
+        }
+    ]
+}
