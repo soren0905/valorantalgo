@@ -52,13 +52,15 @@ def main():
         "sunset": "https://www.vlr.gg/stats/?event_group_id=all&event_id=all&region=all&country=all&min_rounds=0&min_rating=0&agent=all&map_id=12&timespan=90d"
     }
 
+    json_dir = r'C:\Users\soren\Projects\ValAlgo\data\JSON\map_stats'  # Corrected path
+    csv_dir = r'C:\Users\soren\Projects\ValAlgo\data\CSV\map_stats'  # Corrected path
+
     for map_name, url in maps.items():
         player_stats = fetch_player_stats(url)
-        json_dir = r'/data/JSON/map_stats'
-        csv_dir = r'/data/CSV/map_stats'
         json_path = os.path.join(json_dir, f'{map_name}_stats.json')
         csv_path = os.path.join(csv_dir, f'{map_name}_stats.csv')
         save_data(player_stats, json_path, csv_path)
+
 
 if __name__ == '__main__':
     main()

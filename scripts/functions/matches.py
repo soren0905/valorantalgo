@@ -66,7 +66,7 @@ def save_to_excel(dataframe, filename):
 
     # Set the title cells for the map names
     map_ranges = ['C3:D3', 'E3:F3', 'G3:H3', 'I3:J3', 'K3:L3', 'M3:N3', 'O3:P3']
-    map_names = ['Ascent', 'Bind', 'Breeze', 'Icebox', 'Lotus', 'Split', 'Sunset']
+    map_names = ['Ascent', 'Bind', 'Icebox', 'Lotus', 'Split', 'Breeze', 'Sunset']
     for map_range, map_name in zip(map_ranges, map_names):
         start_column = ord(map_range.split(':')[0][0]) - 64
         ws.merge_cells(start_row=start_row-1, start_column=start_column, end_row=start_row-1, end_column=start_column+1)

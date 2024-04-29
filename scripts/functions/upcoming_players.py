@@ -42,9 +42,8 @@ def save_data(data, json_path, csv_path):
         print("No data to save to CSV.")
 
 def main():
-    # Get the absolute path to the 'data' directory relative to this script
-    script_dir = os.path.dirname(os.path.realpath(__file__))
-    data_dir = os.path.join(script_dir, '..', 'data')  # Adjust the path as necessary
+    # Use the correct directory path directly
+    data_dir = 'C:\\Users\\soren\\Projects\\ValAlgo\\data'  # Windows path with escaped backslashes
 
     json_path = os.path.join(data_dir, 'JSON', 'upcoming_players.json')
     csv_path = os.path.join(data_dir, 'CSV', 'upcoming_players.csv')
@@ -57,6 +56,7 @@ def main():
     all_teams = load_data(all_teams_path)
     if not upcoming_matches or not all_teams:
         return  # Exit if data could not be loaded
+
 
     team_name_to_id = {team['name']: team['id'] for team in all_teams}
 

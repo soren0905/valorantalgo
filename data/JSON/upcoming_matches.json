@@ -1,173 +1,5 @@
 [
     {
-        "id": "314325",
-        "teams": [
-            {
-                "name": "BLEED"
-            },
-            {
-                "name": "Paper Rex"
-            }
-        ],
-        "status": "Upcoming"
-    },
-    {
-        "id": "319785",
-        "teams": [
-            {
-                "name": "TYLOO"
-            },
-            {
-                "name": "Wolves Esports"
-            }
-        ],
-        "status": "Upcoming"
-    },
-    {
-        "id": "314326",
-        "teams": [
-            {
-                "name": "Global Esports"
-            },
-            {
-                "name": "DetonatioN FocusMe"
-            }
-        ],
-        "status": "Upcoming"
-    },
-    {
-        "id": "319786",
-        "teams": [
-            {
-                "name": "FunPlus Phoenix"
-            },
-            {
-                "name": "EDward Gaming"
-            }
-        ],
-        "status": "Upcoming"
-    },
-    {
-        "id": "314644",
-        "teams": [
-            {
-                "name": "G2 Esports"
-            },
-            {
-                "name": "MIBR"
-            }
-        ],
-        "status": "Upcoming"
-    },
-    {
-        "id": "314645",
-        "teams": [
-            {
-                "name": "Sentinels"
-            },
-            {
-                "name": "LOUD"
-            }
-        ],
-        "status": "Upcoming"
-    },
-    {
-        "id": "314327",
-        "teams": [
-            {
-                "name": "T1"
-            },
-            {
-                "name": "ZETA DIVISION"
-            }
-        ],
-        "status": "Upcoming"
-    },
-    {
-        "id": "319787",
-        "teams": [
-            {
-                "name": "All Gamers"
-            },
-            {
-                "name": "Nova Esports"
-            }
-        ],
-        "status": "Upcoming"
-    },
-    {
-        "id": "314328",
-        "teams": [
-            {
-                "name": "Team Secret"
-            },
-            {
-                "name": "Talon Esports"
-            }
-        ],
-        "status": "Upcoming"
-    },
-    {
-        "id": "319788",
-        "teams": [
-            {
-                "name": "Bilibili Gaming"
-            },
-            {
-                "name": "JD Gaming"
-            }
-        ],
-        "status": "Upcoming"
-    },
-    {
-        "id": "314646",
-        "teams": [
-            {
-                "name": "Cloud9"
-            },
-            {
-                "name": "FURIA"
-            }
-        ],
-        "status": "Upcoming"
-    },
-    {
-        "id": "314647",
-        "teams": [
-            {
-                "name": "NRG Esports"
-            },
-            {
-                "name": "Evil Geniuses"
-            }
-        ],
-        "status": "Upcoming"
-    },
-    {
-        "id": "314329",
-        "teams": [
-            {
-                "name": "BLEED"
-            },
-            {
-                "name": "DRX"
-            }
-        ],
-        "status": "Upcoming"
-    },
-    {
-        "id": "314330",
-        "teams": [
-            {
-                "name": "Gen.G"
-            },
-            {
-                "name": "Rex Regum Qeon"
-            }
-        ],
-        "status": "Upcoming"
-    },
-    {
         "id": "314648",
         "teams": [
             {
@@ -177,7 +9,7 @@
                 "name": "100 Thieves"
             }
         ],
-        "status": "Upcoming"
+        "status": "LIVE"
     },
     {
         "id": "334296",
@@ -192,13 +24,13 @@
         "status": "Upcoming"
     },
     {
-        "id": "325996",
+        "id": "325990",
         "teams": [
             {
-                "name": "JFT"
+                "name": "Arena Internet Cafe"
             },
             {
-                "name": "BOBO"
+                "name": "JiJieHao"
             }
         ],
         "status": "Upcoming"
@@ -228,13 +60,13 @@
         "status": "Upcoming"
     },
     {
-        "id": "325990",
+        "id": "325996",
         "teams": [
             {
-                "name": "Arena Internet Cafe"
+                "name": "JFT"
             },
             {
-                "name": "JiJieHao"
+                "name": "BOBO"
             }
         ],
         "status": "Upcoming"
@@ -348,6 +180,30 @@
         "status": "Upcoming"
     },
     {
+        "id": "335774",
+        "teams": [
+            {
+                "name": "Zen Esports GC"
+            },
+            {
+                "name": "ROYAL ONSLAUGHT GAMING"
+            }
+        ],
+        "status": "Upcoming"
+    },
+    {
+        "id": "335407",
+        "teams": [
+            {
+                "name": "Bon Bon Bum Contra GC"
+            },
+            {
+                "name": "Kunai Esports FEM"
+            }
+        ],
+        "status": "Upcoming"
+    },
+    {
         "id": "324728",
         "teams": [
             {
@@ -408,6 +264,30 @@
         "status": "Upcoming"
     },
     {
+        "id": "329907",
+        "teams": [
+            {
+                "name": "Team Secret"
+            },
+            {
+                "name": "T1"
+            }
+        ],
+        "status": "Upcoming"
+    },
+    {
+        "id": "329908",
+        "teams": [
+            {
+                "name": "Paper Rex"
+            },
+            {
+                "name": "Talon Esports"
+            }
+        ],
+        "status": "Upcoming"
+    },
+    {
         "id": "319790",
         "teams": [
             {
@@ -463,6 +343,90 @@
             },
             {
                 "name": "TYLOO"
+            }
+        ],
+        "status": "Upcoming"
+    },
+    {
+        "id": "333788",
+        "teams": [
+            {
+                "name": "FOKUS"
+            },
+            {
+                "name": "SK Gaming"
+            }
+        ],
+        "status": "Upcoming"
+    },
+    {
+        "id": "319792",
+        "teams": [
+            {
+                "name": "Bilibili Gaming"
+            },
+            {
+                "name": "FunPlus Phoenix"
+            }
+        ],
+        "status": "Upcoming"
+    },
+    {
+        "id": "314651",
+        "teams": [
+            {
+                "name": "NRG Esports"
+            },
+            {
+                "name": "100 Thieves"
+            }
+        ],
+        "status": "Upcoming"
+    },
+    {
+        "id": "314652",
+        "teams": [
+            {
+                "name": "KR\u00dc Esports"
+            },
+            {
+                "name": "Leviat\u00e1n"
+            }
+        ],
+        "status": "Upcoming"
+    },
+    {
+        "id": "319793",
+        "teams": [
+            {
+                "name": "Nova Esports"
+            },
+            {
+                "name": "Titan Esports Club"
+            }
+        ],
+        "status": "Upcoming"
+    },
+    {
+        "id": "319794",
+        "teams": [
+            {
+                "name": "Trace Esports"
+            },
+            {
+                "name": "EDward Gaming"
+            }
+        ],
+        "status": "Upcoming"
+    },
+    {
+        "id": "314653",
+        "teams": [
+            {
+                "name": "Cloud9"
+            },
+            {
+                "name": "MIBR"
             }
         ],
         "status": "Upcoming"
