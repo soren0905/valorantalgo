@@ -20,8 +20,9 @@ def main():
         'C:/Users/soren/Projects/ValAlgo/scripts/functions/upcoming_matches.py',
         'C:/Users/soren/Projects/ValAlgo/scripts/functions/upcoming_players.py',
         'C:/Users/soren/Projects/ValAlgo/scripts/functions/all_map_stats.py',
+        'C:/Users/soren/Projects/ValAlgo/scripts/data collection/data_merge/combine_map_stats.py',
         'C:/Users/soren/Projects/ValAlgo/scripts/functions/upcoming_stats.py',
-        'C:/Users/soren/Projects/ValAlgo/scripts/functions/matches.py'
+        'C:/Users/soren/Projects/ValAlgo/scripts/functions/Matches_2.py'
     ]
 
     for script in scripts_to_run:

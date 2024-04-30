@@ -1,89 +1,5 @@
 [
     {
-        "id": "314648",
-        "teams": [
-            {
-                "name": "KR\u00dc Esports"
-            },
-            {
-                "name": "100 Thieves"
-            }
-        ],
-        "status": "LIVE"
-    },
-    {
-        "id": "334296",
-        "teams": [
-            {
-                "name": "FENNEL GC"
-            },
-            {
-                "name": "ZETA DIVISION GC"
-            }
-        ],
-        "status": "Upcoming"
-    },
-    {
-        "id": "325990",
-        "teams": [
-            {
-                "name": "Arena Internet Cafe"
-            },
-            {
-                "name": "JiJieHao"
-            }
-        ],
-        "status": "Upcoming"
-    },
-    {
-        "id": "324714",
-        "teams": [
-            {
-                "name": "MLT Esports"
-            },
-            {
-                "name": "Reckoning Esports"
-            }
-        ],
-        "status": "Upcoming"
-    },
-    {
-        "id": "334297",
-        "teams": [
-            {
-                "name": "Meteor"
-            },
-            {
-                "name": "DRX Changers"
-            }
-        ],
-        "status": "Upcoming"
-    },
-    {
-        "id": "325996",
-        "teams": [
-            {
-                "name": "JFT"
-            },
-            {
-                "name": "BOBO"
-            }
-        ],
-        "status": "Upcoming"
-    },
-    {
-        "id": "324715",
-        "teams": [
-            {
-                "name": "Orangutan"
-            },
-            {
-                "name": "Grayfox Esports"
-            }
-        ],
-        "status": "Upcoming"
-    },
-    {
         "id": "329331",
         "teams": [
             {
@@ -127,6 +43,42 @@
             },
             {
                 "name": "FUSION X"
+            }
+        ],
+        "status": "Upcoming"
+    },
+    {
+        "id": "334298",
+        "teams": [
+            {
+                "name": "ZETA DIVISION GC"
+            },
+            {
+                "name": "DRX Changers"
+            }
+        ],
+        "status": "Upcoming"
+    },
+    {
+        "id": "334299",
+        "teams": [
+            {
+                "name": "FENNEL GC"
+            },
+            {
+                "name": "Meteor"
+            }
+        ],
+        "status": "Upcoming"
+    },
+    {
+        "id": "325997",
+        "teams": [
+            {
+                "name": "Arena Internet Cafe"
+            },
+            {
+                "name": "JFT"
             }
         ],
         "status": "Upcoming"
@@ -427,6 +379,42 @@
             },
             {
                 "name": "MIBR"
+            }
+        ],
+        "status": "Upcoming"
+    },
+    {
+        "id": "314654",
+        "teams": [
+            {
+                "name": "G2 Esports"
+            },
+            {
+                "name": "LOUD"
+            }
+        ],
+        "status": "Upcoming"
+    },
+    {
+        "id": "326890",
+        "teams": [
+            {
+                "name": "Cruzados Esports Fem"
+            },
+            {
+                "name": "9z Team GC"
+            }
+        ],
+        "status": "Upcoming"
+    },
+    {
+        "id": "324813",
+        "teams": [
+            {
+                "name": "Barcelona eSports GC"
+            },
+            {
+                "name": "Akave Esports GC"
             }
         ],
         "status": "Upcoming"

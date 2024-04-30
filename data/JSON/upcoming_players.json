@@ -1,319 +1,6 @@
 [
     {
         "info": {
-            "name": "KR\u00dc Esports"
-        },
-        "players": [
-            {
-                "id": "2610",
-                "user": "Klaus"
-            },
-            {
-                "id": "2462",
-                "user": "keznit"
-            },
-            {
-                "id": "24007",
-                "user": "Shyy"
-            },
-            {
-                "id": "1311",
-                "user": "Melser"
-            },
-            {
-                "id": "8673",
-                "user": "heat"
-            }
-        ]
-    },
-    {
-        "info": {
-            "name": "100 Thieves"
-        },
-        "players": [
-            {
-                "id": "604",
-                "user": "Boostio"
-            },
-            {
-                "id": "3880",
-                "user": "bang"
-            },
-            {
-                "id": "4147",
-                "user": "Cryocells"
-            },
-            {
-                "id": "796",
-                "user": "eeiu"
-            },
-            {
-                "id": "601",
-                "user": "Asuna"
-            }
-        ]
-    },
-    {
-        "info": {
-            "name": "ZETA DIVISION GC"
-        },
-        "players": [
-            {
-                "id": "10653",
-                "user": "suzu"
-            },
-            {
-                "id": "39904",
-                "user": "SereNa"
-            },
-            {
-                "id": "39902",
-                "user": "UR"
-            },
-            {
-                "id": "29314",
-                "user": "Moco"
-            },
-            {
-                "id": "29316",
-                "user": "aco"
-            }
-        ]
-    },
-    {
-        "info": {
-            "name": "Arena Internet Cafe"
-        },
-        "players": [
-            {
-                "id": "22828",
-                "user": "MILKY"
-            },
-            {
-                "id": "31254",
-                "user": "FETA"
-            },
-            {
-                "id": "14170",
-                "user": "McKinley"
-            },
-            {
-                "id": "29821",
-                "user": "Sinaway"
-            },
-            {
-                "id": "31255",
-                "user": "BiggieCheese"
-            }
-        ]
-    },
-    {
-        "info": {
-            "name": "JiJieHao"
-        },
-        "players": [
-            {
-                "id": "5228",
-                "user": "Minimise"
-            },
-            {
-                "id": "6659",
-                "user": "Dragon"
-            },
-            {
-                "id": "1062",
-                "user": "LEW"
-            },
-            {
-                "id": "2993",
-                "user": "rDeeW"
-            },
-            {
-                "id": "1175",
-                "user": "signed"
-            }
-        ]
-    },
-    {
-        "info": {
-            "name": "MLT Esports"
-        },
-        "players": [
-            {
-                "id": "3269",
-                "user": "Antidote"
-            },
-            {
-                "id": "10203",
-                "user": "tesseract"
-            },
-            {
-                "id": "15443",
-                "user": "traNz"
-            },
-            {
-                "id": "13221",
-                "user": "azys"
-            },
-            {
-                "id": "12947",
-                "user": "rawfiul"
-            },
-            {
-                "id": "18704",
-                "user": "LeVi"
-            }
-        ]
-    },
-    {
-        "info": {
-            "name": "Reckoning Esports"
-        },
-        "players": [
-            {
-                "id": "12323",
-                "user": "RvK"
-            },
-            {
-                "id": "4089",
-                "user": "DOXZ3R"
-            },
-            {
-                "id": "10790",
-                "user": "LBY"
-            },
-            {
-                "id": "2252",
-                "user": "Anq"
-            },
-            {
-                "id": "30286",
-                "user": "karam1l"
-            }
-        ]
-    },
-    {
-        "info": {
-            "name": "JFT"
-        },
-        "players": [
-            {
-                "id": "31593",
-                "user": "kiss"
-            },
-            {
-                "id": "33714",
-                "user": "vina"
-            },
-            {
-                "id": "22814",
-                "user": "gloom"
-            },
-            {
-                "id": "31589",
-                "user": "murza"
-            },
-            {
-                "id": "26316",
-                "user": "raymen"
-            },
-            {
-                "id": "26310",
-                "user": "IKANA"
-            }
-        ]
-    },
-    {
-        "info": {
-            "name": "BOBO"
-        },
-        "players": [
-            {
-                "id": "1174",
-                "user": "Crunchy"
-            },
-            {
-                "id": "1176",
-                "user": "Nozz"
-            },
-            {
-                "id": "31629",
-                "user": "Muzz"
-            },
-            {
-                "id": "14539",
-                "user": "Mazuong"
-            },
-            {
-                "id": "29790",
-                "user": "Zauqk"
-            }
-        ]
-    },
-    {
-        "info": {
-            "name": "Orangutan"
-        },
-        "players": [
-            {
-                "id": "30693",
-                "user": "Makaveli"
-            },
-            {
-                "id": "3502",
-                "user": "Ri0"
-            },
-            {
-                "id": "5541",
-                "user": "tryst"
-            },
-            {
-                "id": "31371",
-                "user": "trinxty"
-            },
-            {
-                "id": "26376",
-                "user": "DcRulz"
-            },
-            {
-                "id": "20011",
-                "user": "saun"
-            }
-        ]
-    },
-    {
-        "info": {
-            "name": "Grayfox Esports"
-        },
-        "players": [
-            {
-                "id": "1745",
-                "user": "adrnking"
-            },
-            {
-                "id": "3639",
-                "user": "Hoax"
-            },
-            {
-                "id": "10758",
-                "user": "Kohliii"
-            },
-            {
-                "id": "27336",
-                "user": "Venka"
-            },
-            {
-                "id": "9263",
-                "user": "sayoo"
-            },
-            {
-                "id": "12320",
-                "user": "FOX"
-            }
-        ]
-    },
-    {
-        "info": {
             "name": "Legacy"
         },
         "players": [
@@ -417,6 +104,91 @@
             {
                 "id": "3157",
                 "user": "gaabxx"
+            }
+        ]
+    },
+    {
+        "info": {
+            "name": "ZETA DIVISION GC"
+        },
+        "players": [
+            {
+                "id": "10653",
+                "user": "suzu"
+            },
+            {
+                "id": "39904",
+                "user": "SereNa"
+            },
+            {
+                "id": "39902",
+                "user": "UR"
+            },
+            {
+                "id": "29314",
+                "user": "Moco"
+            },
+            {
+                "id": "29316",
+                "user": "aco"
+            }
+        ]
+    },
+    {
+        "info": {
+            "name": "Arena Internet Cafe"
+        },
+        "players": [
+            {
+                "id": "22828",
+                "user": "MILKY"
+            },
+            {
+                "id": "31254",
+                "user": "FETA"
+            },
+            {
+                "id": "14170",
+                "user": "McKinley"
+            },
+            {
+                "id": "29821",
+                "user": "Sinaway"
+            },
+            {
+                "id": "31255",
+                "user": "BiggieCheese"
+            }
+        ]
+    },
+    {
+        "info": {
+            "name": "JFT"
+        },
+        "players": [
+            {
+                "id": "31593",
+                "user": "kiss"
+            },
+            {
+                "id": "33714",
+                "user": "vina"
+            },
+            {
+                "id": "22814",
+                "user": "gloom"
+            },
+            {
+                "id": "31589",
+                "user": "murza"
+            },
+            {
+                "id": "26316",
+                "user": "raymen"
+            },
+            {
+                "id": "26310",
+                "user": "IKANA"
             }
         ]
     },
@@ -1739,6 +1511,60 @@
             {
                 "id": "651",
                 "user": "frz"
+            }
+        ]
+    },
+    {
+        "info": {
+            "name": "G2 Esports"
+        },
+        "players": [
+            {
+                "id": "3885",
+                "user": "valyn"
+            },
+            {
+                "id": "8402",
+                "user": "icy"
+            },
+            {
+                "id": "15500",
+                "user": "trent"
+            },
+            {
+                "id": "4581",
+                "user": "JonahP"
+            },
+            {
+                "id": "7873",
+                "user": "leaf"
+            }
+        ]
+    },
+    {
+        "info": {
+            "name": "LOUD"
+        },
+        "players": [
+            {
+                "id": "727",
+                "user": "saadhak"
+            },
+            {
+                "id": "1575",
+                "user": "Quick"
+            },
+            {
+                "id": "8447",
+                "user": "Less"
+            },
+            {
+                "id": "2408",
+                "user": "tuyz"
+            },
+            {
+                "id": "6193",
+                "user": "cauanzin"
             }
         ]
     }
